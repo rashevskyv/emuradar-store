@@ -127,6 +127,8 @@ def load_manual(path):
     for item in items:
         if not isinstance(item.get("repo"), str) or item["repo"].count("/") != 1:
             raise ValueError(f"manual.json: entry needs repo 'owner/name': {item!r}")
+        if not isinstance(item.get("disabled", False), bool):
+            raise ValueError(f"manual.json: 'disabled' must be true or false: {item!r}")
     return items
 
 
@@ -142,7 +144,10 @@ def build_catalog(readme_text, manual=()):
         by_repo[key] = row
     for item in manual:  # manual entries win over parsed ones, field by field
         key = item["repo"].lower()
-        extra = {k: v for k, v in item.items() if k != "name" and v not in (None, "")}
+        if item.get("disabled") is True:  # drop the row, parsed or not; nothing is added
+            by_repo.pop(key, None)
+            continue
+        extra = {k: v for k, v in item.items() if k not in ("name", "disabled") and v not in (None, "")}
         if key in by_repo:
             by_repo[key].update(extra)
         else:

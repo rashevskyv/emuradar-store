@@ -79,16 +79,23 @@ A package whose tag did not change and whose zip is still on release `store` is 
 ## Add a manual entry
 
 `manual.json` is a list. Every item needs `repo` (`owner/name`). Other keys are optional:
-`title`, `section`, `version_hint`, `description`, `details`, `icon`, `license`, `url`, `binary`, `author`.
+`title`, `section`, `version_hint`, `description`, `details`, `icon`, `license`, `url`, `binary`, `author`,
+and `disabled`.
 
 ```json
 [
-  {"repo": "someone/some-port", "title": "Some Port", "description": "Port of Some Game."}
+  {"repo": "someone/some-port", "title": "Some Port", "section": "PC", "description": "Port of Some Game."},
+  {"repo": "someone/unwanted-row", "disabled": true}
 ]
 ```
 
 A manual entry replaces the parsed fields of the same repo. A repo that is not in SwitchPorts is added.
 `name` cannot be set by hand. It comes from the repo name.
+
+`"disabled": true` drops the repo from `catalog.json`, so it leaves `repo.json` on the next run. The
+zip of a dropped package stays on release `store`; it is not deleted. `"disabled": false` has no effect.
+The rutracker bot adds rows with only `repo` (see the bot's `add_release.py`). A row it adds never
+changes `section` or `title` of a repo that SwitchPorts already lists.
 
 ## catalog.json
 

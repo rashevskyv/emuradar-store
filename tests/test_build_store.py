@@ -136,6 +136,25 @@ class RepoEntry(unittest.TestCase):
         self.assertEqual(entry["updated"], "")
 
 
+class ManualOnlyPackage(unittest.TestCase):
+    """A repo that only manual.json lists still becomes a port package with its fields."""
+
+    def test_manual_repo_becomes_port_package(self):
+        import catalog
+        cat = catalog.build_catalog("# SwitchPorts\n", [{"repo": "p/new-port", "section": "PC", "title": "New Port"}])
+        e = cat["entries"][0]
+        entry = bs.repo_entry(e, {"tag_name": "v1", "published_at": "2026-10-01T00:00:00Z"},
+                              10240, 2048, "md5", "/switch/new-port/new-port.nro", "u")
+        self.assertEqual((entry["category"], entry["name"], entry["title"], entry["author"]),
+                         ("port", "new-port", "New Port", "p"))
+        self.assertEqual(entry["description"], "Switch port: PC")
+
+    def test_disabled_manual_row_has_no_package(self):
+        import catalog
+        cat = catalog.build_catalog("# SwitchPorts\n", [{"repo": "p/new-port", "disabled": True}])
+        self.assertEqual(cat["entries"], [])
+
+
 class RangeReader(unittest.TestCase):
     """A local HTTP server with Range support; counts the bytes it sends."""
 

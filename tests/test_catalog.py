@@ -127,6 +127,27 @@ class Manual(unittest.TestCase):
             with self.assertRaises(ValueError):
                 catalog.load_manual(path)
 
+    def test_disabled_drops_a_readme_row(self):
+        cat = catalog.build_catalog(self.text, [{"repo": "o/thing", "disabled": True}])
+        self.assertEqual(cat["entries"], [])
+
+    def test_disabled_without_readme_row_adds_nothing(self):
+        cat = catalog.build_catalog(self.text, [{"repo": "p/ghost", "disabled": True}])
+        self.assertEqual([e["repo"] for e in cat["entries"]], ["o/thing"])
+
+    def test_disabled_false_keeps_row_and_is_not_copied(self):
+        cat = catalog.build_catalog(self.text, [{"repo": "O/Thing", "disabled": False, "title": "T"}])
+        self.assertEqual(cat["entries"][0]["title"], "T")
+        self.assertNotIn("disabled", cat["entries"][0])
+
+    def test_disabled_must_be_bool(self):
+        with tempfile.TemporaryDirectory() as d:
+            path = os.path.join(d, "manual.json")
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump([{"repo": "a/b", "disabled": "yes"}], f)
+            with self.assertRaises(ValueError):
+                catalog.load_manual(path)
+
     def test_output_is_sorted_and_stable(self):
         a = catalog.build_catalog(self.text, [{"repo": "z/last"}, {"repo": "a/first"}])
         b = catalog.build_catalog(self.text, [{"repo": "a/first"}, {"repo": "z/last"}])

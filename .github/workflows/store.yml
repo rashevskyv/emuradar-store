@@ -44,5 +44,6 @@ jobs:
             echo "no changes"
           else
             git commit -m "store: update catalog and repo.json"
+            git pull --rebase origin main   # the bot may have added a row to manual.json meanwhile
             git push
           fi
