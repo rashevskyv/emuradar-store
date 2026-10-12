@@ -20,6 +20,7 @@ import os
 import re
 import struct
 import subprocess
+import tarfile
 import sys
 import time
 import urllib.error
@@ -36,6 +37,7 @@ STORE_TAG = "store"
 STORE_TITLE = "Emu Radar Store packages"
 STORE_NOTES = "Rolling release with the package zips listed in repo.json. Written by the store workflow only."
 ARCHIVE_EXTS = (".7z", ".rar", ".tar", ".tgz", ".txz", ".zst", ".tar.gz", ".tar.xz", ".tar.bz2", ".tar.zst")
+ARCHIVE_LIMIT = 300 * 1024 * 1024         # largest .7z/.tar we download whole to take one .nro out
 FULL_DOWNLOAD_LIMIT = 80 * 1024 * 1024   # largest zip we download whole when Range is not supported
 RANGE_BLOCK = 256 * 1024                 # read-ahead for the remote zip reader
 MAX_WAIT = 120                           # longest we sleep for the API limit before stopping
@@ -79,6 +81,39 @@ def name_score(stem, repo, name):
     return 0
 
 
+UNPACK_EXTS = (".7z", ".tar", ".tgz", ".txz", ".tar.gz", ".tar.xz", ".tar.bz2")
+_ARCHIVE = {"url": None, "data": b""}   # the archive last downloaded, so listing and reading fetch it once
+
+
+def _archive_bytes(asset):
+    if _ARCHIVE["url"] != asset["browser_download_url"]:
+        if asset.get("size", 0) > ARCHIVE_LIMIT:
+            raise Skip(f"{asset['name']}: archive over {ARCHIVE_LIMIT // 1024 // 1024} MB")
+        _ARCHIVE["url"], _ARCHIVE["data"] = asset["browser_download_url"], download(asset["browser_download_url"])
+    return _ARCHIVE["data"]
+
+
+def archive_nros(asset):
+    """[(member, size)] of the .nro files in a .7z or .tar* asset."""
+    data = _archive_bytes(asset)
+    if asset["name"].lower().endswith(".7z"):
+        import py7zr
+        with py7zr.SevenZipFile(io.BytesIO(data)) as z:
+            return [(i.filename, i.uncompressed) for i in z.list() if not i.is_directory and i.filename.lower().endswith(".nro")]
+    with tarfile.open(fileobj=io.BytesIO(data)) as t:
+        return [(m.name, m.size) for m in t.getmembers() if m.isfile() and m.name.lower().endswith(".nro")]
+
+
+def archive_read(asset, member):
+    data = _archive_bytes(asset)
+    if asset["name"].lower().endswith(".7z"):
+        import py7zr
+        with py7zr.SevenZipFile(io.BytesIO(data)) as z:
+            return z.read([member])[member].read()
+    with tarfile.open(fileobj=io.BytesIO(data)) as t:
+        return t.extractfile(member).read()
+
+
 def pick_source(assets, repo, name, open_zip):
     """Choose the .nro to ship. Returns (asset, member, size); member is None for a bare .nro.
 
@@ -103,10 +138,19 @@ def pick_source(assets, repo, name, open_zip):
             except zipfile.BadZipFile:
                 errors.append(f"{a['name']}: not a valid zip")
     if not cands:
-        if zips:
-            raise Skip("; ".join(errors) or "no .nro inside the .zip assets")
+        for a in assets:
+            if a["name"].lower().endswith(UNPACK_EXTS):
+                try:
+                    cands += [(a, m, size) for m, size in archive_nros(a)]
+                except Skip as e:
+                    errors.append(str(e))
+                except Exception as e:  # a broken archive must not stop the run
+                    errors.append(f"{a['name']}: cannot read ({type(e).__name__})")
+    if not cands:
+        if zips or errors:
+            raise Skip("; ".join(errors) or "no .nro inside the archive assets")
         if any(a["name"].lower().endswith(ARCHIVE_EXTS) for a in assets):
-            raise Skip("only archive assets (.7z/.rar/.tar): the Hub cannot unpack them")
+            raise Skip("only .rar/.zst archives: not supported")
         raise Skip("no .nro or .zip asset")
     cands.sort(key=lambda c: (-name_score(_stem(c), repo, name), -c[2], c[0]["name"], c[1] or ""))
     return cands[0]
@@ -335,6 +379,8 @@ def open_remote_zip(asset):
 def fetch_nro(asset, member, open_zip):
     if member is None:
         return download(asset["browser_download_url"])
+    if asset["name"].lower().endswith(UNPACK_EXTS):
+        return archive_read(asset, member)
     with open_zip(asset) as zf:
         return zf.read(member)
 

@@ -51,10 +51,25 @@ class Picking(unittest.TestCase):
         a, member, _ = bs.pick_source([asset("all.zip")], "o/other", "other", fake_open(blobs))
         self.assertEqual(member, "zzz.nro")
 
-    def test_archives_are_skipped_with_reason(self):
+    def test_unsupported_archives_are_skipped_with_reason(self):
         with self.assertRaises(bs.Skip) as cm:
-            bs.pick_source([asset("game-linux.tar.gz"), asset("port.7z")], "o/p", "p", fake_open({}))
-        self.assertIn("archive", str(cm.exception))
+            bs.pick_source([asset("port.rar")], "o/p", "p", fake_open({}))
+        self.assertIn("not supported", str(cm.exception))
+
+    def test_tar_and_7z_archives_give_their_nro(self):
+        import io
+        import tarfile
+        buf = io.BytesIO()
+        with tarfile.open(fileobj=buf, mode="w:gz") as t:
+            info = tarfile.TarInfo("dir/game.nro")
+            info.size = 3
+            t.addfile(info, io.BytesIO(b"abc"))
+        a = asset("game.tar.gz")
+        a["browser_download_url"] = "http://x/game.tar.gz"
+        bs._ARCHIVE.update(url=a["browser_download_url"], data=buf.getvalue())
+        got = bs.pick_source([a], "o/p", "game", fake_open({}))
+        self.assertEqual(got[1], "dir/game.nro")
+        self.assertEqual(bs.fetch_nro(a, got[1], fake_open({})), b"abc")
 
     def test_zip_without_nro_reason(self):
         blobs = {"src.zip": make_zip({"main.cpp": b"int main(){}"})}

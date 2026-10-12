@@ -24,8 +24,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install Pillow (icons are stored as PNG)
-        run: pip install pillow
+      - name: Install Pillow (icons) and py7zr (.7z archives)
+        run: pip install pillow py7zr
 
       - name: Build catalog.json from the SwitchPorts README
         run: python catalog.py
