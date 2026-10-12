@@ -1,0 +1,47 @@
+[
+ {
+  "name": "d3hack",
+  "repo": "god-jester/d3hack",
+  "reason": "no .nro inside the .zip assets"
+ },
+ {
+  "name": "dunelegacy",
+  "repo": "carstene1ns/dunelegacy",
+  "reason": "no published release"
+ },
+ {
+  "name": "ghostship",
+  "repo": "HarbourMasters/Ghostship",
+  "reason": "no .nro inside the .zip assets"
+ },
+ {
+  "name": "lbdcsh_nx",
+  "repo": "NaGaa95/lbdcsh_nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "sm",
+  "repo": "snesrev/sm",
+  "reason": "no published release"
+ },
+ {
+  "name": "spaghettikart",
+  "repo": "HarbourMasters/SpaghettiKart",
+  "reason": "no .nro inside the .zip assets"
+ },
+ {
+  "name": "wmw_nx",
+  "repo": "ChanseyIsTheBest/wmw_nx",
+  "reason": "only archive assets (.7z/.rar/.tar): the Hub cannot unpack them"
+ },
+ {
+  "name": "xash3d-fwgs",
+  "repo": "FWGS/xash3d-fwgs",
+  "reason": "only archive assets (.7z/.rar/.tar): the Hub cannot unpack them"
+ },
+ {
+  "name": "zelda3",
+  "repo": "snesrev/zelda3",
+  "reason": "no .nro inside the .zip assets"
+ }
+]
