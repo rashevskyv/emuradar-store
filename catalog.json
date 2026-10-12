@@ -81,6 +81,13 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "burnout3-sw",
+      "title": "Burnout 3: Takedown",
+      "repo": "antoxa2584x/burnout3-sw",
+      "section": "Xbox",
+      "version_hint": ""
+    },
+    {
       "name": "cemu-nx",
       "title": "Cemu",
       "repo": "NaGaa95/Cemu-nx",
