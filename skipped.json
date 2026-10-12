@@ -1,5 +1,30 @@
 [
  {
+  "name": "borealis",
+  "repo": "PalindromicBreadLoaf/borealis",
+  "reason": "no published release"
+ },
+ {
+  "name": "bully_nx",
+  "repo": "NaGaa95/bully_nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "carafe",
+  "repo": "carafe-nx/carafe",
+  "reason": "no .nro or .zip asset"
+ },
+ {
+  "name": "castlevania-revamped-open-source-edition-switch",
+  "repo": "delsonazevedo/Castlevania-ReVamped-Open-Source-Edition-Switch",
+  "reason": "no published release"
+ },
+ {
+  "name": "chanseyisthebest-mesa-switch",
+  "repo": "ChanseyIsTheBest/mesa-switch",
+  "reason": "no published release"
+ },
+ {
   "name": "d3hack",
   "repo": "god-jester/d3hack",
   "reason": "no .nro inside the archive assets"
@@ -10,13 +35,173 @@
   "reason": "no published release"
  },
  {
+  "name": "dynarmic-nx",
+  "repo": "PalindromicBreadLoaf/dynarmic-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "eos-pro",
+  "repo": "NaGaa95/EOS-Pro",
+  "reason": "no published release"
+ },
+ {
+  "name": "fpslocker",
+  "repo": "ChanseyIsTheBest/FPSLocker",
+  "reason": "no published release"
+ },
+ {
+  "name": "futari-nx-installer",
+  "repo": "ChanseyIsTheBest/futari-nx-installer",
+  "reason": "no published release"
+ },
+ {
+  "name": "fzerox",
+  "repo": "PalindromicBreadLoaf/fzerox",
+  "reason": "no published release"
+ },
+ {
+  "name": "genshinimpact_nx",
+  "repo": "NaGaa95/genshinimpact_nx",
+  "reason": "no published release"
+ },
+ {
   "name": "ghostship",
   "repo": "HarbourMasters/Ghostship",
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "hekate-pro",
+  "repo": "NaGaa95/hekate-pro",
+  "reason": "only .rar/.zst archives: not supported"
+ },
+ {
+  "name": "ipswitch-megamix-patches",
+  "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
+  "reason": "no published release"
+ },
+ {
+  "name": "l4t-megascript",
+  "repo": "NaGaa95/L4T-Megascript",
+  "reason": "no published release"
+ },
+ {
+  "name": "l4t-oc-kernel",
+  "repo": "NaGaa95/L4T-OC-Kernel",
+  "reason": "only .rar/.zst archives: not supported"
+ },
+ {
   "name": "lbdcsh_nx",
   "repo": "NaGaa95/lbdcsh_nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "libultraship-switch",
+  "repo": "PalindromicBreadLoaf/libultraship-switch",
+  "reason": "no published release"
+ },
+ {
+  "name": "lineageos-oc-nx_tab",
+  "repo": "NaGaa95/LineageOS-OC-nx_tab",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "lsfg-nx",
+  "repo": "PalindromicBreadLoaf/lsfg-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "n64modernruntime-nx",
+  "repo": "PalindromicBreadLoaf/N64ModernRuntime-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "nagaa95-mesa-switch",
+  "repo": "NaGaa95/mesa-switch",
+  "reason": "no published release"
+ },
+ {
+  "name": "nagaa95-wine-nx",
+  "repo": "NaGaa95/wine-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "nextbeans",
+  "repo": "PalindromicBreadLoaf/NeXtBeans",
+  "reason": "no published release"
+ },
+ {
+  "name": "nojme",
+  "repo": "corax89/noJMe",
+  "reason": "no published release"
+ },
+ {
+  "name": "nwn2-switch-lan",
+  "repo": "AnDyQnn/nwn2-switch-lan",
+  "reason": "no published release"
+ },
+ {
+  "name": "nx-60fps-res-gfx-cheats",
+  "repo": "ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats",
+  "reason": "no published release"
+ },
+ {
+  "name": "nx-ips-romfs-compilation",
+  "repo": "ChanseyIsTheBest/NX-IPS-romfs-compilation",
+  "reason": "no published release"
+ },
+ {
+  "name": "nxvk",
+  "repo": "PalindromicBreadLoaf/nxvk",
+  "reason": "no published release"
+ },
+ {
+  "name": "picofly-pro-cfw",
+  "repo": "NaGaa95/Picofly-Pro-CFW",
+  "reason": "no published release"
+ },
+ {
+  "name": "plume-nx",
+  "repo": "PalindromicBreadLoaf/plume-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "ristretto",
+  "repo": "PalindromicBreadLoaf/ristretto",
+  "reason": "no published release"
+ },
+ {
+  "name": "rpcs3-nx",
+  "repo": "NaGaa95/rpcs3-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "rpcs3nx",
+  "repo": "PalindromicBreadLoaf/rpcs3nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "rt64",
+  "repo": "PalindromicBreadLoaf/rt64",
+  "reason": "no published release"
+ },
+ {
+  "name": "sa2-nx-installer",
+  "repo": "ChanseyIsTheBest/sa2-nx-installer",
+  "reason": "no published release"
+ },
+ {
+  "name": "saltynx",
+  "repo": "ChanseyIsTheBest/SaltyNX",
+  "reason": "no published release"
+ },
+ {
+  "name": "shield-l4t-initramfs",
+  "repo": "NaGaa95/shield-l4t-initramfs",
+  "reason": "no published release"
+ },
+ {
+  "name": "shield-l4t-kernel-4-9",
+  "repo": "NaGaa95/shield-l4t-kernel-4.9",
   "reason": "no published release"
  },
  {
@@ -28,6 +213,76 @@
   "name": "spaghettikart",
   "repo": "HarbourMasters/SpaghettiKart",
   "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "spidermonkey-nx",
+  "repo": "souldbminerr/spidermonkey-NX",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-l4t-kernel-4-9",
+  "repo": "NaGaa95/switch-l4t-kernel-4.9",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-l4t-kernel-build-scripts",
+  "repo": "NaGaa95/switch-l4t-kernel-build-scripts",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-l4t-kernel-nvgpu",
+  "repo": "NaGaa95/switch-l4t-kernel-nvgpu",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-l4t-kernel-nvidia",
+  "repo": "NaGaa95/switch-l4t-kernel-nvidia",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-l4t-platform-t210-nx",
+  "repo": "NaGaa95/switch-l4t-platform-t210-nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "switch-store-releases",
+  "repo": "HayatoG/switch-store-releases",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "switchports",
+  "repo": "ChanseyIsTheBest/SwitchPorts",
+  "reason": "no published release"
+ },
+ {
+  "name": "switchu",
+  "repo": "HayatoG/SwitchU",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "switchwakerhd",
+  "repo": "centollOS/SwitchWakerHD",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "tailscale-nx",
+  "repo": "UnderwaterOverground/tailscale-nx",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "tico-melonds",
+  "repo": "ticohq/tico-melonds",
+  "reason": "no published release"
+ },
+ {
+  "name": "tico-tresdeesse",
+  "repo": "ticohq/tico-tresdeesse",
+  "reason": "no published release"
+ },
+ {
+  "name": "uam",
+  "repo": "PalindromicBreadLoaf/uam",
+  "reason": "no published release"
  },
  {
   "name": "zelda3",
