@@ -11,11 +11,35 @@
       "version_hint": "R28-NX1"
     },
     {
+      "name": "a8retry_nx",
+      "title": "Asphalt 8: Retry",
+      "repo": "aks796/a8retry_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "abc_nx",
       "title": "After Burner Climax",
       "repo": "NaGaa95/abc_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "abforever_nx",
+      "title": "AB Forever",
+      "repo": "aks796/abforever_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "abspace_nx",
+      "title": "Angry Birds Space HD",
+      "repo": "aks796/abspace_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "acpc_nx",
@@ -39,6 +63,14 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "angrybirdsjourney_nx",
+      "title": "Angry Birds Journey",
+      "repo": "NaGaa95/angrybirdsjourney_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "aom_nx",
       "title": "Adventures of Mana",
       "repo": "NaGaa95/aom_nx",
@@ -46,11 +78,20 @@
       "version_hint": "1.0.3"
     },
     {
-      "name": "armsx2-nx",
-      "title": "ARMSX2",
-      "repo": "PalindromicBreadLoaf/ARMSX2-NX",
-      "section": "Emulators",
-      "version_hint": "2.0.0"
+      "name": "atmosphere-pro",
+      "title": "Atmosphere",
+      "repo": "NaGaa95/Atmosphere-Pro",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "autorunhq-autorun",
+      "title": "Wine-NX",
+      "repo": "autorunhq/autorun",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "badpiggies_nx",
@@ -60,11 +101,83 @@
       "version_hint": "1.0.3"
     },
     {
+      "name": "baldi_nx",
+      "title": "baldi",
+      "repo": "ChanseyIsTheBest/baldi_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "bananakong_nx",
+      "title": "Banana Kong",
+      "repo": "ChanseyIsTheBest/bananakong_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "battd_nx",
+      "title": "Bloons Adventure Time TD",
+      "repo": "ChanseyIsTheBest/battd_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "battleship-switch",
+      "title": "BattleShip",
+      "repo": "delsonazevedo/BattleShip-Switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "bloons_pop_nx",
+      "title": "Bloons Pop!",
+      "repo": "ChanseyIsTheBest/bloons_pop_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "borealis",
+      "title": "Borealis",
+      "repo": "PalindromicBreadLoaf/borealis",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "bouncemasters_nx",
+      "title": "Bouncemasters",
+      "repo": "ChanseyIsTheBest/bouncemasters_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "bs_joyride_nx",
+      "title": "BombSquad: Joyride Modpack",
+      "repo": "aks796/bs_joyride_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "btd5_nx",
       "title": "Bloons TD 5 Mobile",
       "repo": "ChanseyIsTheBest/btd5_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "bully_nx",
+      "title": "Bully NX",
+      "repo": "NaGaa95/bully_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "burgershop2_nx",
@@ -88,11 +201,74 @@
       "version_hint": ""
     },
     {
+      "name": "carafe",
+      "title": "Carafe",
+      "repo": "carafe-nx/carafe",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "castlevania-revamped-open-source-edition-switch",
+      "title": "Castlevania: ReVamped - Open Source Edition",
+      "repo": "delsonazevedo/Castlevania-ReVamped-Open-Source-Edition-Switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "celeste64-switch",
+      "title": "Celeste 64",
+      "repo": "delsonazevedo/Celeste64-Switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "cemu-nx",
       "title": "Cemu",
       "repo": "NaGaa95/Cemu-nx",
       "section": "Emulators",
       "version_hint": "1.1.0"
+    },
+    {
+      "name": "chanseyisthebest-marathonrecomp-nx",
+      "title": "MarathonRecomp",
+      "repo": "ChanseyIsTheBest/MarathonRecomp-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "chanseyisthebest-mesa-switch",
+      "title": "Mesa",
+      "repo": "ChanseyIsTheBest/mesa-switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "chanseyisthebest-unleashedrecomp-nx",
+      "title": "UnleashedRecomp",
+      "repo": "ChanseyIsTheBest/UnleashedRecomp-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "chatnx",
+      "title": "ChatNX",
+      "repo": "souldbminerr/ChatNX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "chaykaded-silent-hill-decomp-nx",
+      "title": "Silent Hill",
+      "repo": "ChaykaDed/silent-hill-decomp-nx",
+      "section": "PC",
+      "version_hint": "1.0.0"
     },
     {
       "name": "chocolate-doom-nx",
@@ -158,6 +334,30 @@
       "version_hint": "1.1.0"
     },
     {
+      "name": "ctr2_nx",
+      "title": "Cut the Rope 2",
+      "repo": "NaGaa95/ctr2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "ctr_nx",
+      "title": "Cut the Rope",
+      "repo": "NaGaa95/ctr_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "d-smile_nx",
+      "title": "D.Smile",
+      "repo": "1timewire1/D.Smile_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "d3hack",
       "title": "~~Diablo III~~",
       "repo": "god-jester/d3hack",
@@ -165,11 +365,83 @@
       "version_hint": "~~3.1~~"
     },
     {
+      "name": "daggerfall_nx",
+      "title": "Daggerfall Unity",
+      "repo": "ChanseyIsTheBest/daggerfall_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "danfromtico-autorun",
+      "title": "Autorun",
+      "repo": "danfromtico/autorun",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "danfromtico-wine-nx",
+      "title": "Wine-NX",
+      "repo": "danfromtico/wine-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "datadefense_nx",
+      "title": "Data Defense",
+      "repo": "ChanseyIsTheBest/datadefense_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "dbipatcher",
+      "title": "DBIPatcher",
+      "repo": "rashevskyv/DBIPatcher",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "dcr_sea_nx",
+      "title": "Disney Crossy Road",
+      "repo": "aks796/dcr_sea_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "defjam-sw",
+      "title": "Def Jam: Fight for NY",
+      "repo": "R-drg/defjam-sw",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "dekopon",
       "title": "Dekopon",
       "repo": "PalindromicBreadLoaf/dekopon",
       "section": "Emulators",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "delsonazevedo-starship",
+      "title": "Starship",
+      "repo": "delsonazevedo/Starship",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "derildx-silent-hill-decomp-nx",
+      "title": "Silent Hill",
+      "repo": "DerilDX/silent-hill-decomp-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "dethrace-switch",
@@ -191,6 +463,14 @@
       "repo": "lantus/devilution-nx",
       "section": "PC",
       "version_hint": "0.95b"
+    },
+    {
+      "name": "dkc1recomp-nx",
+      "title": "Donkey Kong Country — DKC1Recomp-NX",
+      "repo": "souldbminerr/DKC1Recomp-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "docklight",
@@ -228,6 +508,14 @@
       "version_hint": "PR 2"
     },
     {
+      "name": "dukedashington_nx",
+      "title": "Duke Dashington Remastered",
+      "repo": "ChanseyIsTheBest/dukedashington_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "dunelegacy",
       "title": "Dune Legacy (Dune II)",
       "repo": "carstene1ns/dunelegacy",
@@ -240,6 +528,22 @@
       "repo": "HayatoG/dusklight",
       "section": "GameCube",
       "version_hint": "1.4.3"
+    },
+    {
+      "name": "dynarmic-nx",
+      "title": "dynarmic",
+      "repo": "PalindromicBreadLoaf/dynarmic-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "eos-pro",
+      "title": "EOS-Pro",
+      "repo": "NaGaa95/EOS-Pro",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "fallout-ce-switch",
@@ -305,11 +609,67 @@
       "version_hint": "1.1.17"
     },
     {
+      "name": "flappybirdsfamily_nx",
+      "title": "Flappy Birds Family",
+      "repo": "aks796/flappybirdsfamily_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "flashnx",
+      "title": "FlashNX",
+      "repo": "Jonathan8520/FlashNX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "fpslocker",
+      "title": "Fpslocker",
+      "repo": "ChanseyIsTheBest/FPSLocker",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "freespace2_nx",
       "title": "Freespace 2",
       "repo": "NaGaa95/freespace2_nx",
       "section": "PC",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "fruitninjaclassic_nx",
+      "title": "fruitninjaclassic",
+      "repo": "ChanseyIsTheBest/fruitninjaclassic_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "futari-nx",
+      "title": "Mushihimesama Futari Ver 1.5",
+      "repo": "ChanseyIsTheBest/futari-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "futari-nx-installer",
+      "title": "Futari Installer",
+      "repo": "ChanseyIsTheBest/futari-nx-installer",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "fzerox",
+      "title": "fzerox",
+      "repo": "PalindromicBreadLoaf/fzerox",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "gdash_nx",
@@ -326,11 +686,35 @@
       "version_hint": "0.1.68"
     },
     {
+      "name": "genshinimpact_nx",
+      "title": "Genshin Impact",
+      "repo": "NaGaa95/genshinimpact_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "ghostship",
       "title": "Super Mario 64",
       "repo": "HarbourMasters/Ghostship",
       "section": "Nintendo 64",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "goldenballoon_nx",
+      "title": "Golden Balloon",
+      "repo": "boraeskicioglu/goldenballoon_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "green-nx",
+      "title": "green-nx",
+      "repo": "rmrf404/green-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "gtactw_nx",
@@ -340,18 +724,58 @@
       "version_hint": "1.0.1"
     },
     {
-      "name": "gtalcs_nx",
-      "title": "Grand Theft Auto Liberty City Stories",
-      "repo": "NaGaa95/gtalcs_nx",
-      "section": "Android",
-      "version_hint": "1.0.3"
-    },
-    {
       "name": "gtasa_nx",
       "title": "Grand Theft Auto San Andreas",
       "repo": "NaGaa95/gtasa_nx",
       "section": "Android",
       "version_hint": "1.0.2"
+    },
+    {
+      "name": "gzdoom-nx-modern",
+      "title": "GZDoom NX Modern",
+      "repo": "Thorhax/GZDoom-NX-Modern",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "happywheels_nx",
+      "title": "Happy Wheels",
+      "repo": "ChanseyIsTheBest/happywheels_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "harbourmasters-starship",
+      "title": "StarFox",
+      "repo": "HarbourMasters/Starship",
+      "section": "Nintendo 64",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "hayatog-armsx2-nx",
+      "title": "Armsx2 NX",
+      "repo": "HayatoG/ARMSX2-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "heartstar_nx",
+      "title": "Heart Star",
+      "repo": "ChanseyIsTheBest/heartstar_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "hekate-pro",
+      "title": "Hekate Pro",
+      "repo": "NaGaa95/hekate-pro",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "hitmango_nx",
@@ -375,11 +799,91 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "hotpursuitnx",
+      "title": "Hot Pursuit",
+      "repo": "PalindromicBreadLoaf/HotPursuitNX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "insaniquarium_nx",
+      "title": "Insaniquarium Deluxe",
+      "repo": "ChanseyIsTheBest/insaniquarium_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "ipswitch-megamix-patches",
+      "title": "Ipswitch Megamix Patches",
+      "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "jak-project-switch",
+      "title": "Jak Project",
+      "repo": "fildicio/jak-project-switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "jazz2",
+      "title": "Jazz² Resurrection",
+      "repo": "deathkiller/jazz2",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "jetpackjoyride_nx",
+      "title": "Jetpack Joyride",
+      "repo": "NaGaa95/jetpackjoyride_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "khux_nx",
       "title": "Kingdom Hearts Union χ Dark Road",
       "repo": "NaGaa95/KHUx_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "killerbean_nx",
+      "title": "Killer Bean Unleashed",
+      "repo": "ChanseyIsTheBest/killerbean_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "l4t-megascript",
+      "title": "L4t Megascript",
+      "repo": "NaGaa95/L4T-Megascript",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "l4t-oc-kernel",
+      "title": "L4T-OC-Kernel",
+      "repo": "NaGaa95/L4T-OC-Kernel",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "labyrinth2_nx",
+      "title": "Labyrinth 2",
+      "repo": "aks796/labyrinth2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "lainnx",
@@ -438,11 +942,51 @@
       "version_hint": "~~down~~"
     },
     {
+      "name": "legacyofdockness",
+      "title": "LegacyOfDockness",
+      "repo": "PalindromicBreadLoaf/LegacyOfDockness",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "libultraship-switch",
+      "title": "libultraship",
+      "repo": "PalindromicBreadLoaf/libultraship-switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "ligh_is_green",
+      "title": "Light is Green",
+      "repo": "elzerdodata/LIGH_IS_GREEN",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "lineageos-oc-nx_tab",
+      "title": "LineageOS OC",
+      "repo": "NaGaa95/LineageOS-OC-nx_tab",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "lnsor_nx",
       "title": "LEGO Ninjago Shadow of Ronin",
       "repo": "NaGaa95/lnsor_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "lsfg-nx",
+      "title": "lsfg",
+      "repo": "PalindromicBreadLoaf/lsfg-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "lswtcs_nx",
@@ -459,11 +1003,28 @@
       "version_hint": "1.0.1"
     },
     {
-      "name": "marathonrecomp-nx",
-      "title": "Sonic 2006 (MarathonRecomp)",
-      "repo": "NaGaa95/MarathonRecomp-NX",
-      "section": "PC",
-      "version_hint": "1.0.2"
+      "name": "lummm_nx",
+      "title": "Level UP: Mario's Minigames Mayhem",
+      "repo": "aks796/lummm_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "mari0-switch",
+      "title": "mari0",
+      "repo": "delsonazevedo/mari0-switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "masseffect-nx",
+      "title": "Mass Effect",
+      "repo": "nebadasSwifty/masseffect-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "max_nx_v2-1-131",
@@ -473,11 +1034,95 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "mbhaxe-switch",
+      "title": "MBHaxe",
+      "repo": "ChanseyIsTheBest/MBHaxe-Switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "mmxregenesis_nx",
+      "title": "Mega Man X Regenesis",
+      "repo": "StevensND/mmxregenesis_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "mulmash_nx",
+      "title": "MUL.MASH.TAB.BA.GAL.GAL",
+      "repo": "ChanseyIsTheBest/mulmash_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "n64modernruntime-nx",
+      "title": "N64ModernRuntime",
+      "repo": "PalindromicBreadLoaf/N64ModernRuntime-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nagaa95-gtalcs_nx",
+      "title": "Grand Theft Auto Liberty City Stories",
+      "repo": "NaGaa95/gtalcs_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "nagaa95-marathonrecomp-nx",
+      "title": "Sonic 2006 (MarathonRecomp)",
+      "repo": "NaGaa95/MarathonRecomp-NX",
+      "section": "PC",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "nagaa95-mesa-switch",
+      "title": "Mesa",
+      "repo": "NaGaa95/mesa-switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nagaa95-subwaysurfers_nx",
+      "title": "Subway Surfers",
+      "repo": "NaGaa95/subwaysurfers_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "nagaa95-unleashedrecomp-nx",
+      "title": "Sonic Unleashed",
+      "repo": "NaGaa95/UnleashedRecomp-NX",
+      "section": "Xbox 360",
+      "version_hint": "0.0.3"
+    },
+    {
+      "name": "nagaa95-wine-nx",
+      "title": "Wine",
+      "repo": "NaGaa95/wine-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "nbajam_nx",
       "title": "NBA Jam",
       "repo": "delsonazevedo/nbajam_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "nearchuckle_nx",
+      "title": "Far Cry (NearChuckle NX)",
+      "repo": "artslay/NearChuckle_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "nethersx2_nx",
@@ -487,11 +1132,139 @@
       "version_hint": "1.2.1"
     },
     {
+      "name": "nextbeans",
+      "title": "NeXtBeans",
+      "repo": "PalindromicBreadLoaf/NeXtBeans",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "nezumiiruka",
+      "title": "Porpoise",
+      "repo": "PalindromicBreadLoaf/nezumiiruka",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "nfsc-sw",
+      "title": "Need for Speed Carbon",
+      "repo": "antoxa2584x/nfsc-sw",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nfsmw-nx",
+      "title": "Need for Speed: Most Wanted",
+      "repo": "StevensND/nfsmw-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "nfsu1-sw",
+      "title": "Need for Speed Underground",
+      "repo": "antoxa2584x/nfsu1-sw",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nfsu2-sw",
+      "title": "Need for Speed: Underground 2",
+      "repo": "antoxa2584x/nfsu2-sw",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nojme",
+      "title": "noJMe",
+      "repo": "corax89/noJMe",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "nova3-nx",
+      "title": "N.O.V.A. 3",
+      "repo": "markaurel13/nova3-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nwn2-switch-lan",
+      "title": "Neverwinter Nights 2 EE — LAN patch",
+      "repo": "AnDyQnn/nwn2-switch-lan",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nx-60fps-res-gfx-cheats",
+      "title": "Nx 60Fps Res Gfx Cheats",
+      "repo": "ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nx-diffuser",
+      "title": "G-Diffuser",
+      "repo": "PalindromicBreadLoaf/NX-Diffuser",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nx-ips-romfs-compilation",
+      "title": "Nx Ips Romfs Compilation",
+      "repo": "ChanseyIsTheBest/NX-IPS-romfs-compilation",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "nx-pro-pack",
+      "title": "NX-Pro-Pack",
+      "repo": "NaGaa95/NX-Pro-Pack",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "nx-torrent-player",
+      "title": "NX-torrent-player",
+      "repo": "shodowlo/NX-torrent-player",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "nxvk",
+      "title": "nxvk",
+      "repo": "PalindromicBreadLoaf/nxvk",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "nzportable",
       "title": "Nazi Zombies: Portable",
       "repo": "nzp-team/nzportable",
       "section": "PC",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "openbor",
+      "title": "OpenBOR",
+      "repo": "delsonazevedo/openbor",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "openjazznx",
@@ -529,11 +1302,42 @@
       "version_hint": "1.1"
     },
     {
+      "name": "osmos_nx",
+      "title": "Osmos",
+      "repo": "ChanseyIsTheBest/osmos_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "palindromicbreadloaf-armsx2-nx",
+      "title": "ARMSX2",
+      "repo": "PalindromicBreadLoaf/ARMSX2-NX",
+      "section": "Emulators",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "papapear_nx",
+      "title": "Papa Pear Saga",
+      "repo": "ChanseyIsTheBest/papapear_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "papersplease_nx",
       "title": "Papers, Please",
       "repo": "ChanseyIsTheBest/papersplease_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "pcl_nx",
+      "title": "Pocket League Crystal",
+      "repo": "ChanseyIsTheBest/pcl_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "perfect_dark",
@@ -543,11 +1347,91 @@
       "version_hint": "???"
     },
     {
+      "name": "phigros_nx",
+      "title": "Phigros",
+      "repo": "ChanseyIsTheBest/phigros_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "picofly-pro-cfw",
+      "title": "Picofly Pro CFW",
+      "repo": "NaGaa95/Picofly-Pro-CFW",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "pipensx",
+      "title": "PipenSX",
+      "repo": "i3sey/pipensx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "plume-nx",
+      "title": "plume",
+      "repo": "PalindromicBreadLoaf/plume-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "poinpy_nx",
+      "title": "POINPY",
+      "repo": "ChanseyIsTheBest/poinpy_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "poorbunny_nx",
+      "title": "Poor Bunny!",
+      "repo": "ChanseyIsTheBest/poorbunny_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "porpoise",
+      "title": "porpoise",
+      "repo": "PalindromicBreadLoaf/porpoise",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "ppsspp-nx",
+      "title": "PPSSPP",
+      "repo": "NaGaa95/ppsspp-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "ppsspp-switch-community-build",
       "title": "PPSSPP",
       "repo": "SirSamael/ppsspp-switch-community-build",
       "section": "Emulators",
       "version_hint": "0.6.0"
+    },
+    {
+      "name": "projectcane",
+      "title": "Sly Cooper and the Thievius Raccoonus — ProjectCane",
+      "repo": "NaGaa95/ProjectCane",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "pvs_nx",
+      "title": "Pizza Vs. Skeletons",
+      "repo": "ChanseyIsTheBest/pvs_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "pvz-portable",
@@ -562,6 +1446,22 @@
       "repo": "ChanseyIsTheBest/pvz_fusion_en_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "pvz_touch_nx",
+      "title": "Plants vs. Zombies: Touch",
+      "repo": "aks796/pvz_touch_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "pvz_ultimate_nx",
+      "title": "Plants vs. Zombies Ultimate",
+      "repo": "ChanseyIsTheBest/pvz_ultimate_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "raikopon",
@@ -585,11 +1485,115 @@
       "version_hint": "4.0.2"
     },
     {
+      "name": "revolt_nx",
+      "title": "Re-Volt",
+      "repo": "ChanseyIsTheBest/revolt_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "rhythm-hero-nx",
+      "title": "Rhythm Hero NX",
+      "repo": "Alexandre-Ale/Rhythm-Hero-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "ristretto",
+      "title": "Ristretto",
+      "repo": "PalindromicBreadLoaf/ristretto",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "rpcs3-nx",
+      "title": "rpcs3",
+      "repo": "NaGaa95/rpcs3-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "rpcs3nx",
+      "title": "RPCS3",
+      "repo": "PalindromicBreadLoaf/rpcs3nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "rt64",
+      "title": "RT64",
+      "repo": "PalindromicBreadLoaf/rt64",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "s4ep2-nx",
       "title": "Sonic 4 Episode 2",
       "repo": "boraeskicioglu/s4ep2-nx",
       "section": "Android",
       "version_hint": "0.1"
+    },
+    {
+      "name": "sa2-nx",
+      "title": "Sonic Adventure 2",
+      "repo": "ChanseyIsTheBest/sa2-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sa2-nx-installer",
+      "title": "Sonic Adventure 2 Installer",
+      "repo": "ChanseyIsTheBest/sa2-nx-installer",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "saltynx",
+      "title": "Saltynx",
+      "repo": "ChanseyIsTheBest/SaltyNX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sandboxels-nx",
+      "title": "Sandboxels NX",
+      "repo": "souldbminerr/sandboxels-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sh2-nx",
+      "title": "Silent Hill 2 — sh2-nx",
+      "repo": "cutarev/sh2-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "shield-l4t-initramfs",
+      "title": "shield-l4t-initramfs",
+      "repo": "NaGaa95/shield-l4t-initramfs",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "shield-l4t-kernel-4-9",
+      "title": "shield-l4t-kernel",
+      "repo": "NaGaa95/shield-l4t-kernel-4.9",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "shipwright-switch",
@@ -599,13 +1603,6 @@
       "version_hint": "9.2.3"
     },
     {
-      "name": "silent-hill-decomp-nx",
-      "title": "Silent Hill",
-      "repo": "ChaykaDed/silent-hill-decomp-nx",
-      "section": "PC",
-      "version_hint": "1.0.0"
-    },
-    {
       "name": "sm",
       "title": "Super Metroid",
       "repo": "snesrev/sm",
@@ -613,11 +1610,115 @@
       "version_hint": "n/a"
     },
     {
+      "name": "sm127_nx",
+      "title": "Super Mario 127",
+      "repo": "aks796/sm127_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sm63redux_nx",
+      "title": "Super Mario 63 Redux",
+      "repo": "aks796/sm63redux_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "smk2_nx",
+      "title": "Bloons Super Monkey 2",
+      "repo": "ChanseyIsTheBest/smk2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "sonic-cd-11-decompilation",
       "title": "Sonic CD",
       "repo": "heyjoeway/Sonic-CD-11-Decompilation",
       "section": "PC",
       "version_hint": "1.3.0"
+    },
+    {
+      "name": "sonic_advance2_nx",
+      "title": "Sonic Advance 2",
+      "repo": "boraeskicioglu/sonic_advance2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonic_allstars_nx",
+      "title": "Sonic & Sega All-Stars Racing",
+      "repo": "aks796/sonic_allstars_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonic_r_nx",
+      "title": "Sonic R",
+      "repo": "boraeskicioglu/sonic_r_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonic_runners_adventure_nx",
+      "title": "Sonic Runners Adventure",
+      "repo": "boraeskicioglu/sonic_runners_adventure_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonic_the_fighters_nx",
+      "title": "Sonic the Fighters",
+      "repo": "boraeskicioglu/sonic_the_fighters_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonicboomdash_nx",
+      "title": "Sonic Dash 2: Sonic Boom",
+      "repo": "ChanseyIsTheBest/sonicboomdash_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonicdash_nx",
+      "title": "Sonic Dash",
+      "repo": "ChanseyIsTheBest/sonicdash_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonicjump_nx",
+      "title": "Sonic Jump",
+      "repo": "ChanseyIsTheBest/sonicjump_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sonicjumpfever_nx",
+      "title": "Sonic Jump Fever",
+      "repo": "ChanseyIsTheBest/sonicjumpfever_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sorx_nx",
+      "title": "sorx",
+      "repo": "delsonazevedo/sorx_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "sotn_nx",
@@ -641,11 +1742,52 @@
       "version_hint": "1.0.0"
     },
     {
-      "name": "starship",
-      "title": "StarFox",
-      "repo": "HarbourMasters/Starship",
-      "section": "Nintendo 64",
-      "version_hint": "2.0.0"
+      "name": "sphaira",
+      "title": "sphaira",
+      "repo": "NaGaa95/sphaira",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "spiderman_total_mayhem_nx",
+      "title": "Ultimate Spider-Man: Total Mayhem HD",
+      "repo": "boraeskicioglu/spiderman_total_mayhem_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "spidermonkey-nx",
+      "title": "Spidermonkey NX",
+      "repo": "souldbminerr/spidermonkey-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "stevensnd-gtalcs_nx",
+      "title": "GTA: Liberty City Stories",
+      "repo": "StevensND/gtalcs_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "stevensnd-subwaysurfers_nx",
+      "title": "Subway Surfers",
+      "repo": "StevensND/subwaysurfers_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "sts2_nx",
+      "title": "sts2",
+      "repo": "ChanseyIsTheBest/sts2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "stt16bit_nx",
@@ -655,11 +1797,12 @@
       "version_hint": "1.0.0"
     },
     {
-      "name": "subwaysurfers_nx",
-      "title": "Subway Surfers",
-      "repo": "NaGaa95/subwaysurfers_nx",
-      "section": "Android",
-      "version_hint": "1.0.3"
+      "name": "super-mario-bros--remastered-switch",
+      "title": "Super Mario Bros. Remastered",
+      "repo": "delsonazevedo/Super-Mario-Bros.-Remastered-Switch",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "super-mario-world-remastered-plus-switch",
@@ -669,6 +1812,14 @@
       "version_hint": "*released*"
     },
     {
+      "name": "supermodel-nx",
+      "title": "Supermodel",
+      "repo": "toniisound/supermodel-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "swi-nx",
       "title": "Stick With It",
       "repo": "souldbminerr/swi-nx",
@@ -676,11 +1827,123 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "switch-l4t-kernel-4-9",
+      "title": "L4T Kernel 4.9",
+      "repo": "NaGaa95/switch-l4t-kernel-4.9",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switch-l4t-kernel-build-scripts",
+      "title": "switch-l4t-kernel-build-scripts",
+      "repo": "NaGaa95/switch-l4t-kernel-build-scripts",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "switch-l4t-kernel-nvgpu",
+      "title": "L4T Kernel NVGPU",
+      "repo": "NaGaa95/switch-l4t-kernel-nvgpu",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "switch-l4t-kernel-nvidia",
+      "title": "switch-l4t-kernel-nvidia",
+      "repo": "NaGaa95/switch-l4t-kernel-nvidia",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switch-l4t-platform-t210-nx",
+      "title": "switch-l4t-platform-t210-nx",
+      "repo": "NaGaa95/switch-l4t-platform-t210-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "switch-store-releases",
+      "title": "Switch Store Releases",
+      "repo": "HayatoG/switch-store-releases",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switchnow",
+      "title": "SwitchNOW",
+      "repo": "Blade-Punisher/SwitchNOW",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switchports",
+      "title": "SwitchPorts",
+      "repo": "ChanseyIsTheBest/SwitchPorts",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switchu",
+      "title": "SwitchU",
+      "repo": "HayatoG/SwitchU",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switchwaker",
+      "title": "The Legend of Zelda: The Wind Waker — SwitchWaker",
+      "repo": "centollOS/SwitchWaker",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "switchwakerhd",
+      "title": "The Legend of Zelda: The Wind Waker HD — SwitchWakerHD",
+      "repo": "centollOS/SwitchWakerHD",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "swordigo_nx",
       "title": "Swordigo",
       "repo": "NaGaa95/swordigo_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "tailscale-nx",
+      "title": "tailscale-nx",
+      "repo": "UnderwaterOverground/tailscale-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "tasm2_nx",
+      "title": "The Amazing Spider-Man 2",
+      "repo": "boraeskicioglu/tasm2_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "tegraburn-nx",
+      "title": "Tegraburn",
+      "repo": "NaGaa95/TegraBurn-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "tf2_nx",
@@ -697,11 +1960,59 @@
       "version_hint": "*released*"
     },
     {
+      "name": "the-legend-of-zelda-the-minish-cap-alek-s-ultimate-nx-edition",
+      "title": "The Legend of Zelda: The Minish Cap",
+      "repo": "Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "the-legend-of-zelda-twilight-princess-alek-s-ultimate-nx-edition",
+      "title": "The Legend of Zelda: Twilight Princess — Alek’s Ultimate NX Edition",
+      "repo": "Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "the-simpsons-game-nx",
+      "title": "The Simpsons Game",
+      "repo": "R-drg/the-simpsons-game-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "the-simpsons-hit-and-run",
       "title": "The Simpsons: Hit and Run",
       "repo": "ZenoArrows/The-Simpsons-Hit-and-Run",
       "section": "PC",
       "version_hint": "0.6.1"
+    },
+    {
+      "name": "the_executive_nx",
+      "title": "The Executive",
+      "repo": "ChanseyIsTheBest/the_executive_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "theroom4_nx",
+      "title": "theroom4",
+      "repo": "ChanseyIsTheBest/theroom4_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "theroomthree_nx",
+      "title": "The Room Three",
+      "repo": "ChanseyIsTheBest/theroomthree_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "tico",
@@ -711,11 +2022,147 @@
       "version_hint": "0.7.8"
     },
     {
+      "name": "tico-dolphin",
+      "title": "Tico Dolphin",
+      "repo": "ticohq/tico-dolphin",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-fbneo",
+      "title": "Tico Fbneo",
+      "repo": "ticohq/tico-fbneo",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-fceumm",
+      "title": "Tico Fceumm",
+      "repo": "ticohq/tico-fceumm",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "tico-flycast",
+      "title": "Tico Flycast",
+      "repo": "ticohq/tico-flycast",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-gambatte",
+      "title": "Tico Gambatte",
+      "repo": "ticohq/tico-gambatte",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-genesisplusgx",
+      "title": "Tico Genesisplusgx",
+      "repo": "ticohq/tico-genesisplusgx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-melonds",
+      "title": "Tico Melonds",
+      "repo": "ticohq/tico-melonds",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-mgba",
+      "title": "Tico Mgba",
+      "repo": "ticohq/tico-mgba",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-mupen64plus",
+      "title": "Tico Mupen64plus",
+      "repo": "ticohq/tico-mupen64plus",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-ppsspp",
+      "title": "Tico Ppsspp",
+      "repo": "ticohq/tico-ppsspp",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-snes9x",
+      "title": "Tico Snes9x",
+      "repo": "ticohq/tico-snes9x",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-swanstation",
+      "title": "Tico Swanstation",
+      "repo": "ticohq/tico-swanstation",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-tresdeesse",
+      "title": "Tico Tresdeesse",
+      "repo": "ticohq/tico-tresdeesse",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "tico-yabasanshiro",
+      "title": "Tico Yabasanshiro",
+      "repo": "ticohq/tico-yabasanshiro",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "tmc",
       "title": "The Legend of Zelda: The Minish Cap",
       "repo": "HayatoG/tmc",
       "section": "Gameboy Advance",
       "version_hint": "v0.25"
+    },
+    {
+      "name": "torchlight-nx",
+      "title": "Torchlight",
+      "repo": "liartes/torchlight-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "torrentshopnx",
+      "title": "TorrentShopNX",
+      "repo": "Langegen/TorrentShopNX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "totalpartykill_nx",
+      "title": "Total Party Kill",
+      "repo": "ChanseyIsTheBest/totalpartykill_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "tte_nx",
@@ -725,11 +2172,12 @@
       "version_hint": "1.0.0"
     },
     {
-      "name": "unleashedrecomp-nx",
-      "title": "Sonic Unleashed",
-      "repo": "NaGaa95/UnleashedRecomp-NX",
-      "section": "Xbox 360",
-      "version_hint": "0.0.3"
+      "name": "uam",
+      "title": "uam",
+      "repo": "PalindromicBreadLoaf/uam",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "vanilla-conquer",
@@ -744,6 +2192,14 @@
       "repo": "NaGaa95/vcmi_nx",
       "section": "PC",
       "version_hint": "1.8.0 R2"
+    },
+    {
+      "name": "vita3k-nx",
+      "title": "Vita3K",
+      "repo": "NaGaa95/Vita3K-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "emu"
     },
     {
       "name": "vln_nx",
@@ -807,6 +2263,30 @@
       "repo": "snesrev/zelda3",
       "section": "Super Nintendo Entertainment System",
       "version_hint": "0.3"
+    },
+    {
+      "name": "zeldaolb-new-engine",
+      "title": "Zelda Oni Link Begins",
+      "repo": "worthis/ZeldaOLB-new-engine",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "zerodroid",
+      "title": "ZERODROID",
+      "repo": "elzerdodata/ZERODROID",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "zombotron_nx",
+      "title": "Zombotron Re-Boot",
+      "repo": "StevensND/zombotron_nx",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "zookeeperdx_nx",

@@ -34,6 +34,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 API = "https://api.github.com"
 USER_AGENT = "emuradar-store-builder"
 CATEGORY = "port"
+CATEGORIES = ("port", "game", "emu", "tool", "advanced", "theme", "misc")   # manual.json may set one
 STORE_TAG = "store"
 STORE_TITLE = "Emu Radar Store packages"
 STORE_NOTES = "Rolling release with the package zips listed in repo.json. Written by the store workflow only."
@@ -186,7 +187,7 @@ def repo_entry(e, release, zip_len, nro_size, md5, binary, download):
     owner = e["repo"].split("/")[0]
     description = e.get("description") or (f"Switch port: {e['section']}" if e.get("section") else "Switch port")
     entry = {
-        "category": CATEGORY,
+        "category": e.get("category") if e.get("category") in CATEGORIES else CATEGORY,
         "name": e["name"],
         "title": e.get("title") or e["name"],
         "author": e.get("author") or owner,
