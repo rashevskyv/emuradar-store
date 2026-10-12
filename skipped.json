@@ -30,16 +30,6 @@
   "reason": "no .nro inside the archive assets"
  },
  {
-  "name": "wmw_nx",
-  "repo": "ChanseyIsTheBest/wmw_nx",
-  "reason": "error: AttributeError: 'SevenZipFile' object has no attribute 'read'"
- },
- {
-  "name": "xash3d-fwgs",
-  "repo": "FWGS/xash3d-fwgs",
-  "reason": "error: AttributeError: 'SevenZipFile' object has no attribute 'read'"
- },
- {
   "name": "zelda3",
   "repo": "snesrev/zelda3",
   "reason": "no .nro inside the archive assets"
