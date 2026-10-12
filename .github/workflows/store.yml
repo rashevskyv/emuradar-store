@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Pillow (icons are stored as PNG)
+        run: pip install pillow
+
       - name: Build catalog.json from the SwitchPorts README
         run: python catalog.py
 
@@ -36,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalog.json repo.json skipped.json
+          git add catalog.json repo.json skipped.json packages
           if git diff --cached --quiet; then
             echo "no changes"
           else

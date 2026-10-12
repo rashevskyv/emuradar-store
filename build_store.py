@@ -18,6 +18,7 @@ import io
 import json
 import os
 import re
+import struct
 import subprocess
 import sys
 import time
@@ -381,6 +382,51 @@ def upload(repo, paths):
     return failed
 
 
+# ---- icons ------------------------------------------------------------------------
+
+def nro_icon(nro):
+    """The JPEG icon stored after the NRO (ASET block), or None."""
+    if len(nro) < 0x20 or nro[0x10:0x14] != b"NRO0":
+        return None
+    a = struct.unpack_from("<I", nro, 0x18)[0]
+    if nro[a:a + 4] != b"ASET":
+        return None
+    off, size = struct.unpack_from("<QQ", nro, a + 8)
+    icon = nro[a + off:a + off + size]
+    return icon if size and icon[:2] == bytes([0xFF, 0xD8]) else None
+
+
+def write_icon(out_dir, name, nro):
+    """packages/<name>/icon.png, the path Kefir Hub requests. True when a file was written."""
+    jpg = nro_icon(nro)
+    if not jpg:
+        return False
+    path = os.path.join(out_dir, "packages", name, "icon.png")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    try:
+        from PIL import Image
+        Image.open(io.BytesIO(jpg)).convert("RGBA").save(path, "PNG", optimize=True)
+    except ImportError:  # Hub decodes by content, not by extension
+        with open(path, "wb") as f:
+            f.write(jpg)
+    return True
+
+
+def ensure_icon(out_dir, old):
+    """An already built package without an icon file: read it from its own store zip."""
+    name = old["name"]
+    if os.path.exists(os.path.join(out_dir, "packages", name, "icon.png")) or not old.get("download"):
+        return
+    try:
+        with zipfile.ZipFile(io.BytesIO(download(old["download"]))) as z:
+            for m in z.namelist():
+                if m.lower().endswith(".nro"):
+                    write_icon(out_dir, name, z.read(m))
+                    return
+    except Exception as ex:  # icons are cosmetic
+        print(f"  icon for {name}: {ex}", file=sys.stderr)
+
+
 # ---- run --------------------------------------------------------------------------
 
 def process_entry(e, old, store_repo, zips_dir, store_assets):
@@ -395,11 +441,13 @@ def process_entry(e, old, store_repo, zips_dir, store_assets):
     zip_path = os.path.join(zips_dir, f"{e['name']}.zip")
     have_zip = (f"{e['name']}.zip" in store_assets) if store_assets is not None else os.path.exists(zip_path)
     if old and old.get("version") == tag and old.get("download") and have_zip:
+        ensure_icon(os.path.dirname(zips_dir), old)
         return old, False
 
     asset, member, nro_size = pick_source(rel.get("assets") or [], e["repo"], e["name"], open_remote_zip)
     nro_name = os.path.basename(member or asset["name"])
     nro_bytes = fetch_nro(asset, member, open_remote_zip)
+    write_icon(os.path.dirname(zips_dir), e["name"], nro_bytes)
     zip_bytes, path = build_zip(e["name"], e.get("title", ""), tag, nro_name, nro_bytes)
     os.makedirs(zips_dir, exist_ok=True)
     with open(zip_path, "wb") as f:

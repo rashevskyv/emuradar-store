@@ -202,3 +202,15 @@ class RangeReader(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+def test_nro_icon_reads_aset_block():
+    import struct
+    import build_store as b
+    jpg = bytes([0xFF, 0xD8, 0xFF, 0xE0]) + b"icon"
+    body = bytearray(0x20)
+    body[0x10:0x14] = b"NRO0"
+    struct.pack_into("<I", body, 0x18, len(body))
+    aset = b"ASET" + bytes(4) + struct.pack("<QQ", 0x38, len(jpg)) + bytes(0x20) + jpg
+    assert b.nro_icon(bytes(body) + aset) == jpg
+    assert b.nro_icon(bytes(body)) is None
