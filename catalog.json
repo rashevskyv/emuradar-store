@@ -1,0 +1,812 @@
+{
+  "source": "https://raw.githubusercontent.com/ChanseyIsTheBest/SwitchPorts/main/README.md",
+  "rows_without_github_link": 1,
+  "duplicate_rows": 1,
+  "entries": [
+    {
+      "name": "0ad-switch",
+      "title": "0 A.D.",
+      "repo": "souldbminerr/0ad-switch",
+      "section": "PC",
+      "version_hint": "R28-NX1"
+    },
+    {
+      "name": "abc_nx",
+      "title": "After Burner Climax",
+      "repo": "NaGaa95/abc_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "acpc_nx",
+      "title": "Animal Crossing: Pocket Camp",
+      "repo": "NaGaa95/acpc_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "angrybirds2_nx",
+      "title": "Angry Birds 2",
+      "repo": "NaGaa95/angrybirds2_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "angrybirdsclassic_nx",
+      "title": "Angry Birds Classic",
+      "repo": "ChanseyIsTheBest/angrybirdsclassic_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "aom_nx",
+      "title": "Adventures of Mana",
+      "repo": "NaGaa95/aom_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "armsx2-nx",
+      "title": "ARMSX2",
+      "repo": "PalindromicBreadLoaf/ARMSX2-NX",
+      "section": "Emulators",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "badpiggies_nx",
+      "title": "Bad Piggies",
+      "repo": "ChanseyIsTheBest/badpiggies_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "btd5_nx",
+      "title": "Bloons TD 5 Mobile",
+      "repo": "ChanseyIsTheBest/btd5_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "burgershop2_nx",
+      "title": "Burger Shop 2",
+      "repo": "ChanseyIsTheBest/burgershop2_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "burgershop_nx",
+      "title": "Burger Shop",
+      "repo": "ChanseyIsTheBest/burgershop_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "cemu-nx",
+      "title": "Cemu",
+      "repo": "NaGaa95/Cemu-nx",
+      "section": "Emulators",
+      "version_hint": "1.1.0"
+    },
+    {
+      "name": "chocolate-doom-nx",
+      "title": "Doom",
+      "repo": "lantus/chocolate-doom-nx",
+      "section": "PC",
+      "version_hint": "1.02"
+    },
+    {
+      "name": "clayjamclassic_nx",
+      "title": "Clay Jam Classic",
+      "repo": "ChanseyIsTheBest/clayjamclassic_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "cloverpit_nx",
+      "title": "CloverPit",
+      "repo": "ChanseyIsTheBest/cloverpit_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "coi_nx",
+      "title": "Castle of Illusion",
+      "repo": "NaGaa95/coi_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "colorsheep_nx",
+      "title": "Color Sheep",
+      "repo": "ChanseyIsTheBest/colorsheep_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "cr3_nx",
+      "title": "Chaos Rings III",
+      "repo": "NaGaa95/cr3_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "crazytaxy_nx",
+      "title": "Crazy Taxi",
+      "repo": "delsonazevedo/crazytaxy_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "css_nx",
+      "title": "Counter Strike Source",
+      "repo": "NaGaa95/css_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "ct_nx",
+      "title": "Chrono Trigger",
+      "repo": "NaGaa95/ct_nx",
+      "section": "Android",
+      "version_hint": "1.1.0"
+    },
+    {
+      "name": "d3hack",
+      "title": "~~Diablo III~~",
+      "repo": "god-jester/d3hack",
+      "section": "PC",
+      "version_hint": "~~3.1~~"
+    },
+    {
+      "name": "dekopon",
+      "title": "Dekopon",
+      "repo": "PalindromicBreadLoaf/dekopon",
+      "section": "Emulators",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "dethrace-switch",
+      "title": "Dethrace (Carmageddon)",
+      "repo": "alexart878/dethrace-switch",
+      "section": "PC",
+      "version_hint": "1.1"
+    },
+    {
+      "name": "deusexgo_nx",
+      "title": "Deus Ex Go",
+      "repo": "ChanseyIsTheBest/deusexgo_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "devilution-nx",
+      "title": "Diablo (DevilutionX)",
+      "repo": "lantus/devilution-nx",
+      "section": "PC",
+      "version_hint": "0.95b"
+    },
+    {
+      "name": "docklight",
+      "title": "Banjo Kazooie",
+      "repo": "PalindromicBreadLoaf/Docklight",
+      "section": "Nintendo 64",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "dolphin-nx",
+      "title": "Dolphin",
+      "repo": "NaGaa95/dolphin-nx",
+      "section": "Emulators",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "drasticds_nx",
+      "title": "DrasticDS",
+      "repo": "NaGaa95/DrasticDS_nx",
+      "section": "Emulators",
+      "version_hint": "1.0.6"
+    },
+    {
+      "name": "drmariomania_nx",
+      "title": "Dr. Mario Mania",
+      "repo": "delsonazevedo/drmariomania_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "duckstation",
+      "title": "Duckstation",
+      "repo": "shooterspps/duckstation",
+      "section": "Emulators",
+      "version_hint": "PR 2"
+    },
+    {
+      "name": "dunelegacy",
+      "title": "Dune Legacy (Dune II)",
+      "repo": "carstene1ns/dunelegacy",
+      "section": "PC",
+      "version_hint": "0.98.4"
+    },
+    {
+      "name": "dusklight",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "repo": "HayatoG/dusklight",
+      "section": "GameCube",
+      "version_hint": "1.4.3"
+    },
+    {
+      "name": "fallout-ce-switch",
+      "title": "Fallout CE",
+      "repo": "ryandeering/fallout-ce-switch",
+      "section": "PC",
+      "version_hint": "1.1.0"
+    },
+    {
+      "name": "fallout2-ce-switch",
+      "title": "Fallout 2 CE",
+      "repo": "ryandeering/fallout2-ce-switch",
+      "section": "PC",
+      "version_hint": "1.1.1"
+    },
+    {
+      "name": "ff3_3d_nx",
+      "title": "Final Fantasy III 3D Remake",
+      "repo": "NaGaa95/ff3_3d_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "ff4_3d_nx",
+      "title": "Final Fantasy IV 3D Remake",
+      "repo": "NaGaa95/ff4_3d_nx",
+      "section": "Android",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "ff4_nx",
+      "title": "ff4 nx",
+      "repo": "GlitchedDeveloper/ff4_nx",
+      "section": "Android",
+      "version_hint": "1.0.4"
+    },
+    {
+      "name": "ff4tay_nx",
+      "title": "Final Fantasy IV The After Years",
+      "repo": "NaGaa95/ff4tay_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "ffd2_nx",
+      "title": "Final Fantasy Dimension II",
+      "repo": "NaGaa95/ffd2_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "ffd_nx",
+      "title": "Final Fantasy Dimensions",
+      "repo": "NaGaa95/ffd_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "fheroes2",
+      "title": "Heroes of Might & Magic II",
+      "repo": "ihhub/fheroes2",
+      "section": "PC",
+      "version_hint": "1.1.17"
+    },
+    {
+      "name": "freespace2_nx",
+      "title": "Freespace 2",
+      "repo": "NaGaa95/freespace2_nx",
+      "section": "PC",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "gdash_nx",
+      "title": "Geometry Dash",
+      "repo": "NaGaa95/gdash_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "gen1recomp",
+      "title": "Pokemon Gen 1",
+      "repo": "bryanthaboi/gen1recomp",
+      "section": "Gameboy",
+      "version_hint": "0.1.68"
+    },
+    {
+      "name": "ghostship",
+      "title": "Super Mario 64",
+      "repo": "HarbourMasters/Ghostship",
+      "section": "Nintendo 64",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "gtactw_nx",
+      "title": "Grand Theft Auto Chinatown Wars",
+      "repo": "NaGaa95/gtactw_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "gtalcs_nx",
+      "title": "Grand Theft Auto Liberty City Stories",
+      "repo": "NaGaa95/gtalcs_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "gtasa_nx",
+      "title": "Grand Theft Auto San Andreas",
+      "repo": "NaGaa95/gtasa_nx",
+      "section": "Android",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "hitmango_nx",
+      "title": "Hitman Go",
+      "repo": "ChanseyIsTheBest/hitmango_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "hl2_nx",
+      "title": "Half Life 2",
+      "repo": "NaGaa95/hl2_nx",
+      "section": "Android",
+      "version_hint": "1.0.4"
+    },
+    {
+      "name": "hmd_nx",
+      "title": "How Many Dudes?",
+      "repo": "boraeskicioglu/hmd_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "khux_nx",
+      "title": "Kingdom Hearts Union χ Dark Road",
+      "repo": "NaGaa95/KHUx_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "lainnx",
+      "title": "Lain",
+      "repo": "amydevs/lainNX",
+      "section": "Playstation",
+      "version_hint": "0.4.4-nx.5"
+    },
+    {
+      "name": "laracroftgo_nx",
+      "title": "Lara Croft Go",
+      "repo": "ChanseyIsTheBest/laracroftgo_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "layton2_nx",
+      "title": "Professor Layton Pandora's Box HD",
+      "repo": "NaGaa95/layton2_nx",
+      "section": "Android",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "layton3_nx",
+      "title": "Professor Layton Lost Hope HD",
+      "repo": "NaGaa95/layton3_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "layton_nx",
+      "title": "Professor Layton Curious Village HD",
+      "repo": "NaGaa95/layton_nx",
+      "section": "Android",
+      "version_hint": "1.0.4"
+    },
+    {
+      "name": "laytonbmr_nx",
+      "title": "Layton Brothers Mystery Room",
+      "repo": "NaGaa95/laytonbmr_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "lbbg_nx",
+      "title": "LEGO Batman Beyond Gotham",
+      "repo": "NaGaa95/lbbg_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "lbdcsh_nx",
+      "title": "LEGO Batman DC Super Heroes",
+      "repo": "NaGaa95/lbdcsh_nx",
+      "section": "Android",
+      "version_hint": "~~down~~"
+    },
+    {
+      "name": "lnsor_nx",
+      "title": "LEGO Ninjago Shadow of Ronin",
+      "repo": "NaGaa95/lnsor_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "lswtcs_nx",
+      "title": "LEGO Star Wars The Complete Saga",
+      "repo": "NaGaa95/lswtcs_nx",
+      "section": "Android",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "lswtfa_nx",
+      "title": "LEGO Star Wars The Force Awakens",
+      "repo": "NaGaa95/lswtfa_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "marathonrecomp-nx",
+      "title": "Sonic 2006 (MarathonRecomp)",
+      "repo": "NaGaa95/MarathonRecomp-NX",
+      "section": "PC",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "max_nx_v2-1-131",
+      "title": "Max Payne",
+      "repo": "NaGaa95/max_nx_v2.1.131",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "nbajam_nx",
+      "title": "NBA Jam",
+      "repo": "delsonazevedo/nbajam_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "nethersx2_nx",
+      "title": "NetherSX2",
+      "repo": "NaGaa95/NetherSX2_nx",
+      "section": "Emulators",
+      "version_hint": "1.2.1"
+    },
+    {
+      "name": "nzportable",
+      "title": "Nazi Zombies: Portable",
+      "repo": "nzp-team/nzportable",
+      "section": "PC",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "openjazznx",
+      "title": "Jazz Jackrabbit (OpenJazz)",
+      "repo": "KranKRival/OpenJazzNX",
+      "section": "PC",
+      "version_hint": "1.2.1"
+    },
+    {
+      "name": "openmohaa_nx",
+      "title": "Medal of Honor: Allied Assault",
+      "repo": "NaGaa95/openmohaa_nx",
+      "section": "PC",
+      "version_hint": "0.83 R3"
+    },
+    {
+      "name": "openmw",
+      "title": "Elder Scrolls III Morrowind (OpenMW)",
+      "repo": "fgsfdsfgs/openmw",
+      "section": "PC",
+      "version_hint": "0.46.0-nx2"
+    },
+    {
+      "name": "openxcom-switch",
+      "title": "XCOM (OpenXcom)",
+      "repo": "alexart878/OpenXcom-switch",
+      "section": "PC",
+      "version_hint": "1.0"
+    },
+    {
+      "name": "osbm",
+      "title": "Starbound (OpenStarbound Mobile)",
+      "repo": "RohanBhattacharyya/oSBM",
+      "section": "PC",
+      "version_hint": "1.1"
+    },
+    {
+      "name": "papersplease_nx",
+      "title": "Papers, Please",
+      "repo": "ChanseyIsTheBest/papersplease_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "perfect_dark",
+      "title": "Perfect Dark",
+      "repo": "perfect-dark-pc-port/perfect_dark",
+      "section": "Nintendo 64",
+      "version_hint": "???"
+    },
+    {
+      "name": "ppsspp-switch-community-build",
+      "title": "PPSSPP",
+      "repo": "SirSamael/ppsspp-switch-community-build",
+      "section": "Emulators",
+      "version_hint": "0.6.0"
+    },
+    {
+      "name": "pvz-portable",
+      "title": "Plants Vs Zombies (PvZ Portable)",
+      "repo": "HayatoG/PvZ-Portable",
+      "section": "PC",
+      "version_hint": "2026-07-02"
+    },
+    {
+      "name": "pvz_fusion_en_nx",
+      "title": "Plants vs. Zombies: Fusion",
+      "repo": "ChanseyIsTheBest/pvz_fusion_en_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "raikopon",
+      "title": "Raikopon",
+      "repo": "Raibatsu/raikopon",
+      "section": "Emulators",
+      "version_hint": "1.6.1 rai"
+    },
+    {
+      "name": "redriver2-switch",
+      "title": "Driver 2 (REDRIVER2)",
+      "repo": "jamyaro/REDRIVER2-switch",
+      "section": "PC",
+      "version_hint": "0.1.0"
+    },
+    {
+      "name": "reflex909-2ship2harkinian-switch",
+      "title": "2ship2harkinian Switch",
+      "repo": "reflex909/2ship2harkinian-Switch",
+      "section": "Nintendo 64",
+      "version_hint": "4.0.2"
+    },
+    {
+      "name": "s4ep2-nx",
+      "title": "Sonic 4 Episode 2",
+      "repo": "boraeskicioglu/s4ep2-nx",
+      "section": "Android",
+      "version_hint": "0.1"
+    },
+    {
+      "name": "shipwright-switch",
+      "title": "The Legened of Zelda: Ocarina of Time",
+      "repo": "timschneeb/Shipwright-Switch",
+      "section": "Nintendo 64",
+      "version_hint": "9.2.3"
+    },
+    {
+      "name": "silent-hill-decomp-nx",
+      "title": "Silent Hill",
+      "repo": "ChaykaDed/silent-hill-decomp-nx",
+      "section": "PC",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "sm",
+      "title": "Super Metroid",
+      "repo": "snesrev/sm",
+      "section": "Super Nintendo Entertainment System",
+      "version_hint": "n/a"
+    },
+    {
+      "name": "sonic-cd-11-decompilation",
+      "title": "Sonic CD",
+      "repo": "heyjoeway/Sonic-CD-11-Decompilation",
+      "section": "PC",
+      "version_hint": "1.3.0"
+    },
+    {
+      "name": "sotn_nx",
+      "title": "Castlevania Symphony of the Night",
+      "repo": "NaGaa95/sotn_nx",
+      "section": "Android",
+      "version_hint": "1.0.2"
+    },
+    {
+      "name": "spacecadetpinball-nx",
+      "title": "Space Cadet",
+      "repo": "averne/SpaceCadetPinball-NX",
+      "section": "PC",
+      "version_hint": "1.1.1"
+    },
+    {
+      "name": "spaghettikart",
+      "title": "Mario Kart 64",
+      "repo": "HarbourMasters/SpaghettiKart",
+      "section": "Nintendo 64",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "starship",
+      "title": "StarFox",
+      "repo": "HarbourMasters/Starship",
+      "section": "Nintendo 64",
+      "version_hint": "2.0.0"
+    },
+    {
+      "name": "stt16bit_nx",
+      "title": "Sonic Triple Trouble 16-bit",
+      "repo": "boraeskicioglu/stt16bit_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "subwaysurfers_nx",
+      "title": "Subway Surfers",
+      "repo": "NaGaa95/subwaysurfers_nx",
+      "section": "Android",
+      "version_hint": "1.0.3"
+    },
+    {
+      "name": "super-mario-world-remastered-plus-switch",
+      "title": "Super Mario World Remastered Plus",
+      "repo": "delsonazevedo/Super-Mario-World-Remastered-Plus-Switch",
+      "section": "Android",
+      "version_hint": "*released*"
+    },
+    {
+      "name": "swi-nx",
+      "title": "Stick With It",
+      "repo": "souldbminerr/swi-nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "swordigo_nx",
+      "title": "Swordigo",
+      "repo": "NaGaa95/swordigo_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "tf2_nx",
+      "title": "Team Fortress 2 ReClassic",
+      "repo": "NaGaa95/tf2_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "th06-switch",
+      "title": "Touhou 6: Embodiment of the Scarlet Devil",
+      "repo": "Swiizyu/th06-switch",
+      "section": "PC",
+      "version_hint": "*released*"
+    },
+    {
+      "name": "the-simpsons-hit-and-run",
+      "title": "The Simpsons: Hit and Run",
+      "repo": "ZenoArrows/The-Simpsons-Hit-and-Run",
+      "section": "PC",
+      "version_hint": "0.6.1"
+    },
+    {
+      "name": "tico",
+      "title": "Tico",
+      "repo": "ticohq/tico",
+      "section": "Emulators",
+      "version_hint": "0.7.8"
+    },
+    {
+      "name": "tmc",
+      "title": "The Legend of Zelda: The Minish Cap",
+      "repo": "HayatoG/tmc",
+      "section": "Gameboy Advance",
+      "version_hint": "v0.25"
+    },
+    {
+      "name": "tte_nx",
+      "title": "Ticket to Earth",
+      "repo": "ChanseyIsTheBest/tte_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "unleashedrecomp-nx",
+      "title": "Sonic Unleashed",
+      "repo": "NaGaa95/UnleashedRecomp-NX",
+      "section": "Xbox 360",
+      "version_hint": "0.0.3"
+    },
+    {
+      "name": "vanilla-conquer",
+      "title": "Command & Conquer / Red Alert",
+      "repo": "capsterx-switch/Vanilla-Conquer",
+      "section": "PC",
+      "version_hint": "0.6"
+    },
+    {
+      "name": "vcmi_nx",
+      "title": "Heroes of Might & Magic III",
+      "repo": "NaGaa95/vcmi_nx",
+      "section": "PC",
+      "version_hint": "1.8.0 R2"
+    },
+    {
+      "name": "vln_nx",
+      "title": "Very Little Nightmares",
+      "repo": "NaGaa95/vln_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    },
+    {
+      "name": "vpl_nx",
+      "title": "Valkyrie Profile Lenneth",
+      "repo": "delsonazevedo/vpl_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "wmw2_nx",
+      "title": "Where's My Water 2",
+      "repo": "ChanseyIsTheBest/wmw2_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "wmw_nx",
+      "title": "Where's My Water",
+      "repo": "ChanseyIsTheBest/wmw_nx",
+      "section": "Android",
+      "version_hint": "1.0.0"
+    },
+    {
+      "name": "xash3d-fwgs",
+      "title": "Half Life",
+      "repo": "FWGS/xash3d-fwgs",
+      "section": "PC",
+      "version_hint": "4109"
+    },
+    {
+      "name": "yoshicrystal9-2ship2harkinian-switch",
+      "title": "The Legend of Zelda: Majora's Mask",
+      "repo": "YoshiCrystal9/2ship2harkinian-Switch",
+      "section": "Nintendo 64",
+      "version_hint": "4.0.0 nx"
+    },
+    {
+      "name": "ys1x_nx",
+      "title": "Ys Chronicles 1",
+      "repo": "DI4VOLO-dev/ys1x_nx",
+      "section": "Android",
+      "version_hint": "0.2"
+    },
+    {
+      "name": "zelda-la-dx-hd-updated",
+      "title": "The Legend of Zelda: Link's Awakening DX HD",
+      "repo": "delsonazevedo/Zelda-LA-DX-HD-Updated",
+      "section": "Gameboy Color",
+      "version_hint": "1.7.3"
+    },
+    {
+      "name": "zelda3",
+      "title": "LoZ: A Link to the Past",
+      "repo": "snesrev/zelda3",
+      "section": "Super Nintendo Entertainment System",
+      "version_hint": "0.3"
+    },
+    {
+      "name": "zookeeperdx_nx",
+      "title": "ZOOKEEPER DX",
+      "repo": "ChanseyIsTheBest/zookeeperdx_nx",
+      "section": "Android",
+      "version_hint": "1.0.1"
+    }
+  ]
+}
