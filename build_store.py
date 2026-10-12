@@ -163,6 +163,17 @@ def repo_entry(e, release, zip_len, nro_size, md5, binary, download):
     return entry
 
 
+def apply_description(entry, e):
+    """The repo's own GitHub description replaces the generic "Switch port: <platform>" text."""
+    info = api_get(f"/repos/{e['repo']}", allow404=True) or {}
+    text = " ".join((info.get("description") or "").split())
+    if not text:
+        return
+    platform = "\n\nOriginal platform: " + e["section"] if e.get("section") else ""
+    entry["description"] = text
+    entry["details"] = (text + platform + "\n\n" + entry.get("url", "")).strip()
+
+
 def download_url(repo, name):
     return f"https://github.com/{repo}/releases/download/{STORE_TAG}/{name}.zip"
 
@@ -442,6 +453,9 @@ def process_entry(e, old, store_repo, zips_dir, store_assets):
     have_zip = (f"{e['name']}.zip" in store_assets) if store_assets is not None else os.path.exists(zip_path)
     if old and old.get("version") == tag and old.get("download") and have_zip:
         ensure_icon(os.path.dirname(zips_dir), old)
+        if old.get("description", "").startswith("Switch port"):
+            old = dict(old)
+            apply_description(old, e)
         return old, False
 
     asset, member, nro_size = pick_source(rel.get("assets") or [], e["repo"], e["name"], open_remote_zip)
@@ -455,6 +469,7 @@ def process_entry(e, old, store_repo, zips_dir, store_assets):
     md5 = hashlib.md5(zip_bytes).hexdigest()
     entry = repo_entry(e, rel, len(zip_bytes), len(nro_bytes), md5, "/" + path,
                        download_url(store_repo, e["name"]))
+    apply_description(entry, e)
     print(f"  {e['name']}: {tag} <- {asset['name']}" + (f" [{member}]" if member else ""))
     return entry, True
 
