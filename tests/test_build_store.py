@@ -229,3 +229,18 @@ def test_nro_icon_reads_aset_block():
     aset = b"ASET" + bytes(4) + struct.pack("<QQ", 0x38, len(jpg)) + bytes(0x20) + jpg
     assert b.nro_icon(bytes(body) + aset) == jpg
     assert b.nro_icon(bytes(body)) is None
+
+
+def test_7z_archive_gives_its_nro():
+    import io
+    import pytest
+    py7zr = pytest.importorskip("py7zr")
+    import build_store as b
+    buf = io.BytesIO()
+    with py7zr.SevenZipFile(buf, "w") as z:
+        z.writestr(b"nro-bytes", "game/game.nro")
+    a = {"name": "game.7z", "size": 1, "browser_download_url": "http://x/game.7z"}
+    b._ARCHIVE.update(url=a["browser_download_url"], data=buf.getvalue())
+    got = b.pick_source([a], "o/g", "game", None)
+    assert got[1] == "game/game.nro"
+    assert b.fetch_nro(a, got[1], None) == b"nro-bytes"

@@ -21,6 +21,7 @@ import re
 import struct
 import subprocess
 import tarfile
+import tempfile
 import sys
 import time
 import urllib.error
@@ -108,8 +109,10 @@ def archive_read(asset, member):
     data = _archive_bytes(asset)
     if asset["name"].lower().endswith(".7z"):
         import py7zr
-        with py7zr.SevenZipFile(io.BytesIO(data)) as z:
-            return z.read([member])[member].read()
+        with tempfile.TemporaryDirectory() as tmp, py7zr.SevenZipFile(io.BytesIO(data)) as z:
+            z.extract(path=tmp, targets=[member])
+            with open(os.path.join(tmp, member), "rb") as f:
+                return f.read()
     with tarfile.open(fileobj=io.BytesIO(data)) as t:
         return t.extractfile(member).read()
 
