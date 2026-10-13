@@ -465,6 +465,13 @@
       "version_hint": "0.95b"
     },
     {
+      "name": "dk64recomp-nx",
+      "title": "DK64Recomp NX",
+      "repo": "Trinalord777/DK64Recomp-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "dkc1recomp-nx",
       "title": "Donkey Kong Country — DKC1Recomp-NX",
       "repo": "souldbminerr/DKC1Recomp-NX",

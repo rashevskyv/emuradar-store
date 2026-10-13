@@ -150,6 +150,11 @@
   "reason": "no published release"
  },
  {
+  "name": "nx-pro-pack",
+  "repo": "NaGaa95/NX-Pro-Pack",
+  "reason": "no published release"
+ },
+ {
   "name": "nxvk",
   "repo": "PalindromicBreadLoaf/nxvk",
   "reason": "no published release"
