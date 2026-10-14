@@ -1116,5 +1116,17 @@
   },
   {
     "repo": "Trinalord777/DK64Recomp-NX"
+  },
+  {
+    "repo": "thelinkin3000/halo-ce-universal",
+    "title": "Halo: Combat Evolved",
+    "section": "Xbox",
+    "category": "port"
+  },
+  {
+    "repo": "antoxa2584x/flatout2-sw",
+    "title": "FlatOut 2",
+    "section": "Xbox",
+    "category": "port"
   }
 ]
