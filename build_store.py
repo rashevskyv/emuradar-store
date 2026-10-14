@@ -156,7 +156,10 @@ def pick_source(assets, repo, name, open_zip):
         if any(a["name"].lower().endswith(ARCHIVE_EXTS) for a in assets):
             raise Skip("only .rar/.zst archives: not supported")
         raise Skip("no .nro or .zip asset")
-    cands.sort(key=lambda c: (-name_score(_stem(c), repo, name), -c[2], c[0]["name"], c[1] or ""))
+    # Debug archives can be larger than release builds, but are not intended for players.
+    cands.sort(key=lambda c: (bool(re.search(r"(?:^|[-_./])debug(?:[-_./]|$)",
+                                           (c[0]["name"] + "/" + (c[1] or "")).lower())),
+                              -name_score(_stem(c), repo, name), -c[2], c[0]["name"], c[1] or ""))
     return cands[0]
 
 

@@ -70,7 +70,8 @@ python -m unittest discover -s tests
 1. Read the latest release. If the repo has no stable release, use the newest release, pre-releases
    included. Drafts are skipped.
 2. Pick the `.nro`. A bare `.nro` asset wins. Otherwise the `.zip` assets are opened over HTTP Range
-   requests, so only the central directory and the chosen `.nro` are downloaded.
+   requests, so only the central directory and the chosen `.nro` are downloaded. Prefer a release
+   build over a debug build when both are available; debug-only releases remain usable.
 3. Write a mini zip: `switch/<name>/<file>.nro`, `manifest.install` and `info.json`. Nothing else.
 4. Skip and log the reason when there is no `.nro`, only `.7z`, `.rar` or `.tar` archives, or a rate limit.
 

@@ -42,6 +42,15 @@ class Picking(unittest.TestCase):
         a, member, size = bs.pick_source([asset("port.zip")], "o/port", "port", fake_open(blobs))
         self.assertEqual((a["name"], member, size), ("port.zip", "bin/port.nro", 40))
 
+    def test_release_build_wins_over_larger_debug_build(self):
+        blobs = {"halo-switch-debug.zip": make_zip({"halo.nro": b"D" * 100}),
+                 "halo-switch-release.zip": make_zip({"halo.nro": b"R" * 50})}
+        assets = [asset(name) for name in blobs]
+        selected, member, size = bs.pick_source(assets, "o/halo-ce-universal", "halo-ce-universal", fake_open(blobs))
+        self.assertEqual((selected["name"], member, size), ("halo-switch-release.zip", "halo.nro", 50))
+        selected, _, _ = bs.pick_source(assets[:1], "o/halo", "halo", fake_open(blobs))
+        self.assertEqual(selected["name"], "halo-switch-debug.zip")
+
     def test_several_nro_best_name_match_then_largest(self):
         blobs = {"all.zip": make_zip({"debug-tool.nro": b"x" * 10, "__MACOSX/port.nro": b"y" * 99,
                                       "dolphin-nx.nro": b"z" * 5, "big.nro": b"w" * 50})}
