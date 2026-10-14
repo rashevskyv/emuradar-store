@@ -1311,6 +1311,14 @@
       "version_hint": "0.46.0-nx2"
     },
     {
+      "name": "openpreyswitch",
+      "title": "openPREYswitch",
+      "repo": "hazevauks/openPREYswitch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "openxcom-switch",
       "title": "XCOM (OpenXcom)",
       "repo": "alexart878/OpenXcom-switch",
@@ -1657,6 +1665,13 @@
       "category": "port"
     },
     {
+      "name": "sms-switch",
+      "title": "sms switch",
+      "repo": "chasem-dev/sms-switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sonic-cd-11-decompilation",
       "title": "Sonic CD",
       "repo": "heyjoeway/Sonic-CD-11-Decompilation",
@@ -1848,6 +1863,13 @@
       "repo": "souldbminerr/swi-nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "switch-frame-tap",
+      "title": "switch frame tap",
+      "repo": "TomasUribe/switch-frame-tap",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "switch-l4t-kernel-4-9",
