@@ -1134,5 +1134,11 @@
   },
   {
     "repo": "TomasUribe/switch-frame-tap"
+  },
+  {
+    "repo": "hazevauks/openPREYswitch",
+    "title": "openPREYswitch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
