@@ -1131,5 +1131,8 @@
   },
   {
     "repo": "chasem-dev/sms-switch"
+  },
+  {
+    "repo": "TomasUribe/switch-frame-tap"
   }
 ]
