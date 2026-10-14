@@ -632,6 +632,14 @@
       "category": "tool"
     },
     {
+      "name": "flatout2-sw",
+      "title": "FlatOut 2",
+      "repo": "antoxa2584x/flatout2-sw",
+      "section": "Xbox",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "fpslocker",
       "title": "Fpslocker",
       "repo": "ChanseyIsTheBest/FPSLocker",
@@ -742,6 +750,14 @@
       "title": "GZDoom NX Modern",
       "repo": "Thorhax/GZDoom-NX-Modern",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "halo-ce-universal",
+      "title": "Halo: Combat Evolved",
+      "repo": "thelinkin3000/halo-ce-universal",
+      "section": "Xbox",
       "version_hint": "",
       "category": "port"
     },
