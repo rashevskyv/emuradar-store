@@ -1128,5 +1128,8 @@
     "title": "FlatOut 2",
     "section": "Xbox",
     "category": "port"
+  },
+  {
+    "repo": "chasem-dev/sms-switch"
   }
 ]
