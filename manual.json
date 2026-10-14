@@ -1164,5 +1164,11 @@
   },
   {
     "repo": "toniisound/oracles-nx"
+  },
+  {
+    "repo": "penettrator/prototype2-nx",
+    "title": "prototype2-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
