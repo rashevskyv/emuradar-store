@@ -78,6 +78,13 @@
       "version_hint": "1.0.3"
     },
     {
+      "name": "atmosphere",
+      "title": "atmosphere",
+      "repo": "atmosphere-nx/atmosphere",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "atmosphere-pro",
       "title": "Atmosphere",
       "repo": "NaGaa95/Atmosphere-Pro",
@@ -397,6 +404,13 @@
       "category": "port"
     },
     {
+      "name": "daytona-nx-modern",
+      "title": "Daytona NX Modern",
+      "repo": "Thorhax/Daytona-NX-Modern",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "dbipatcher",
       "title": "DBIPatcher",
       "repo": "rashevskyv/DBIPatcher",
@@ -543,6 +557,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "emulanders",
+      "title": "Emulanders",
+      "repo": "joaohypo/emulanders",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
     },
     {
       "name": "eos-pro",
@@ -1065,6 +1087,13 @@
       "category": "tool"
     },
     {
+      "name": "megamanx-nx",
+      "title": "MegaManX NX",
+      "repo": "Thorhax/MegaManX-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mmxregenesis_nx",
       "title": "Mega Man X Regenesis",
       "repo": "StevensND/mmxregenesis_nx",
@@ -1169,6 +1198,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "nfm-switch-port",
+      "title": "nfm switch port",
+      "repo": "HopeAero/nfm-switch-port",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "nfsc-sw",
@@ -1311,6 +1347,14 @@
       "version_hint": "0.46.0-nx2"
     },
     {
+      "name": "opennow-switch",
+      "title": "OpenNOW",
+      "repo": "OpenCloudGaming/OpenNOW-Switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "openpreyswitch",
       "title": "openPREYswitch",
       "repo": "hazevauks/openPREYswitch",
@@ -1326,6 +1370,13 @@
       "version_hint": "1.0"
     },
     {
+      "name": "oracles-nx",
+      "title": "oracles nx",
+      "repo": "toniisound/oracles-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "osbm",
       "title": "Starbound (OpenStarbound Mobile)",
       "repo": "RohanBhattacharyya/oSBM",
@@ -1339,6 +1390,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "outrun2-decomp",
+      "title": "outrun2 decomp",
+      "repo": "r4dius/outrun2-decomp",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "palindromicbreadloaf-armsx2-nx",
@@ -1453,6 +1511,14 @@
       "title": "Sly Cooper and the Thievius Raccoonus — ProjectCane",
       "repo": "NaGaa95/ProjectCane",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "prototype2-nx",
+      "title": "prototype2-nx",
+      "repo": "penettrator/prototype2-nx",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -1634,6 +1700,13 @@
       "version_hint": "9.2.3"
     },
     {
+      "name": "sleepingdogs_nx",
+      "title": "sleepingdogs nx",
+      "repo": "Ibnuard/sleepingdogs_nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sm",
       "title": "Super Metroid",
       "repo": "snesrev/sm",
@@ -1668,6 +1741,13 @@
       "name": "sms-switch",
       "title": "sms switch",
       "repo": "chasem-dev/sms-switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "snowboardkids2-recomp-switch",
+      "title": "snowboardkids2 recomp switch",
+      "repo": "D35P4C1T0/snowboardkids2-recomp-switch",
       "section": "",
       "version_hint": ""
     },
