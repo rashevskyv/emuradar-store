@@ -1170,5 +1170,17 @@
     "title": "prototype2-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "OpenCloudGaming/OpenNOW-Switch",
+    "title": "OpenNOW",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "joaohypo/emulanders",
+    "title": "Emulanders",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
