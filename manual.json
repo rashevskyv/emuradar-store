@@ -1194,5 +1194,11 @@
     "title": "Kefir",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "fungalspores/prototype-switch",
+    "title": "prototype-switch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
