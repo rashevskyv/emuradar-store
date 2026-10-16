@@ -559,6 +559,13 @@
       "category": "tool"
     },
     {
+      "name": "earntodie2_nx",
+      "title": "earntodie2 nx",
+      "repo": "xflipperkast/earntodie2_nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "emulanders",
       "title": "Emulanders",
       "repo": "joaohypo/emulanders",
@@ -888,6 +895,14 @@
       "title": "Jetpack Joyride",
       "repo": "NaGaa95/jetpackjoyride_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "kefir",
+      "title": "Kefir",
+      "repo": "rashevskyv/kefir",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -1434,6 +1449,13 @@
       "repo": "perfect-dark-pc-port/perfect_dark",
       "section": "Nintendo 64",
       "version_hint": "???"
+    },
+    {
+      "name": "pes13_nx",
+      "title": "pes13 nx",
+      "repo": "Ibnuard/pes13_nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "phigros_nx",
