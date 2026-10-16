@@ -1188,5 +1188,11 @@
   },
   {
     "repo": "xflipperkast/earntodie2_nx"
+  },
+  {
+    "repo": "rashevskyv/kefir",
+    "title": "Kefir",
+    "section": "Digest",
+    "category": "port"
   }
 ]
