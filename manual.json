@@ -1215,5 +1215,11 @@
   },
   {
     "repo": "bshurikan/cvrevamped_nx"
+  },
+  {
+    "repo": "r4lix/fh-nx",
+    "title": "fh-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
