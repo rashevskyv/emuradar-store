@@ -140,12 +140,27 @@
       "category": "port"
     },
     {
+      "name": "betterbedrock-nx",
+      "title": "BetterBedrock NX",
+      "repo": "TomasUribe/betterbedrock-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "bloons_pop_nx",
       "title": "Bloons Pop!",
       "repo": "ChanseyIsTheBest/bloons_pop_nx",
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "bm64switch",
+      "title": "BM64Switch",
+      "repo": "paulodiasred/BM64Switch",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "borealis",
@@ -355,6 +370,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "cvrevamped_nx",
+      "title": "cvrevamped nx",
+      "repo": "bshurikan/cvrevamped_nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "d-smile_nx",
@@ -1041,6 +1063,13 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "lostodysseyrecomp",
+      "title": "LostOdysseyRecomp",
+      "repo": "Ad0ky/LostOdysseyRecomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "lsfg-nx",
       "title": "lsfg",
       "repo": "PalindromicBreadLoaf/lsfg-nx",
@@ -1533,6 +1562,14 @@
       "title": "Sly Cooper and the Thievius Raccoonus — ProjectCane",
       "repo": "NaGaa95/ProjectCane",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "prototype-switch",
+      "title": "prototype-switch",
+      "repo": "fungalspores/prototype-switch",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
