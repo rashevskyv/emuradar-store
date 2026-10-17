@@ -1212,5 +1212,8 @@
     "title": "BetterBedrock NX",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "bshurikan/cvrevamped_nx"
   }
 ]
