@@ -1206,5 +1206,11 @@
   },
   {
     "repo": "paulodiasred/BM64Switch"
+  },
+  {
+    "repo": "TomasUribe/betterbedrock-nx",
+    "title": "BetterBedrock NX",
+    "section": "Digest",
+    "category": "port"
   }
 ]
