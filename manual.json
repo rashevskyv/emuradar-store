@@ -1221,5 +1221,8 @@
     "title": "fh-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "DomazinUS/RaceWave46-Switch"
   }
 ]
