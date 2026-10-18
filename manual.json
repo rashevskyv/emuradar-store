@@ -1233,5 +1233,11 @@
     "title": "Zelda Save Editor (Beta)",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "cutarev/sh3-nx",
+    "title": "sh3-nx",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
