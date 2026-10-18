@@ -660,6 +660,14 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "fh-nx",
+      "title": "fh-nx",
+      "repo": "r4lix/fh-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "fheroes2",
       "title": "Heroes of Might & Magic II",
       "repo": "ihhub/fheroes2",
@@ -942,6 +950,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "kirikiroid2-nx",
+      "title": "Kirikiroid2 NX",
+      "repo": "Erige005/Kirikiroid2-NX",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "l4t-megascript",
@@ -1620,6 +1635,13 @@
       "category": "port"
     },
     {
+      "name": "racewave46-switch",
+      "title": "RaceWave46 Switch",
+      "repo": "DomazinUS/RaceWave46-Switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "raikopon",
       "title": "Raikopon",
       "repo": "Raibatsu/raikopon",
@@ -1734,6 +1756,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "sh3-nx",
+      "title": "sh3-nx",
+      "repo": "cutarev/sh3-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
     },
     {
       "name": "shield-l4t-initramfs",
@@ -2440,6 +2470,14 @@
       "repo": "delsonazevedo/Zelda-LA-DX-HD-Updated",
       "section": "Gameboy Color",
       "version_hint": "1.7.3"
+    },
+    {
+      "name": "zelda-save-editor",
+      "title": "Zelda Save Editor (Beta)",
+      "repo": "amarkham23/Zelda-Save-Editor",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "zelda3",
