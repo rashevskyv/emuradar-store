@@ -1272,5 +1272,11 @@
     "title": "4IFIR",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "gitgarage/openblack",
+    "title": "openblack",
+    "section": "Digest",
+    "category": "port"
   }
 ]
