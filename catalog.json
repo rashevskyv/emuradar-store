@@ -11,6 +11,14 @@
       "version_hint": "R28-NX1"
     },
     {
+      "name": "4ifir-checker",
+      "title": "4IFIR",
+      "repo": "rashevskyv/4ifir-checker",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "a8retry_nx",
       "title": "Asphalt 8: Retry",
       "repo": "aks796/a8retry_nx",
@@ -237,6 +245,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "cbfd-switch",
+      "title": "CBFD Switch",
+      "repo": "DomazinUS/CBFD-Switch",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "celeste64-switch",
@@ -952,6 +967,14 @@
       "category": "port"
     },
     {
+      "name": "kinestop",
+      "title": "Kinestop",
+      "repo": "sertay1/kinestop",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "kirikiroid2-nx",
       "title": "Kirikiroid2 NX",
       "repo": "Erige005/Kirikiroid2-NX",
@@ -1346,6 +1369,13 @@
       "category": "port"
     },
     {
+      "name": "nx-mcp",
+      "title": "NX MCP",
+      "repo": "CompSciOrBust/NX-MCP",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "nx-pro-pack",
       "title": "NX-Pro-Pack",
       "repo": "NaGaa95/NX-Pro-Pack",
@@ -1573,6 +1603,13 @@
       "version_hint": "0.6.0"
     },
     {
+      "name": "prelude-nextendo",
+      "title": "Prelude Nextendo",
+      "repo": "NextendoNetwork/Prelude-Nextendo",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "projectcane",
       "title": "Sly Cooper and the Thievius Raccoonus — ProjectCane",
       "repo": "NaGaa95/ProjectCane",
@@ -1748,6 +1785,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "sc5p2-nx",
+      "title": "sc5p2 nx",
+      "repo": "BiroGrafx/sc5p2-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "sh2-nx",
@@ -2089,6 +2133,13 @@
       "category": "port"
     },
     {
+      "name": "switchaircast",
+      "title": "SwitchAirCast",
+      "repo": "depende3000/SwitchAirCast",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "switchnow",
       "title": "SwitchNOW",
       "repo": "Blade-Punisher/SwitchNOW",
@@ -2134,6 +2185,14 @@
       "repo": "NaGaa95/swordigo_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "sys-ticon",
+      "title": "sys-ticon",
+      "repo": "masagrator/sys-ticon",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "tailscale-nx",

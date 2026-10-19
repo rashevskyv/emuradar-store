@@ -80,6 +80,11 @@
   "reason": "no published release"
  },
  {
+  "name": "kinestop",
+  "repo": "sertay1/kinestop",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "l4t-megascript",
   "repo": "NaGaa95/L4T-Megascript",
   "reason": "no published release"
@@ -267,6 +272,11 @@
  {
   "name": "switchwakerhd",
   "repo": "centollOS/SwitchWakerHD",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "sys-ticon",
+  "repo": "masagrator/sys-ticon",
   "reason": "no .nro inside the archive assets"
  },
  {
