@@ -1278,5 +1278,8 @@
     "title": "openblack",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "lantiiii/audiorelaynx"
   }
 ]
