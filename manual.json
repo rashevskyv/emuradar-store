@@ -1254,5 +1254,23 @@
   },
   {
     "repo": "NextendoNetwork/Prelude-Nextendo"
+  },
+  {
+    "repo": "sertay1/kinestop",
+    "title": "Kinestop",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "masagrator/sys-ticon",
+    "title": "sys-ticon",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "rashevskyv/4ifir-checker",
+    "title": "4IFIR",
+    "section": "Digest",
+    "category": "port"
   }
 ]
