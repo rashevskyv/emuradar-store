@@ -1287,5 +1287,11 @@
     "title": "tdkr_nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "hazevauks/deadspace_nx",
+    "title": "deadspace_nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
