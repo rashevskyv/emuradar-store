@@ -1299,5 +1299,17 @@
   },
   {
     "repo": "Tweebbo/TweebboNX"
+  },
+  {
+    "repo": "zdm65477730/NX-Activity-Log",
+    "title": "NX Activity Log",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "PoloNX/SwitchU",
+    "title": "SwitchU",
+    "section": "Digest",
+    "category": "port"
   }
 ]
