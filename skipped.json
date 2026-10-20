@@ -1,5 +1,10 @@
 [
  {
+  "name": "audiorelaynx",
+  "repo": "lantiiii/audiorelaynx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "borealis",
   "repo": "PalindromicBreadLoaf/borealis",
   "reason": "no published release"
@@ -67,6 +72,11 @@
  {
   "name": "ghostship",
   "repo": "HarbourMasters/Ghostship",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "hayatog-switchu",
+  "repo": "HayatoG/SwitchU",
   "reason": "no .nro inside the archive assets"
  },
  {
@@ -263,11 +273,6 @@
   "name": "switchports",
   "repo": "ChanseyIsTheBest/SwitchPorts",
   "reason": "no published release"
- },
- {
-  "name": "switchu",
-  "repo": "HayatoG/SwitchU",
-  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "switchwakerhd",

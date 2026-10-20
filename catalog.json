@@ -79,6 +79,13 @@
       "category": "port"
     },
     {
+      "name": "ankinx",
+      "title": "AnkiNX",
+      "repo": "lukasheber/AnkiNX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "aom_nx",
       "title": "Adventures of Mana",
       "repo": "NaGaa95/aom_nx",
@@ -99,6 +106,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "audiorelaynx",
+      "title": "audiorelaynx",
+      "repo": "lantiiii/audiorelaynx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "autorunhq-autorun",
@@ -460,6 +474,14 @@
       "title": "Disney Crossy Road",
       "repo": "aks796/dcr_sea_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "deadspace_nx",
+      "title": "deadspace_nx",
+      "repo": "hazevauks/deadspace_nx",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -854,6 +876,14 @@
       "name": "hayatog-armsx2-nx",
       "title": "Armsx2 NX",
       "repo": "HayatoG/ARMSX2-NX",
+      "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "hayatog-switchu",
+      "title": "SwitchU",
+      "repo": "HayatoG/SwitchU",
       "section": "Manual",
       "version_hint": "",
       "category": "port"
@@ -1353,6 +1383,14 @@
       "category": "port"
     },
     {
+      "name": "nx-activity-log",
+      "title": "NX Activity Log",
+      "repo": "zdm65477730/NX-Activity-Log",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "nx-diffuser",
       "title": "G-Diffuser",
       "repo": "PalindromicBreadLoaf/NX-Diffuser",
@@ -1405,6 +1443,14 @@
       "repo": "nzp-team/nzportable",
       "section": "PC",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "openblack",
+      "title": "openblack",
+      "repo": "gitgarage/openblack",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "openbor",
@@ -1568,6 +1614,14 @@
       "title": "POINPY",
       "repo": "ChanseyIsTheBest/poinpy_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "polonx-switchu",
+      "title": "SwitchU",
+      "repo": "PoloNX/SwitchU",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -2156,14 +2210,6 @@
       "category": "port"
     },
     {
-      "name": "switchu",
-      "title": "SwitchU",
-      "repo": "HayatoG/SwitchU",
-      "section": "Manual",
-      "version_hint": "",
-      "category": "port"
-    },
-    {
       "name": "switchwaker",
       "title": "The Legend of Zelda: The Wind Waker — SwitchWaker",
       "repo": "centollOS/SwitchWaker",
@@ -2207,6 +2253,14 @@
       "title": "The Amazing Spider-Man 2",
       "repo": "boraeskicioglu/tasm2_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "tdkr_nx",
+      "title": "tdkr_nx",
+      "repo": "lemasterxar5/tdkr_nx",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -2443,6 +2497,13 @@
       "repo": "ChanseyIsTheBest/tte_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "tweebbonx",
+      "title": "TweebboNX",
+      "repo": "Tweebbo/TweebboNX",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "uam",
