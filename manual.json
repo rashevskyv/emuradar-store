@@ -1293,5 +1293,8 @@
     "title": "deadspace_nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "lukasheber/AnkiNX"
   }
 ]
