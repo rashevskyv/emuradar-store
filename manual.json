@@ -1311,5 +1311,8 @@
     "title": "SwitchU",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "theoui2/Simple-Trainer-BL2-SWITCH"
   }
 ]
