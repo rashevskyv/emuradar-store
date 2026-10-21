@@ -185,6 +185,13 @@
       "version_hint": ""
     },
     {
+      "name": "bo2-requiem-nx",
+      "title": "BO2 Requiem NX",
+      "repo": "HDErick/BO2-Requiem-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "borealis",
       "title": "Borealis",
       "repo": "PalindromicBreadLoaf/borealis",
@@ -950,6 +957,14 @@
       "category": "port"
     },
     {
+      "name": "j2me-nxx",
+      "title": "J2meNXX",
+      "repo": "ToThangGTVT/j2me-nxx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "jak-project-switch",
       "title": "Jak Project",
       "repo": "fildicio/jak-project-switch",
@@ -1642,6 +1657,14 @@
       "category": "emu"
     },
     {
+      "name": "port0r",
+      "title": "Sega Rally (Port0r)",
+      "repo": "jacquesdupontd/port0r",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "ppsspp-nx",
       "title": "PPSSPP",
       "repo": "NaGaa95/ppsspp-nx",
@@ -1885,6 +1908,13 @@
       "repo": "timschneeb/Shipwright-Switch",
       "section": "Nintendo 64",
       "version_hint": "9.2.3"
+    },
+    {
+      "name": "simple-trainer-bl2-switch",
+      "title": "Simple Trainer BL2 SWITCH",
+      "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "sleepingdogs_nx",
@@ -2137,6 +2167,14 @@
       "repo": "TomasUribe/switch-frame-tap",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "switch-hero",
+      "title": "Switch Hero",
+      "repo": "R-drg/switch-hero",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "switch-l4t-kernel-4-9",
@@ -2569,6 +2607,14 @@
       "repo": "FWGS/xash3d-fwgs",
       "section": "PC",
       "version_hint": "4109"
+    },
+    {
+      "name": "yamanx",
+      "title": "YamaNX - Turkish Patcher",
+      "repo": "sertay1/YamaNX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "yoshicrystal9-2ship2harkinian-switch",

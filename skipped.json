@@ -185,6 +185,11 @@
   "reason": "no published release"
  },
  {
+  "name": "port0r",
+  "repo": "jacquesdupontd/port0r",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "ristretto",
   "repo": "PalindromicBreadLoaf/ristretto",
   "reason": "no published release"
@@ -223,6 +228,11 @@
   "name": "shield-l4t-kernel-4-9",
   "repo": "NaGaa95/shield-l4t-kernel-4.9",
   "reason": "no published release"
+ },
+ {
+  "name": "simple-trainer-bl2-switch",
+  "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "sm",
