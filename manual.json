@@ -1317,5 +1317,23 @@
   },
   {
     "repo": "HDErick/BO2-Requiem-NX"
+  },
+  {
+    "repo": "ToThangGTVT/j2me-nxx",
+    "title": "J2meNXX",
+    "section": "Digest",
+    "category": "emu"
+  },
+  {
+    "repo": "R-drg/switch-hero",
+    "title": "Switch Hero",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "sertay1/YamaNX",
+    "title": "YamaNX - Turkish Patcher",
+    "section": "Digest",
+    "category": "port"
   }
 ]
