@@ -1335,5 +1335,11 @@
     "title": "YamaNX - Turkish Patcher",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "jacquesdupontd/port0r",
+    "title": "Sega Rally (Port0r)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
