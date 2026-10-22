@@ -1371,5 +1371,11 @@
     "title": "dantes-inferno-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Thorhax/usf4-nx",
+    "title": "usf4-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
