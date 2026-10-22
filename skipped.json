@@ -35,6 +35,16 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "dantes-inferno-nx",
+  "repo": "VasilkovND/dantes-inferno-nx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
+  "name": "ds2-nx",
+  "repo": "VasilkovND/ds2-nx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "dunelegacy",
   "repo": "carstene1ns/dunelegacy",
   "reason": "no published release"
@@ -72,6 +82,11 @@
  {
   "name": "ghostship",
   "repo": "HarbourMasters/Ghostship",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "gvasviewer",
+  "repo": "turtle-insect/GvasViewer",
   "reason": "no .nro inside the archive assets"
  },
  {
@@ -148,6 +163,11 @@
   "name": "nojme",
   "repo": "corax89/noJMe",
   "reason": "no published release"
+ },
+ {
+  "name": "nsp-auto-installer-maker",
+  "repo": "CNX17/NSP-Auto-Installer-Maker",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "nwn2-switch-lan",

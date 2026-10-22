@@ -357,6 +357,13 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "cold-fear-nx-port",
+      "title": "COLD FEAR NX PORT",
+      "repo": "gerisson1996/COLD-FEAR-NX-PORT",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "colorsheep_nx",
       "title": "Color Sheep",
       "repo": "ChanseyIsTheBest/colorsheep_nx",
@@ -450,6 +457,14 @@
       "title": "Wine-NX",
       "repo": "danfromtico/wine-nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "dantes-inferno-nx",
+      "title": "dantes-inferno-nx",
+      "repo": "VasilkovND/dantes-inferno-nx",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -586,6 +601,14 @@
       "repo": "delsonazevedo/drmariomania_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "ds2-nx",
+      "title": "ds2-nx",
+      "repo": "VasilkovND/ds2-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
     },
     {
       "name": "duckstation",
@@ -847,6 +870,14 @@
       "repo": "NaGaa95/gtasa_nx",
       "section": "Android",
       "version_hint": "1.0.2"
+    },
+    {
+      "name": "gvasviewer",
+      "title": "GvasViewer",
+      "repo": "turtle-insect/GvasViewer",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "gzdoom-nx-modern",
@@ -1382,6 +1413,14 @@
       "category": "port"
     },
     {
+      "name": "nsp-auto-installer-maker",
+      "title": "NSP Auto Installer Maker",
+      "repo": "CNX17/NSP-Auto-Installer-Maker",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "nwn2-switch-lan",
       "title": "Neverwinter Nights 2 EE — LAN patch",
       "repo": "AnDyQnn/nwn2-switch-lan",
@@ -1577,6 +1616,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "peggle1-nx",
+      "title": "peggle1 nx",
+      "repo": "ChanseyIsTheBest/peggle1-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "perfect_dark",
