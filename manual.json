@@ -1365,5 +1365,11 @@
     "title": "NSP Auto Installer Maker",
     "section": "Digest",
     "category": "tool"
+  },
+  {
+    "repo": "VasilkovND/dantes-inferno-nx",
+    "title": "dantes-inferno-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
