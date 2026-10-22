@@ -1377,5 +1377,8 @@
     "title": "usf4-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "brendongl/supermariowar-nx"
   }
 ]
