@@ -1353,5 +1353,17 @@
     "title": "ds2-nx",
     "section": "Digest",
     "category": "emu"
+  },
+  {
+    "repo": "turtle-insect/GvasViewer",
+    "title": "GvasViewer",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "CNX17/NSP-Auto-Installer-Maker",
+    "title": "NSP Auto Installer Maker",
+    "section": "Digest",
+    "category": "tool"
   }
 ]
