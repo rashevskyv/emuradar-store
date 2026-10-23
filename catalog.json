@@ -50,6 +50,14 @@
       "category": "port"
     },
     {
+      "name": "acgc-switch-port",
+      "title": "Animal Crossing gcNX",
+      "repo": "digdat0/ACGC-Switch-Port",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "acpc_nx",
       "title": "Animal Crossing: Pocket Camp",
       "repo": "NaGaa95/acpc_nx",
@@ -162,6 +170,13 @@
       "category": "port"
     },
     {
+      "name": "bejeweled3-nx",
+      "title": "bejeweled3 nx",
+      "repo": "ChanseyIsTheBest/bejeweled3-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "betterbedrock-nx",
       "title": "BetterBedrock NX",
       "repo": "TomasUribe/betterbedrock-nx",
@@ -271,6 +286,13 @@
       "name": "cbfd-switch",
       "title": "CBFD Switch",
       "repo": "DomazinUS/CBFD-Switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "cddaforswitch",
+      "title": "CDDAforSwitch",
+      "repo": "H-Wenfeng/CDDAforSwitch",
       "section": "",
       "version_hint": ""
     },
@@ -1468,6 +1490,14 @@
       "version_hint": ""
     },
     {
+      "name": "nx-mod-manager",
+      "title": "NX Mod Manager",
+      "repo": "TOM-BadEN/NX-Mod-Manager",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "nx-pro-pack",
       "title": "NX-Pro-Pack",
       "repo": "NaGaa95/NX-Pro-Pack",
@@ -2022,6 +2052,13 @@
       "version_hint": "1.3.0"
     },
     {
+      "name": "sonic-riders-recomp",
+      "title": "sonic riders recomp",
+      "repo": "teclilla18/sonic-riders-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sonic_advance2_nx",
       "title": "Sonic Advance 2",
       "repo": "boraeskicioglu/sonic_advance2_nx",
@@ -2191,6 +2228,13 @@
       "repo": "delsonazevedo/Super-Mario-World-Remastered-Plus-Switch",
       "section": "Android",
       "version_hint": "*released*"
+    },
+    {
+      "name": "supermariowar-nx",
+      "title": "supermariowar nx",
+      "repo": "brendongl/supermariowar-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "supermodel-nx",
@@ -2385,6 +2429,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "the-oracles-project-nx",
+      "title": "The Oracles Project NX",
+      "repo": "toniisound/the-oracles-project-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "the-simpsons-game-nx",
@@ -2596,6 +2648,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "usf4-nx",
+      "title": "usf4-nx",
+      "repo": "Thorhax/usf4-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "vanilla-conquer",

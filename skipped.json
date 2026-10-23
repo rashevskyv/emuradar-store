@@ -260,6 +260,11 @@
   "reason": "no published release"
  },
  {
+  "name": "sonic-riders-recomp",
+  "repo": "teclilla18/sonic-riders-recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "spaghettikart",
   "repo": "HarbourMasters/SpaghettiKart",
   "reason": "no .nro inside the archive assets"
