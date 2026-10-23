@@ -1425,5 +1425,12 @@
     "title": "mgr-nx-deko",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "rashevskyv/conker-lr-recomp",
+    "title": "Conker: Live & Reloaded",
+    "section": "Xbox",
+    "category": "port",
+    "details": "Conker: Live & Reloaded (Xbox), statically recompiled. You need your own unpacked retail NTSC (North America) disc in sdmc:/switch/clx/game/ (default.xbe inside). Start with title takeover: hold R while you open a game, then pick this app in hbmenu. The first start compiles shaders and can stutter; let it finish."
   }
 ]
