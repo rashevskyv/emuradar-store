@@ -75,6 +75,11 @@
   "reason": "no published release"
  },
  {
+  "name": "gears2-nx",
+  "repo": "VasilkovND/gears2-nx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "genshinimpact_nx",
   "repo": "NaGaa95/genshinimpact_nx",
   "reason": "no published release"

@@ -393,6 +393,15 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "conker-lr-recomp",
+      "title": "Conker: Live & Reloaded",
+      "repo": "rashevskyv/conker-lr-recomp",
+      "section": "Xbox",
+      "version_hint": "",
+      "category": "port",
+      "details": "Conker: Live & Reloaded (Xbox), statically recompiled. You need your own unpacked retail NTSC (North America) disc in sdmc:/switch/clx/game/ (default.xbe inside). Start with title takeover: hold R while you open a game, then pick this app in hbmenu. The first start compiles shaders and can stutter; let it finish."
+    },
+    {
       "name": "cr3_nx",
       "title": "Chaos Rings III",
       "repo": "NaGaa95/cr3_nx",
@@ -842,6 +851,14 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "gears2-nx",
+      "title": "gears2-nx",
+      "repo": "VasilkovND/gears2-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "gen1recomp",
       "title": "Pokemon Gen 1",
       "repo": "bryanthaboi/gen1recomp",
@@ -1274,6 +1291,14 @@
       "version_hint": ""
     },
     {
+      "name": "mgr-nx-deko",
+      "title": "mgr-nx-deko",
+      "repo": "tuancapoo/mgr-nx-deko",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "mmxregenesis_nx",
       "title": "Mega Man X Regenesis",
       "repo": "StevensND/mmxregenesis_nx",
@@ -1527,6 +1552,14 @@
       "repo": "nzp-team/nzportable",
       "section": "PC",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "open-ptk",
+      "title": "open-ptk",
+      "repo": "artem14133q/open-ptk",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "openblack",
