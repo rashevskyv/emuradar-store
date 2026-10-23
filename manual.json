@@ -1413,5 +1413,11 @@
     "title": "open-ptk",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "VasilkovND/gears2-nx",
+    "title": "gears2-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
