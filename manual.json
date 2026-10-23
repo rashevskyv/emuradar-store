@@ -1389,5 +1389,23 @@
   },
   {
     "repo": "teclilla18/sonic-riders-recomp"
+  },
+  {
+    "repo": "TOM-BadEN/NX-Mod-Manager",
+    "title": "NX Mod Manager",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "toniisound/the-oracles-project-nx",
+    "title": "The Oracles Project NX",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "digdat0/ACGC-Switch-Port",
+    "title": "Animal Crossing gcNX",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
