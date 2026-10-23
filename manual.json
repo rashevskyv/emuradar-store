@@ -1419,5 +1419,11 @@
     "title": "gears2-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "tuancapoo/mgr-nx-deko",
+    "title": "mgr-nx-deko",
+    "section": "Digest",
+    "category": "port"
   }
 ]
