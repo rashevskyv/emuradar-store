@@ -1407,5 +1407,11 @@
     "title": "Animal Crossing gcNX",
     "section": "Digest",
     "category": "emu"
+  },
+  {
+    "repo": "artem14133q/open-ptk",
+    "title": "open-ptk",
+    "section": "Digest",
+    "category": "port"
   }
 ]
