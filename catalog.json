@@ -820,6 +820,14 @@
       "category": "port"
     },
     {
+      "name": "funkin",
+      "title": "FNF: V-Slice (unofficial port)",
+      "repo": "leleletus/Funkin",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "futari-nx",
       "title": "Mushihimesama Futari Ver 1.5",
       "repo": "ChanseyIsTheBest/futari-nx",
@@ -889,6 +897,14 @@
       "category": "port"
     },
     {
+      "name": "grand-theft-auto-iv-native-port-nintendo-switch",
+      "title": "Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
+      "repo": "kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "green-nx",
       "title": "green-nx",
       "repo": "rmrf404/green-nx",
@@ -925,6 +941,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "h3h-backgrounds",
+      "title": "H3H Backgrounds",
+      "repo": "Holy3holy-dev/H3H-Backgrounds",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "halo-ce-universal",
@@ -1539,6 +1562,13 @@
       "category": "tool"
     },
     {
+      "name": "nxcloud",
+      "title": "NXCloud",
+      "repo": "denpingus/NXCloud",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "nxvk",
       "title": "nxvk",
       "repo": "PalindromicBreadLoaf/nxvk",
@@ -1722,6 +1752,14 @@
       "title": "PipenSX",
       "repo": "i3sey/pipensx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "playguard",
+      "title": "PlayGuard",
+      "repo": "JigSawFr/PlayGuard",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -2201,6 +2239,13 @@
       "category": "port"
     },
     {
+      "name": "spiderman2-2004-nx",
+      "title": "SpiderMan2 2004 NX",
+      "repo": "SantiBros/SpiderMan2-2004-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "spiderman_total_mayhem_nx",
       "title": "Ultimate Spider-Man: Total Mayhem HD",
       "repo": "boraeskicioglu/spiderman_total_mayhem_nx",
@@ -2338,6 +2383,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "switch-retro-offline",
+      "title": "ra-offline",
+      "repo": "cheasan/switch-retro-offline",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "switch-store-releases",
@@ -2491,6 +2544,14 @@
       "title": "The Executive",
       "repo": "ChanseyIsTheBest/the_executive_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "themezer-nx",
+      "title": "ThemezerNX",
+      "repo": "ThemezerNX/Themezer-NX",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -2806,6 +2867,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "zg-switch",
+      "title": "zg switch",
+      "repo": "MegaTail/zg-switch",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "zombotron_nx",
