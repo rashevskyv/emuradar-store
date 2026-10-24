@@ -1444,5 +1444,35 @@
   },
   {
     "repo": "SantiBros/SpiderMan2-2004-NX"
+  },
+  {
+    "repo": "leleletus/Funkin",
+    "title": "FNF: V-Slice (unofficial port)",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "JigSawFr/PlayGuard",
+    "title": "PlayGuard",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "ThemezerNX/Themezer-NX",
+    "title": "ThemezerNX",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "cheasan/switch-retro-offline",
+    "title": "ra-offline",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "kabba536/Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
+    "title": "Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
