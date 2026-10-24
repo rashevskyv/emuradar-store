@@ -1474,5 +1474,11 @@
     "title": "Grand-Theft-Auto-IV-Native-Port-Nintendo-Switch",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "fungalspores/silent-hill-downpour-switch",
+    "title": "silent-hill-downpour-switch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
