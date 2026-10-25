@@ -210,11 +210,6 @@
   "reason": "no published release"
  },
  {
-  "name": "playguard",
-  "repo": "JigSawFr/PlayGuard",
-  "reason": "no .nro or .zip asset"
- },
- {
   "name": "plume-nx",
   "repo": "PalindromicBreadLoaf/plume-nx",
   "reason": "no published release"

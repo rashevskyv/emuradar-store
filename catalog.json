@@ -1158,6 +1158,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "laserlords",
+      "title": "Laserlords",
+      "repo": "RandyVie/Laserlords",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "layton2_nx",
       "title": "Professor Layton Pandora's Box HD",
       "repo": "NaGaa95/layton2_nx",
@@ -1703,6 +1710,13 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "patchwork-nx",
+      "title": "patchwork nx",
+      "repo": "TheRomeoAlfa/patchwork-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "pcl_nx",
       "title": "Pocket League Crystal",
       "repo": "ChanseyIsTheBest/pcl_nx",
@@ -2055,6 +2069,14 @@
       "repo": "timschneeb/Shipwright-Switch",
       "section": "Nintendo 64",
       "version_hint": "9.2.3"
+    },
+    {
+      "name": "silent-hill-downpour-switch",
+      "title": "silent-hill-downpour-switch",
+      "repo": "fungalspores/silent-hill-downpour-switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "simple-trainer-bl2-switch",
@@ -2499,6 +2521,14 @@
       "repo": "Swiizyu/th06-switch",
       "section": "PC",
       "version_hint": "*released*"
+    },
+    {
+      "name": "the-legend-of-zelda-link-s-awakening-dx-hd-alek-s-ultimate-nx-edition",
+      "title": "Link's Awakening DX HD - Alek's Ultimate NX Edition (Alek)",
+      "repo": "Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "the-legend-of-zelda-the-minish-cap-alek-s-ultimate-nx-edition",
