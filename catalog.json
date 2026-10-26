@@ -1329,6 +1329,13 @@
       "category": "port"
     },
     {
+      "name": "mkdd-nx",
+      "title": "mkdd nx",
+      "repo": "digdat0/mkdd-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mmxregenesis_nx",
       "title": "Mega Man X Regenesis",
       "repo": "StevensND/mmxregenesis_nx",
