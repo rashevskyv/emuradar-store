@@ -716,6 +716,13 @@
       "version_hint": "1.1.1"
     },
     {
+      "name": "feedingfrenzy-nx",
+      "title": "feedingfrenzy nx",
+      "repo": "ChanseyIsTheBest/feedingfrenzy-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "ff3_3d_nx",
       "title": "Final Fantasy III 3D Remake",
       "repo": "NaGaa95/ff3_3d_nx",
