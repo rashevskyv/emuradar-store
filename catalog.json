@@ -1290,6 +1290,14 @@
       "category": "port"
     },
     {
+      "name": "maprando-nx",
+      "title": "MapRando-NX",
+      "repo": "Starwarsfan2099/MapRando-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "mari0-switch",
       "title": "mari0",
       "repo": "delsonazevedo/mari0-switch",
@@ -1319,6 +1327,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "mega-man-w-switch-homebrew",
+      "title": "mega man w switch homebrew",
+      "repo": "Vroccolli/mega-man-w-switch-homebrew",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "megamanx-nx",
@@ -1409,6 +1424,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "naruto-rise-of-a-ninja-nx",
+      "title": "naruto rise of a ninja nx",
+      "repo": "malinkin-s/naruto-rise-of-a-ninja-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "nbajam_nx",
@@ -2933,6 +2955,13 @@
       "repo": "ChanseyIsTheBest/zookeeperdx_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "zuma-nx",
+      "title": "zuma nx",
+      "repo": "ChanseyIsTheBest/zuma-nx",
+      "section": "",
+      "version_hint": ""
     }
   ]
 }
