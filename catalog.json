@@ -1097,6 +1097,13 @@
       "category": "port"
     },
     {
+      "name": "ketsui-nx",
+      "title": "ketsui nx",
+      "repo": "ChanseyIsTheBest/ketsui-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "khux_nx",
       "title": "Kingdom Hearts Union χ Dark Road",
       "repo": "NaGaa95/KHUx_nx",
@@ -2336,6 +2343,13 @@
       "category": "port"
     },
     {
+      "name": "street-nx",
+      "title": "street nx",
+      "repo": "xsaja/street-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sts2_nx",
       "title": "sts2",
       "repo": "ChanseyIsTheBest/sts2_nx",
@@ -2543,6 +2557,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "tekken3-nx",
+      "title": "tekken3 nx",
+      "repo": "markaurel13/tekken3-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "tf2_nx",
