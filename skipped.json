@@ -270,6 +270,11 @@
   "reason": "no published release"
  },
  {
+  "name": "sms-switch",
+  "repo": "chasem-dev/sms-switch",
+  "reason": "no published release"
+ },
+ {
   "name": "sonic-riders-recomp",
   "repo": "teclilla18/sonic-riders-recomp",
   "reason": "no .nro inside the archive assets"

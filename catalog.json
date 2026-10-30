@@ -116,6 +116,13 @@
       "category": "port"
     },
     {
+      "name": "atomic-bomberman",
+      "title": "atomic bomberman",
+      "repo": "rashevskyv/atomic-bomberman",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "audiorelaynx",
       "title": "audiorelaynx",
       "repo": "lantiiii/audiorelaynx",
@@ -152,6 +159,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "bangaio-nx",
+      "title": "bangaio nx",
+      "repo": "ChanseyIsTheBest/bangaio-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "battd_nx",
@@ -932,6 +946,13 @@
       "repo": "NaGaa95/gtasa_nx",
       "section": "Android",
       "version_hint": "1.0.2"
+    },
+    {
+      "name": "guardian-heroes-recomp-public",
+      "title": "guardian heroes recomp public",
+      "repo": "rashevskyv/guardian-heroes-recomp-public",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "gvasviewer",
@@ -2829,6 +2850,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "ue4cfgdumper",
+      "title": "UE4cfgdumper",
+      "repo": "masagrator/UE4cfgdumper",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "usf4-nx",
