@@ -1531,5 +1531,11 @@
   },
   {
     "repo": "ChanseyIsTheBest/bangaio-nx"
+  },
+  {
+    "repo": "masagrator/UE4cfgdumper",
+    "title": "UE4cfgdumper",
+    "section": "Digest",
+    "category": "port"
   }
 ]
