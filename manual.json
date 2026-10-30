@@ -1537,5 +1537,8 @@
     "title": "UE4cfgdumper",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "seamusduncmcgrath/CosmologyOfKyoto-Recompiled"
   }
 ]
