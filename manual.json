@@ -1555,5 +1555,17 @@
   },
   {
     "repo": "AndryTheBeast/Songate"
+  },
+  {
+    "repo": "dodosiiii/SwitchInfoNX",
+    "title": "SwitchInfoNX",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "chiaki-ng/chiaki-ng",
+    "title": "chiaki-ng",
+    "section": "Digest",
+    "category": "port"
   }
 ]
