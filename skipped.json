@@ -30,6 +30,11 @@
   "reason": "no published release"
  },
  {
+  "name": "chiaki-ng",
+  "repo": "chiaki-ng/chiaki-ng",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "d3hack",
   "repo": "god-jester/d3hack",
   "reason": "no .nro inside the archive assets"

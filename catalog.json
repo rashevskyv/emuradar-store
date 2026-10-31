@@ -365,6 +365,14 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "chiaki-ng",
+      "title": "chiaki-ng",
+      "repo": "chiaki-ng/chiaki-ng",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "chocolate-doom-nx",
       "title": "Doom",
       "repo": "lantus/chocolate-doom-nx",
@@ -414,6 +422,13 @@
       "version_hint": "",
       "category": "port",
       "details": "Conker: Live & Reloaded (Xbox), statically recompiled. You need your own unpacked retail NTSC (North America) disc in sdmc:/switch/clx/game/ (default.xbe inside). Start with title takeover: hold R while you open a game, then pick this app in hbmenu. The first start compiles shaders and can stutter; let it finish."
+    },
+    {
+      "name": "cosmologyofkyoto-recompiled",
+      "title": "CosmologyOfKyoto Recompiled",
+      "repo": "seamusduncmcgrath/CosmologyOfKyoto-Recompiled",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "cr3_nx",
@@ -1491,6 +1506,13 @@
       "category": "emu"
     },
     {
+      "name": "nexvyn-os-nx",
+      "title": "Nexvyn OS NX",
+      "repo": "sonerx7/Nexvyn-OS-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "nezumiiruka",
       "title": "Porpoise",
       "repo": "PalindromicBreadLoaf/nezumiiruka",
@@ -1502,6 +1524,13 @@
       "name": "nfm-switch-port",
       "title": "nfm switch port",
       "repo": "HopeAero/nfm-switch-port",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "nfs-carbon-nx",
+      "title": "NFS Carbon NX",
+      "repo": "zofo007/NFS-Carbon-NX",
       "section": "",
       "version_hint": ""
     },
@@ -1536,6 +1565,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "nights-nx",
+      "title": "nights nx",
+      "repo": "ChanseyIsTheBest/nights-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "nojme",
@@ -1856,6 +1892,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "pokemon-ds-widescreen",
+      "title": "pokemon ds widescreen",
+      "repo": "mamesj/pokemon-ds-widescreen",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "polonx-switchu",
@@ -2202,6 +2245,13 @@
       "version_hint": ""
     },
     {
+      "name": "songate",
+      "title": "Songate",
+      "repo": "AndryTheBeast/Songate",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sonic-cd-11-decompilation",
       "title": "Sonic CD",
       "repo": "heyjoeway/Sonic-CD-11-Decompilation",
@@ -2499,6 +2549,14 @@
       "repo": "depende3000/SwitchAirCast",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "switchinfonx",
+      "title": "SwitchInfoNX",
+      "repo": "dodosiiii/SwitchInfoNX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "switchnow",
