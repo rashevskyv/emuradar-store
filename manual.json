@@ -1567,5 +1567,8 @@
     "title": "chiaki-ng",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "laureladastra/mcdub3-nx"
   }
 ]
