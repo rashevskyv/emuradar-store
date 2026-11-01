@@ -1585,5 +1585,17 @@
   },
   {
     "repo": "ChanseyIsTheBest/renut-nx"
+  },
+  {
+    "repo": "murat303/ytb-player",
+    "title": "YTB Player",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "mamesj/pokemon-fulldex",
+    "title": "pokemon ds widescreen (Port)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
