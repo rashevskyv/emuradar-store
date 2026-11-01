@@ -150,6 +150,11 @@
   "reason": "no published release"
  },
  {
+  "name": "mlbpowerpros2008recomp",
+  "repo": "HopeAero/MLBPowerPros2008Recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "n64modernruntime-nx",
   "repo": "PalindromicBreadLoaf/N64ModernRuntime-nx",
   "reason": "no published release"

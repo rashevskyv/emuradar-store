@@ -214,6 +214,13 @@
       "version_hint": ""
     },
     {
+      "name": "bo2-360-nx",
+      "title": "bo2 360 nx",
+      "repo": "AlvaroEPena/bo2-360-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "bo2-requiem-nx",
       "title": "BO2 Requiem NX",
       "repo": "HDErick/BO2-Requiem-NX",
@@ -1147,6 +1154,13 @@
       "version_hint": "1.0.1"
     },
     {
+      "name": "kicknx",
+      "title": "kickNX",
+      "repo": "j2k-lab/kickNX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "killerbean_nx",
       "title": "Killer Bean Unleashed",
       "repo": "ChanseyIsTheBest/killerbean_nx",
@@ -1289,6 +1303,13 @@
       "category": "tool"
     },
     {
+      "name": "lm-nx",
+      "title": "lm nx",
+      "repo": "StevensND/lm-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "lnsor_nx",
       "title": "LEGO Ninjago Shadow of Ronin",
       "repo": "NaGaa95/lnsor_nx",
@@ -1372,6 +1393,13 @@
       "category": "tool"
     },
     {
+      "name": "mcdub3-nx",
+      "title": "mcdub3 nx",
+      "repo": "laureladastra/mcdub3-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mega-man-w-switch-homebrew",
       "title": "mega man w switch homebrew",
       "repo": "Vroccolli/mega-man-w-switch-homebrew",
@@ -1397,6 +1425,13 @@
       "name": "mkdd-nx",
       "title": "mkdd nx",
       "repo": "digdat0/mkdd-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "mlbpowerpros2008recomp",
+      "title": "MLBPowerPros2008Recomp",
+      "repo": "HopeAero/MLBPowerPros2008Recomp",
       "section": "",
       "version_hint": ""
     },
@@ -1901,6 +1936,14 @@
       "version_hint": ""
     },
     {
+      "name": "pokemon-fulldex",
+      "title": "pokemon ds widescreen (Port)",
+      "repo": "mamesj/pokemon-fulldex",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "polonx-switchu",
       "title": "SwitchU",
       "repo": "PoloNX/SwitchU",
@@ -2031,6 +2074,13 @@
       "version_hint": "1.6.1 rai"
     },
     {
+      "name": "reblue",
+      "title": "reblue",
+      "repo": "Ad0ky/reblue",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "redriver2-switch",
       "title": "Driver 2 (REDRIVER2)",
       "repo": "jamyaro/REDRIVER2-switch",
@@ -2043,6 +2093,13 @@
       "repo": "reflex909/2ship2harkinian-Switch",
       "section": "Nintendo 64",
       "version_hint": "4.0.2"
+    },
+    {
+      "name": "renut-nx",
+      "title": "renut nx",
+      "repo": "ChanseyIsTheBest/renut-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "revolt_nx",
@@ -2153,6 +2210,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "shank1-nx",
+      "title": "shank1 nx",
+      "repo": "zhtipu/shank1-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "shield-l4t-initramfs",
@@ -3003,6 +3067,14 @@
       "repo": "DI4VOLO-dev/ys1x_nx",
       "section": "Android",
       "version_hint": "0.2"
+    },
+    {
+      "name": "ytb-player",
+      "title": "YTB Player",
+      "repo": "murat303/ytb-player",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "zelda-la-dx-hd-updated",
