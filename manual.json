@@ -1606,5 +1606,11 @@
   },
   {
     "repo": "ChanseyIsTheBest/katamari-nx"
+  },
+  {
+    "repo": "Meluxz/iceage2-sw",
+    "title": "iceage2-sw",
+    "section": "Digest",
+    "category": "port"
   }
 ]
