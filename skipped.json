@@ -225,6 +225,16 @@
   "reason": "no published release"
  },
  {
+  "name": "pokemon-ds-widescreen",
+  "repo": "mamesj/pokemon-ds-widescreen",
+  "reason": "no .nro or .zip asset"
+ },
+ {
+  "name": "pokemon-fulldex",
+  "repo": "mamesj/pokemon-fulldex",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "port0r",
   "repo": "jacquesdupontd/port0r",
   "reason": "no .nro or .zip asset"

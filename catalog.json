@@ -1084,6 +1084,14 @@
       "category": "port"
     },
     {
+      "name": "iceage2-sw",
+      "title": "iceage2-sw",
+      "repo": "Meluxz/iceage2-sw",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "insaniquarium_nx",
       "title": "Insaniquarium Deluxe",
       "repo": "ChanseyIsTheBest/insaniquarium_nx",
@@ -1130,6 +1138,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "katamari-nx",
+      "title": "katamari nx",
+      "repo": "ChanseyIsTheBest/katamari-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "kefir",
