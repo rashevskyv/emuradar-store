@@ -685,6 +685,14 @@
       "version_hint": "PR 2"
     },
     {
+      "name": "ducktales-nx",
+      "title": "Ducktales-NX",
+      "repo": "Thorhax/Ducktales-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "dukedashington_nx",
       "title": "Duke Dashington Remastered",
       "repo": "ChanseyIsTheBest/dukedashington_nx",
@@ -1104,6 +1112,14 @@
       "title": "Ipswitch Megamix Patches",
       "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "iwbtg-remastered-tribute-edition-switch",
+      "title": "IWBTGR Tribute Edition",
+      "repo": "kaizerfcm/iwbtg-remastered-tribute-edition-switch",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -1593,6 +1609,13 @@
       "category": "port"
     },
     {
+      "name": "nfsmostwanted2012-android-switch",
+      "title": "NFSMostWanted2012 Android Switch",
+      "repo": "SantiBros/NFSMostWanted2012-Android-Switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "nfsmw-nx",
       "title": "Need for Speed: Most Wanted",
       "repo": "StevensND/nfsmw-nx",
@@ -1744,6 +1767,14 @@
       "name": "open-ptk",
       "title": "open-ptk",
       "repo": "artem14133q/open-ptk",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "openaok",
+      "title": "OpenAoK",
+      "repo": "Zaydme/openaok",
       "section": "Digest",
       "version_hint": "",
       "category": "port"
@@ -1926,6 +1957,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "playlog",
+      "title": "PlayLog",
+      "repo": "fidd0x/PlayLog",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "plume-nx",
@@ -2550,6 +2588,21 @@
       "repo": "souldbminerr/swi-nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "switch-artemis-launcher",
+      "title": "switch artemis launcher",
+      "repo": "alula/switch-artemis-launcher",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "switch-discord-activity",
+      "title": "Switch Discord Activity",
+      "repo": "saekaze/switch-discord-activity",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "switch-frame-tap",

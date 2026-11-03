@@ -315,6 +315,11 @@
   "reason": "no published release"
  },
  {
+  "name": "switch-artemis-launcher",
+  "repo": "alula/switch-artemis-launcher",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "switch-l4t-kernel-4-9",
   "repo": "NaGaa95/switch-l4t-kernel-4.9",
   "reason": "no published release"
