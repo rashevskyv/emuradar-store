@@ -1612,5 +1612,8 @@
     "title": "iceage2-sw",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "SantiBros/NFSMostWanted2012-Android-Switch"
   }
 ]
