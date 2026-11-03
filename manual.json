@@ -1633,5 +1633,11 @@
     "title": "Switch Discord Activity",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Thorhax/Ducktales-NX",
+    "title": "Ducktales-NX",
+    "section": "Digest",
+    "category": "port"
   }
 ]
