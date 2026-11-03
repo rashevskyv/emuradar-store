@@ -1615,5 +1615,23 @@
   },
   {
     "repo": "SantiBros/NFSMostWanted2012-Android-Switch"
+  },
+  {
+    "repo": "Zaydme/openaok",
+    "title": "OpenAoK",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "kaizerfcm/iwbtg-remastered-tribute-edition-switch",
+    "title": "IWBTGR Tribute Edition",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "saekaze/switch-discord-activity",
+    "title": "Switch Discord Activity",
+    "section": "Digest",
+    "category": "port"
   }
 ]
