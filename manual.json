@@ -1639,5 +1639,8 @@
     "title": "Ducktales-NX",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "alula/switch-artemis-launcher"
   }
 ]
