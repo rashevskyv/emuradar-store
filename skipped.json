@@ -5,6 +5,11 @@
   "reason": "no .nro or .zip asset"
  },
  {
+  "name": "bo2-360-nx",
+  "repo": "AlvaroEPena/bo2-360-nx",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "borealis",
   "repo": "PalindromicBreadLoaf/borealis",
   "reason": "no published release"
@@ -180,6 +185,11 @@
   "reason": "no published release"
  },
  {
+  "name": "ns2jb-modloader",
+  "repo": "SebaaMG/ns2jb-modloader",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "nsp-auto-installer-maker",
   "repo": "CNX17/NSP-Auto-Installer-Maker",
   "reason": "no .nro inside the archive assets"
@@ -227,12 +237,12 @@
  {
   "name": "pokemon-ds-widescreen",
   "repo": "mamesj/pokemon-ds-widescreen",
-  "reason": "no .nro or .zip asset"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "pokemon-fulldex",
   "repo": "mamesj/pokemon-fulldex",
-  "reason": "no .nro or .zip asset"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "port0r",
@@ -315,6 +325,16 @@
   "reason": "no published release"
  },
  {
+  "name": "stevensnd-gtalcs_nx",
+  "repo": "StevensND/gtalcs_nx",
+  "reason": "no published release"
+ },
+ {
+  "name": "stevensnd-subwaysurfers_nx",
+  "repo": "StevensND/subwaysurfers_nx",
+  "reason": "no published release"
+ },
+ {
   "name": "switch-artemis-launcher",
   "repo": "alula/switch-artemis-launcher",
   "reason": "no .nro inside the archive assets"
@@ -377,6 +397,11 @@
  {
   "name": "tico-tresdeesse",
   "repo": "ticohq/tico-tresdeesse",
+  "reason": "no published release"
+ },
+ {
+  "name": "twilightprincess-hblauncher",
+  "repo": "ravensclawx/TwilightPrincess-HBLauncher",
   "reason": "no published release"
  },
  {

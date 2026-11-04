@@ -401,6 +401,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "cod6-nx",
+      "title": "COD6 NX",
+      "repo": "GreenieSparkles/COD6-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "coi_nx",
       "title": "Castle of Illusion",
       "repo": "NaGaa95/coi_nx",
@@ -940,6 +947,13 @@
       "version_hint": "2.0.0"
     },
     {
+      "name": "godfather-nx",
+      "title": "godfather nx",
+      "repo": "CYBERPUNK20/godfather-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "goldenballoon_nx",
       "title": "Golden Balloon",
       "repo": "boraeskicioglu/goldenballoon_nx",
@@ -1061,6 +1075,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "hexichd-nx",
+      "title": "hexichd nx",
+      "repo": "ChanseyIsTheBest/hexichd-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "hitmango_nx",
@@ -1211,6 +1232,13 @@
       "name": "kirikiroid2-nx",
       "title": "Kirikiroid2 NX",
       "repo": "Erige005/Kirikiroid2-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "krkr-ns",
+      "title": "krkr ns",
+      "repo": "DrFlyingPig/krkr-ns",
       "section": "",
       "version_hint": ""
     },
@@ -1453,6 +1481,13 @@
       "category": "port"
     },
     {
+      "name": "mini-ninjas-nx",
+      "title": "mini ninjas nx",
+      "repo": "infriker/mini-ninjas-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mkdd-nx",
       "title": "mkdd nx",
       "repo": "digdat0/mkdd-nx",
@@ -1661,6 +1696,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "ns2jb-modloader",
+      "title": "ns2jb modloader",
+      "repo": "SebaaMG/ns2jb-modloader",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "nsp-auto-installer-maker",
@@ -3030,6 +3072,13 @@
       "name": "tweebbonx",
       "title": "TweebboNX",
       "repo": "Tweebbo/TweebboNX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "twilightprincess-hblauncher",
+      "title": "TwilightPrincess HBLauncher",
+      "repo": "ravensclawx/TwilightPrincess-HBLauncher",
       "section": "",
       "version_hint": ""
     },
