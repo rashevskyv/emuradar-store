@@ -1045,6 +1045,13 @@
       "version_hint": "2.0.0"
     },
     {
+      "name": "hard-corps-uprising-recompiled",
+      "title": "hard corps uprising recompiled",
+      "repo": "rashevskyv/hard-corps-uprising-recompiled",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "hayatog-armsx2-nx",
       "title": "Armsx2 NX",
       "repo": "HayatoG/ARMSX2-NX",
@@ -1143,6 +1150,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "iz2s-platform",
+      "title": "IZ2S Platform",
+      "repo": "byizmysh/IZ2S-Platform",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "j2me-nxx",
@@ -3141,6 +3155,13 @@
       "repo": "delsonazevedo/vpl_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "wireguard-nx",
+      "title": "wireguard nx",
+      "repo": "UnderwaterOverground/wireguard-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "wmw2_nx",

@@ -5,11 +5,6 @@
   "reason": "no .nro or .zip asset"
  },
  {
-  "name": "bo2-360-nx",
-  "repo": "AlvaroEPena/bo2-360-nx",
-  "reason": "no .nro inside the archive assets"
- },
- {
   "name": "borealis",
   "repo": "PalindromicBreadLoaf/borealis",
   "reason": "no published release"
@@ -118,6 +113,11 @@
   "name": "ipswitch-megamix-patches",
   "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
   "reason": "no published release"
+ },
+ {
+  "name": "iz2s-platform",
+  "repo": "byizmysh/IZ2S-Platform",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "kinestop",
@@ -233,16 +233,6 @@
   "name": "plume-nx",
   "repo": "PalindromicBreadLoaf/plume-nx",
   "reason": "no published release"
- },
- {
-  "name": "pokemon-ds-widescreen",
-  "repo": "mamesj/pokemon-ds-widescreen",
-  "reason": "no .nro inside the archive assets"
- },
- {
-  "name": "pokemon-fulldex",
-  "repo": "mamesj/pokemon-fulldex",
-  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "port0r",
@@ -408,6 +398,11 @@
   "name": "uam",
   "repo": "PalindromicBreadLoaf/uam",
   "reason": "no published release"
+ },
+ {
+  "name": "wireguard-nx",
+  "repo": "UnderwaterOverground/wireguard-nx",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "zelda3",
