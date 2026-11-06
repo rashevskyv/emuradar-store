@@ -1690,5 +1690,11 @@
   },
   {
     "repo": "Zumoly/Humbug-NX"
+  },
+  {
+    "repo": "XDASCATX/DS2_switch",
+    "title": "DS2_switch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
