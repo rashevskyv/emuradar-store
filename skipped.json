@@ -5,6 +5,11 @@
   "reason": "no .nro or .zip asset"
  },
  {
+  "name": "ben10-nx",
+  "repo": "LaLemniscata/ben10-nx",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "borealis",
   "repo": "PalindromicBreadLoaf/borealis",
   "reason": "no published release"

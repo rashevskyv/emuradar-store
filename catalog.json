@@ -191,6 +191,13 @@
       "version_hint": ""
     },
     {
+      "name": "ben10-nx",
+      "title": "ben10 nx",
+      "repo": "LaLemniscata/ben10-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "betterbedrock-nx",
       "title": "BetterBedrock NX",
       "repo": "TomasUribe/betterbedrock-nx",
@@ -1120,6 +1127,13 @@
       "category": "port"
     },
     {
+      "name": "humbug-nx",
+      "title": "Humbug NX",
+      "repo": "Zumoly/Humbug-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "iceage2-sw",
       "title": "iceage2-sw",
       "repo": "Meluxz/iceage2-sw",
@@ -1189,6 +1203,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "joyoff",
+      "title": "JoyOff",
+      "repo": "sthetix/JoyOff",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "katamari-nx",
@@ -2371,6 +2392,14 @@
       "repo": "Ibnuard/sleepingdogs_nx",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "slipstreamce",
+      "title": "Halo: Combat Evolved (Port)",
+      "repo": "thelinkin3000/SlipstreamCE",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "sm",
