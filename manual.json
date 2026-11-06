@@ -1696,5 +1696,11 @@
     "title": "DS2_switch",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "penettrator/Mercenaries2-NX",
+    "title": "Mercenaries2-NX",
+    "section": "Digest",
+    "category": "port"
   }
 ]
