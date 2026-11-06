@@ -1687,5 +1687,8 @@
     "title": "Halo: Combat Evolved (Port)",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Zumoly/Humbug-NX"
   }
 ]
