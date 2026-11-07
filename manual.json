@@ -1702,5 +1702,11 @@
     "title": "Mercenaries2-NX",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "adumah/alice-nx",
+    "title": "alice-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
