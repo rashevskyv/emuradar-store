@@ -1717,5 +1717,11 @@
     "title": "ds1-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Thorhax/mk9-nx",
+    "title": "mk9-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
