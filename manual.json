@@ -1708,5 +1708,8 @@
     "title": "alice-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "powermoonoff/yamu-nx"
   }
 ]
