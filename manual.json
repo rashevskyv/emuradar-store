@@ -1711,5 +1711,11 @@
   },
   {
     "repo": "powermoonoff/yamu-nx"
+  },
+  {
+    "repo": "VasilkovND/ds1-nx",
+    "title": "ds1-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
