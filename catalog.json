@@ -692,6 +692,14 @@
       "category": "emu"
     },
     {
+      "name": "ds2_switch",
+      "title": "DS2_switch",
+      "repo": "XDASCATX/DS2_switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "duckstation",
       "title": "Duckstation",
       "repo": "shooterspps/duckstation",
@@ -1506,6 +1514,14 @@
       "repo": "Thorhax/MegaManX-NX",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "mercenaries2-nx",
+      "title": "Mercenaries2-NX",
+      "repo": "penettrator/Mercenaries2-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "mgr-nx-deko",
