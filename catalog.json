@@ -65,6 +65,14 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "alice-nx",
+      "title": "alice-nx",
+      "repo": "adumah/alice-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "angrybirds2_nx",
       "title": "Angry Birds 2",
       "repo": "NaGaa95/angrybirds2_nx",
@@ -682,6 +690,14 @@
       "repo": "delsonazevedo/drmariomania_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "ds1-nx",
+      "title": "ds1-nx",
+      "repo": "VasilkovND/ds1-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "ds2-nx",
@@ -1539,6 +1555,14 @@
       "version_hint": ""
     },
     {
+      "name": "mk9-nx",
+      "title": "mk9-nx",
+      "repo": "Thorhax/mk9-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "mkdd-nx",
       "title": "mkdd nx",
       "repo": "digdat0/mkdd-nx",
@@ -1656,6 +1680,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "nexus-usb-hats",
+      "title": "Nexus USB HATS",
+      "repo": "TR4UNEXUS/Nexus-USB-HATS",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "nexvyn-os-nx",
@@ -3236,6 +3268,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "yamu-nx",
+      "title": "yamu nx",
+      "repo": "powermoonoff/yamu-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "yoshicrystal9-2ship2harkinian-switch",
