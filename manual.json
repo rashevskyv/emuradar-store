@@ -1723,5 +1723,11 @@
     "title": "mk9-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "TR4UNEXUS/Nexus-USB-HATS",
+    "title": "Nexus USB HATS",
+    "section": "Digest",
+    "category": "port"
   }
 ]
