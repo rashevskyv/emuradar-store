@@ -1729,5 +1729,8 @@
     "title": "Nexus USB HATS",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "6rimson/WiiCompiled-Switch2"
   }
 ]
