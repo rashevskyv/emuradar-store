@@ -1735,5 +1735,11 @@
   },
   {
     "repo": "infriker/fear-nx"
+  },
+  {
+    "repo": "ppkantorski/Status-Monitor-Overlay",
+    "title": "Status-Monitor-Overlay",
+    "section": "Digest",
+    "category": "port"
   }
 ]
