@@ -1750,5 +1750,8 @@
     "title": "shank2-nx",
     "section": "Digest",
     "category": "emu"
+  },
+  {
+    "repo": "new-coke/strikers"
   }
 ]
