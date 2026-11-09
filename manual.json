@@ -1744,5 +1744,11 @@
   },
   {
     "repo": "xsaja/street2-nx"
+  },
+  {
+    "repo": "zhtipu/shank2-nx",
+    "title": "shank2-nx",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
