@@ -12,7 +12,7 @@
  {
   "name": "ben10-nx",
   "repo": "LaLemniscata/ben10-nx",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "borealis",
@@ -42,17 +42,12 @@
  {
   "name": "chiaki-ng",
   "repo": "chiaki-ng/chiaki-ng",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
- },
- {
-  "name": "conker-lr-recomp",
-  "repo": "rashevskyv/conker-lr-recomp",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "d3hack",
   "repo": "god-jester/d3hack",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "dantes-inferno-nx",
@@ -105,11 +100,6 @@
   "reason": "no .nro or .zip asset"
  },
  {
-  "name": "gen1recomp",
-  "repo": "bryanthaboi/gen1recomp",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
- },
- {
   "name": "genshinimpact_nx",
   "repo": "NaGaa95/genshinimpact_nx",
   "reason": "no published release"
@@ -117,22 +107,17 @@
  {
   "name": "ghostship",
   "repo": "HarbourMasters/Ghostship",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "gvasviewer",
   "repo": "turtle-insect/GvasViewer",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
- },
- {
-  "name": "halo-ce-universal",
-  "repo": "thelinkin3000/halo-ce-universal",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "hayatog-switchu",
   "repo": "HayatoG/SwitchU",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "hekate-pro",
@@ -147,12 +132,12 @@
  {
   "name": "iz2s-platform",
   "repo": "byizmysh/IZ2S-Platform",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "kinestop",
   "repo": "sertay1/kinestop",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "l4t-megascript",
@@ -177,7 +162,7 @@
  {
   "name": "lineageos-oc-nx_tab",
   "repo": "NaGaa95/LineageOS-OC-nx_tab",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "lsfg-nx",
@@ -185,19 +170,9 @@
   "reason": "no published release"
  },
  {
-  "name": "mk9-nx",
-  "repo": "Thorhax/mk9-nx",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
- },
- {
-  "name": "mkdd-nx",
-  "repo": "digdat0/mkdd-nx",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
- },
- {
   "name": "mlbpowerpros2008recomp",
   "repo": "HopeAero/MLBPowerPros2008Recomp",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "n64modernruntime-nx",
@@ -220,11 +195,6 @@
   "reason": "no published release"
  },
  {
-  "name": "nexus-usb-hats",
-  "repo": "TR4UNEXUS/Nexus-USB-HATS",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
- },
- {
   "name": "nojme",
   "repo": "corax89/noJMe",
   "reason": "no published release"
@@ -232,12 +202,12 @@
  {
   "name": "ns2jb-modloader",
   "repo": "SebaaMG/ns2jb-modloader",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "nsp-auto-installer-maker",
   "repo": "CNX17/NSP-Auto-Installer-Maker",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "nwn2-switch-lan",
@@ -265,11 +235,6 @@
   "reason": "no published release"
  },
  {
-  "name": "openaok",
-  "repo": "Zaydme/openaok",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
- },
- {
   "name": "picofly-pro-cfw",
   "repo": "NaGaa95/Picofly-Pro-CFW",
   "reason": "no published release"
@@ -283,16 +248,6 @@
   "name": "plume-nx",
   "repo": "PalindromicBreadLoaf/plume-nx",
   "reason": "no published release"
- },
- {
-  "name": "pokemon-ds-widescreen",
-  "repo": "mamesj/pokemon-ds-widescreen",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
- },
- {
-  "name": "pokemon-fulldex",
-  "repo": "mamesj/pokemon-fulldex",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
  },
  {
   "name": "port0r",
@@ -347,12 +302,7 @@
  {
   "name": "simple-trainer-bl2-switch",
   "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
- },
- {
-  "name": "slipstreamce",
-  "repo": "thelinkin3000/SlipstreamCE",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out (previous version kept)"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "sm",
@@ -367,22 +317,27 @@
  {
   "name": "sonic-riders-recomp",
   "repo": "teclilla18/sonic-riders-recomp",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "spaghettikart",
   "repo": "HarbourMasters/SpaghettiKart",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "spiderman2-2004-nx",
   "repo": "SantiBros/SpiderMan2-2004-NX",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "spidermonkey-nx",
   "repo": "souldbminerr/spidermonkey-NX",
   "reason": "no published release"
+ },
+ {
+  "name": "status-monitor-overlay",
+  "repo": "ppkantorski/Status-Monitor-Overlay",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "stevensnd-gtalcs_nx",
@@ -397,7 +352,7 @@
  {
   "name": "switch-artemis-launcher",
   "repo": "alula/switch-artemis-launcher",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "switch-l4t-kernel-4-9",
@@ -427,7 +382,7 @@
  {
   "name": "switch-store-releases",
   "repo": "HayatoG/switch-store-releases",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "switchports",
@@ -437,12 +392,12 @@
  {
   "name": "switchwakerhd",
   "repo": "centollOS/SwitchWakerHD",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "sys-ticon",
   "repo": "masagrator/sys-ticon",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "tailscale-nx",
@@ -470,13 +425,18 @@
   "reason": "no published release"
  },
  {
+  "name": "wiicompiled-switch2",
+  "repo": "6rimson/WiiCompiled-Switch2",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "wireguard-nx",
   "repo": "UnderwaterOverground/wireguard-nx",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "zelda3",
   "repo": "snesrev/zelda3",
-  "reason": "error: HTTPError: HTTP Error 504: Gateway Time-out"
+  "reason": "no .nro inside the archive assets"
  }
 ]

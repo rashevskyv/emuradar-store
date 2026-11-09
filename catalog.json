@@ -798,6 +798,13 @@
       "version_hint": "1.1.1"
     },
     {
+      "name": "fear-nx",
+      "title": "fear nx",
+      "repo": "infriker/fear-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "feedingfrenzy-nx",
       "title": "feedingfrenzy nx",
       "repo": "ChanseyIsTheBest/feedingfrenzy-nx",
@@ -2648,6 +2655,14 @@
       "category": "port"
     },
     {
+      "name": "status-monitor-overlay",
+      "title": "Status-Monitor-Overlay",
+      "repo": "ppkantorski/Status-Monitor-Overlay",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "stevensnd-gtalcs_nx",
       "title": "GTA: Liberty City Stories",
       "repo": "StevensND/gtalcs_nx",
@@ -3232,6 +3247,13 @@
       "repo": "delsonazevedo/vpl_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "wiicompiled-switch2",
+      "title": "WiiCompiled Switch2",
+      "repo": "6rimson/WiiCompiled-Switch2",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "wireguard-nx",
