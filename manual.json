@@ -1741,5 +1741,8 @@
     "title": "Status-Monitor-Overlay",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "xsaja/street2-nx"
   }
 ]
