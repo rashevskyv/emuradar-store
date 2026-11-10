@@ -230,6 +230,11 @@
   "reason": "no published release"
  },
  {
+  "name": "nx_firmware",
+  "repo": "THZoria/NX_Firmware",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "nxvk",
   "repo": "PalindromicBreadLoaf/nxvk",
   "reason": "no published release"
@@ -348,6 +353,11 @@
   "name": "stevensnd-subwaysurfers_nx",
   "repo": "StevensND/subwaysurfers_nx",
   "reason": "no published release"
+ },
+ {
+  "name": "strikers",
+  "repo": "new-coke/strikers",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "switch-artemis-launcher",

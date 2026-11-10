@@ -1874,6 +1874,14 @@
       "category": "tool"
     },
     {
+      "name": "nx_firmware",
+      "title": "NX-Firmware",
+      "repo": "THZoria/NX_Firmware",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "nxcloud",
       "title": "NXCloud",
       "repo": "denpingus/NXCloud",
@@ -2404,6 +2412,14 @@
       "version_hint": ""
     },
     {
+      "name": "shank2-nx",
+      "title": "shank2-nx",
+      "repo": "zhtipu/shank2-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "shield-l4t-initramfs",
       "title": "shield-l4t-initramfs",
       "repo": "NaGaa95/shield-l4t-initramfs",
@@ -2682,6 +2698,20 @@
       "name": "street-nx",
       "title": "street nx",
       "repo": "xsaja/street-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "street2-nx",
+      "title": "street2 nx",
+      "repo": "xsaja/street2-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "strikers",
+      "title": "strikers",
+      "repo": "new-coke/strikers",
       "section": "",
       "version_hint": ""
     },
@@ -3195,6 +3225,17 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "uaplay-nx",
+      "title": "UAPlay",
+      "repo": "Small182/UAPlay-nx",
+      "section": "Manual",
+      "version_hint": "",
+      "author": "Small182",
+      "category": "misc",
+      "description": "Movies and series from UAFlix and UASerials.",
+      "details": "Native player for movies and series from UAFlix and UASerials, with TMDB metadata in Ukrainian. Favorites, watch history and resume position. Start it with title takeover: hold R while you open a game, then pick UAPlay in hbmenu."
     },
     {
       "name": "ue4cfgdumper",
