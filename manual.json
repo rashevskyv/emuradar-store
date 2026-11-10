@@ -1753,5 +1753,11 @@
   },
   {
     "repo": "new-coke/strikers"
+  },
+  {
+    "repo": "THZoria/NX_Firmware",
+    "title": "NX-Firmware",
+    "section": "Digest",
+    "category": "port"
   }
 ]
