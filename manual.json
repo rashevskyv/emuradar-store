@@ -1759,5 +1759,14 @@
     "title": "NX-Firmware",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Small182/UAPlay-nx",
+    "title": "UAPlay",
+    "section": "Manual",
+    "category": "misc",
+    "author": "Small182",
+    "description": "Movies and series from UAFlix and UASerials.",
+    "details": "Native player for movies and series from UAFlix and UASerials, with TMDB metadata in Ukrainian. Favorites, watch history and resume position. Start it with title takeover: hold R while you open a game, then pick UAPlay in hbmenu."
   }
 ]
