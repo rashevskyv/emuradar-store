@@ -215,14 +215,19 @@ def repo_entry(e, release, zip_len, nro_size, md5, binary, download):
 
 
 def apply_description(entry, e):
-    """The repo's own GitHub description replaces the generic "Switch port: <platform>" text."""
+    """The repo's own GitHub description replaces the generic "Switch port: <platform>" text.
+    A description or details set in manual.json is kept."""
+    if e.get("description") and e.get("details"):
+        return
     info = api_get(f"/repos/{e['repo']}", allow404=True) or {}
     text = " ".join((info.get("description") or "").split())
     if not text:
         return
     platform = "\n\nOriginal platform: " + e["section"] if e.get("section") else ""
-    entry["description"] = text
-    entry["details"] = (text + platform + "\n\n" + entry.get("url", "")).strip()
+    if not e.get("description"):
+        entry["description"] = text
+    if not e.get("details"):
+        entry["details"] = (text + platform + "\n\n" + entry.get("url", "")).strip()
 
 
 def download_url(repo, name):
@@ -509,6 +514,10 @@ def process_entry(e, old, store_repo, zips_dir, store_assets):
         if old.get("description", "").startswith("Switch port"):
             old = dict(old)
             apply_description(old, e)
+        for k in ("description", "details"):   # manual.json text changed after the build
+            if e.get(k) and old.get(k) != e[k]:
+                old = dict(old)
+                old[k] = e[k]
         return old, False
 
     asset, member, nro_size = pick_source(rel.get("assets") or [], e["repo"], e["name"], open_remote_zip)

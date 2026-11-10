@@ -144,6 +144,17 @@ class RepoEntry(unittest.TestCase):
         self.assertEqual(entry["description"], "Mine")
         self.assertEqual(entry["updated"], "")
 
+    def test_github_description_keeps_manual_text(self):
+        orig = bs.api_get
+        bs.api_get = lambda *a, **k: {"description": "From GitHub"}
+        try:
+            entry = {"description": "Mine", "details": "Mine", "url": "u"}
+            bs.apply_description(entry, {"repo": "o/a", "description": "Mine"})
+            self.assertEqual(entry["description"], "Mine")
+            self.assertTrue(entry["details"].startswith("From GitHub"))
+        finally:
+            bs.api_get = orig
+
 
 class ManualOnlyPackage(unittest.TestCase):
     """A repo that only manual.json lists still becomes a port package with its fields."""
