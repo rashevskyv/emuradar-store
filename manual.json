@@ -1792,5 +1792,8 @@
     "title": "FuseCheck",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "NaGaa95/gtasa_nx"
   }
 ]
