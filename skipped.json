@@ -85,6 +85,11 @@
   "reason": "no published release"
  },
  {
+  "name": "fusecheck",
+  "repo": "sthetix/FuseCheck",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "futari-nx-installer",
   "repo": "ChanseyIsTheBest/futari-nx-installer",
   "reason": "no published release"
@@ -235,9 +240,24 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "nxnandmanager",
+  "repo": "THZoria/NxNandManager",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "nxpress",
+  "repo": "DeLFuS77/NXPress",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "nxvk",
   "repo": "PalindromicBreadLoaf/nxvk",
   "reason": "no published release"
+ },
+ {
+  "name": "p5r-android",
+  "repo": "Brandon04Gonzalez/p5r-android",
+  "reason": "no .nro or .zip asset"
  },
  {
   "name": "picofly-pro-cfw",
@@ -262,6 +282,11 @@
  {
   "name": "prelude-nextendo",
   "repo": "NextendoNetwork/Prelude-Nextendo",
+  "reason": "no published release"
+ },
+ {
+  "name": "projectcane",
+  "repo": "NaGaa95/ProjectCane",
   "reason": "no published release"
  },
  {
@@ -388,6 +413,11 @@
   "name": "switch-l4t-platform-t210-nx",
   "repo": "NaGaa95/switch-l4t-platform-t210-nx",
   "reason": "no published release"
+ },
+ {
+  "name": "switch-library-manager-web",
+  "repo": "DeLFuS77/switch-library-manager-web",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "switch-store-releases",

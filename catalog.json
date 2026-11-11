@@ -924,6 +924,14 @@
       "category": "tool"
     },
     {
+      "name": "fusecheck",
+      "title": "FuseCheck",
+      "repo": "sthetix/FuseCheck",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "futari-nx",
       "title": "Mushihimesama Futari Ver 1.5",
       "repo": "ChanseyIsTheBest/futari-nx",
@@ -1889,6 +1897,21 @@
       "version_hint": ""
     },
     {
+      "name": "nxnandmanager",
+      "title": "NxNandManager",
+      "repo": "THZoria/NxNandManager",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
+      "name": "nxpress",
+      "title": "NXPress",
+      "repo": "DeLFuS77/NXPress",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "nxvk",
       "title": "nxvk",
       "repo": "PalindromicBreadLoaf/nxvk",
@@ -2005,6 +2028,13 @@
       "name": "outrun2-decomp",
       "title": "outrun2 decomp",
       "repo": "r4dius/outrun2-decomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "p5r-android",
+      "title": "p5r android",
+      "repo": "Brandon04Gonzalez/p5r-android",
       "section": "",
       "version_hint": ""
     },
@@ -2836,6 +2866,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "tool"
+    },
+    {
+      "name": "switch-library-manager-web",
+      "title": "switch library manager web",
+      "repo": "DeLFuS77/switch-library-manager-web",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "switch-retro-offline",
