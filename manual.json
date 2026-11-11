@@ -1780,5 +1780,17 @@
   },
   {
     "repo": "DeLFuS77/NXPress"
+  },
+  {
+    "repo": "THZoria/NxNandManager",
+    "title": "NxNandManager",
+    "section": "Digest",
+    "category": "emu"
+  },
+  {
+    "repo": "sthetix/FuseCheck",
+    "title": "FuseCheck",
+    "section": "Digest",
+    "category": "port"
   }
 ]
