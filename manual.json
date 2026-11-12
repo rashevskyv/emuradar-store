@@ -1807,5 +1807,11 @@
   },
   {
     "repo": "DeLFuS77/NXDock"
+  },
+  {
+    "repo": "VasilkovND/ds3-nx",
+    "title": "ds3-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
