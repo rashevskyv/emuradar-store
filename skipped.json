@@ -200,6 +200,11 @@
   "reason": "no published release"
  },
  {
+  "name": "nier-recomp",
+  "repo": "IamWilmar/nier-recomp",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "nojme",
   "repo": "corax89/noJMe",
   "reason": "no published release"

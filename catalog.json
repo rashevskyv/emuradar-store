@@ -58,6 +58,13 @@
       "category": "emu"
     },
     {
+      "name": "acnh-power-pockets",
+      "title": "ACNH Power Pockets",
+      "repo": "chatelp/ACNH-Power-Pockets",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "acpc_nx",
       "title": "Animal Crossing: Pocket Camp",
       "repo": "NaGaa95/acpc_nx",
@@ -1412,6 +1419,13 @@
       "category": "port"
     },
     {
+      "name": "legobatman-recomp",
+      "title": "legobatman recomp",
+      "repo": "surblazer/legobatman-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "libultraship-switch",
       "title": "libultraship",
       "repo": "PalindromicBreadLoaf/libultraship-switch",
@@ -1771,6 +1785,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "nier-recomp",
+      "title": "nier recomp",
+      "repo": "IamWilmar/nier-recomp",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "nights-nx",
