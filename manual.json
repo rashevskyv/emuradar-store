@@ -1813,5 +1813,11 @@
     "title": "ds3-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "cznn999/dishonored-nx",
+    "title": "dishonored-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
