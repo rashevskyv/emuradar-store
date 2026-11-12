@@ -1819,5 +1819,11 @@
     "title": "dishonored-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "cznn999/cod-nx",
+    "title": "Call of Duty (2003) + United Offensive (czn999)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
