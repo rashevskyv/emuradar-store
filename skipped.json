@@ -55,6 +55,11 @@
   "reason": "no published release"
  },
  {
+  "name": "dishonored-nx",
+  "repo": "cznn999/dishonored-nx",
+  "reason": "only .rar/.zst archives: not supported"
+ },
+ {
   "name": "ds1-nx",
   "repo": "VasilkovND/ds1-nx",
   "reason": "no .nro or .zip asset"
@@ -62,6 +67,11 @@
  {
   "name": "ds2-nx",
   "repo": "VasilkovND/ds2-nx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
+  "name": "ds3-nx",
+  "repo": "VasilkovND/ds3-nx",
   "reason": "no .nro or .zip asset"
  },
  {
@@ -390,6 +400,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "super-odyssey-pc-recomp",
+  "repo": "Simon3Sarkis/super-odyssey-pc-recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "switch-artemis-launcher",
   "repo": "alula/switch-artemis-launcher",
   "reason": "no .nro inside the archive assets"
@@ -428,6 +443,11 @@
   "name": "switch-store-releases",
   "repo": "HayatoG/switch-store-releases",
   "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "switch2-hub-patcher",
+  "repo": "mkopec/switch2-hub-patcher",
+  "reason": "no published release"
  },
  {
   "name": "switchports",

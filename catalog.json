@@ -423,6 +423,14 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "cod-nx",
+      "title": "Call of Duty (2003) + United Offensive (czn999)",
+      "repo": "cznn999/cod-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "cod6-nx",
       "title": "COD6 NX",
       "repo": "GreenieSparkles/COD6-NX",
@@ -656,6 +664,14 @@
       "version_hint": "0.95b"
     },
     {
+      "name": "dishonored-nx",
+      "title": "dishonored-nx",
+      "repo": "cznn999/dishonored-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "dk64recomp-nx",
       "title": "DK64Recomp NX",
       "repo": "Trinalord777/DK64Recomp-NX",
@@ -718,6 +734,14 @@
       "name": "ds2_switch",
       "title": "DS2_switch",
       "repo": "XDASCATX/DS2_switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "ds3-nx",
+      "title": "ds3-nx",
+      "repo": "VasilkovND/ds3-nx",
       "section": "Digest",
       "version_hint": "",
       "category": "port"
@@ -1501,6 +1525,13 @@
       "category": "port"
     },
     {
+      "name": "madagascar-nx-port",
+      "title": "MADAGASCAR NX PORT",
+      "repo": "gerisson1996/MADAGASCAR-NX-PORT",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "maprando-nx",
       "title": "MapRando-NX",
       "repo": "Starwarsfan2099/MapRando-NX",
@@ -1914,6 +1945,13 @@
       "name": "nxcloud",
       "title": "NXCloud",
       "repo": "denpingus/NXCloud",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "nxdock",
+      "title": "NXDock",
+      "repo": "DeLFuS77/NXDock",
       "section": "",
       "version_hint": ""
     },
@@ -2797,6 +2835,13 @@
       "version_hint": "*released*"
     },
     {
+      "name": "super-odyssey-pc-recomp",
+      "title": "super odyssey pc recomp",
+      "repo": "Simon3Sarkis/super-odyssey-pc-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "supermariowar-nx",
       "title": "supermariowar nx",
       "repo": "brendongl/supermariowar-nx",
@@ -2910,6 +2955,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "switch2-hub-patcher",
+      "title": "switch2 hub patcher",
+      "repo": "mkopec/switch2-hub-patcher",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "switchaircast",
