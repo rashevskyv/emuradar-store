@@ -1834,5 +1834,8 @@
   },
   {
     "repo": "mkopec/switch2-hub-patcher"
+  },
+  {
+    "repo": "9cs/MonHex"
   }
 ]
