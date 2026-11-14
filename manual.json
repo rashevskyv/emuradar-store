@@ -1867,5 +1867,8 @@
     "title": "NexStatus",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT"
   }
 ]
