@@ -1855,5 +1855,17 @@
   },
   {
     "repo": "ChanseyIsTheBest/renut_nx_ultimate_base"
+  },
+  {
+    "repo": "CompSciOrBust/Amiigo",
+    "title": "Amiigo",
+    "section": "Digest",
+    "category": "emu"
+  },
+  {
+    "repo": "jean-louis1776/nextendo-status",
+    "title": "NexStatus",
+    "section": "Digest",
+    "category": "port"
   }
 ]
