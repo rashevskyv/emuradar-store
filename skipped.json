@@ -140,6 +140,11 @@
   "reason": "only .rar/.zst archives: not supported"
  },
  {
+  "name": "hotel-luigi",
+  "repo": "Zexyen/Hotel-Luigi",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "ipswitch-megamix-patches",
   "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
   "reason": "no published release"
@@ -270,6 +275,11 @@
   "reason": "no published release"
  },
  {
+  "name": "offline-wan-emulator",
+  "repo": "TheNxtBigThing8/Offline-WAN-Emulator",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "p5r-android",
   "repo": "Brandon04Gonzalez/p5r-android",
   "reason": "no .nro or .zip asset"
@@ -302,6 +312,11 @@
  {
   "name": "projectcane",
   "repo": "NaGaa95/ProjectCane",
+  "reason": "no published release"
+ },
+ {
+  "name": "renut_nx_ultimate_base",
+  "repo": "ChanseyIsTheBest/renut_nx_ultimate_base",
   "reason": "no published release"
  },
  {
@@ -357,6 +372,11 @@
  {
   "name": "sms-switch",
   "repo": "chasem-dev/sms-switch",
+  "reason": "no published release"
+ },
+ {
+  "name": "sonic-cd-11-decompilation",
+  "repo": "heyjoeway/Sonic-CD-11-Decompilation",
   "reason": "no published release"
  },
  {

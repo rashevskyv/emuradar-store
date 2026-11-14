@@ -80,6 +80,14 @@
       "category": "port"
     },
     {
+      "name": "amiigo",
+      "title": "Amiigo",
+      "repo": "CompSciOrBust/Amiigo",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "angrybirds2_nx",
       "title": "Angry Birds 2",
       "repo": "NaGaa95/angrybirds2_nx",
@@ -1189,6 +1197,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "hotel-luigi",
+      "title": "Hotel Luigi",
+      "repo": "Zexyen/Hotel-Luigi",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "hotpursuitnx",
       "title": "Hot Pursuit",
       "repo": "PalindromicBreadLoaf/HotPursuitNX",
@@ -1278,6 +1293,13 @@
       "name": "joyoff",
       "title": "JoyOff",
       "repo": "sthetix/JoyOff",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "kaihen",
+      "title": "kaihen",
+      "repo": "ouncebrew/kaihen",
       "section": "",
       "version_hint": ""
     },
@@ -1645,6 +1667,13 @@
       "category": "port"
     },
     {
+      "name": "monhex",
+      "title": "MonHex",
+      "repo": "9cs/MonHex",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mulmash_nx",
       "title": "MUL.MASH.TAB.BA.GAL.GAL",
       "repo": "ChanseyIsTheBest/mulmash_nx",
@@ -1740,6 +1769,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "nextendo-status",
+      "title": "NexStatus",
+      "repo": "jean-louis1776/nextendo-status",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "nexus-usb-hats",
@@ -1984,6 +2021,13 @@
       "repo": "nzp-team/nzportable",
       "section": "PC",
       "version_hint": "2.0.0"
+    },
+    {
+      "name": "offline-wan-emulator",
+      "title": "Offline WAN Emulator",
+      "repo": "TheNxtBigThing8/Offline-WAN-Emulator",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "open-ptk",
@@ -2380,6 +2424,13 @@
       "name": "renut-nx",
       "title": "renut nx",
       "repo": "ChanseyIsTheBest/renut-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "renut_nx_ultimate_base",
+      "title": "renut nx ultimate base",
+      "repo": "ChanseyIsTheBest/renut_nx_ultimate_base",
       "section": "",
       "version_hint": ""
     },
@@ -3079,6 +3130,13 @@
       "version_hint": "*released*"
     },
     {
+      "name": "th08-switch",
+      "title": "th08 switch",
+      "repo": "saekaze/th08-switch",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "the-legend-of-zelda-link-s-awakening-dx-hd-alek-s-ultimate-nx-edition",
       "title": "Link's Awakening DX HD - Alek's Ultimate NX Edition (Alek)",
       "repo": "Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition",
@@ -3290,6 +3348,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "torchlight-rekindled",
+      "title": "torchlight rekindled",
+      "repo": "GreenSwampDweller/torchlight-rekindled",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "torrentshopnx",
