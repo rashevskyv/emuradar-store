@@ -1891,5 +1891,11 @@
   },
   {
     "repo": "darkuni/cruisn-blast-recomp"
+  },
+  {
+    "repo": "recomp-nx/tw2de_nx",
+    "title": "tw2de_nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
