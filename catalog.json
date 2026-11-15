@@ -1304,6 +1304,13 @@
       "version_hint": ""
     },
     {
+      "name": "kart-recomp",
+      "title": "kart recomp",
+      "repo": "MIXIDtheSilly/kart-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "katamari-nx",
       "title": "katamari nx",
       "repo": "ChanseyIsTheBest/katamari-nx",
@@ -1547,6 +1554,13 @@
       "category": "port"
     },
     {
+      "name": "lza-recomp",
+      "title": "LZA Recomp",
+      "repo": "MrWifi1143/LZA-Recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "madagascar-nx-port",
       "title": "MADAGASCAR NX PORT",
       "repo": "gerisson1996/MADAGASCAR-NX-PORT",
@@ -1670,6 +1684,13 @@
       "name": "monhex",
       "title": "MonHex",
       "repo": "9cs/MonHex",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "mp3-nx",
+      "title": "mp3 nx",
+      "repo": "VasilkovND/mp3-nx",
       "section": "",
       "version_hint": ""
     },
@@ -2270,6 +2291,13 @@
       "category": "port"
     },
     {
+      "name": "pokeplatinum",
+      "title": "pokeplatinum",
+      "repo": "cybervisi0n/pokeplatinum",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "polonx-switchu",
       "title": "SwitchU",
       "repo": "PoloNX/SwitchU",
@@ -2431,6 +2459,13 @@
       "name": "renut_nx_ultimate_base",
       "title": "renut nx ultimate base",
       "repo": "ChanseyIsTheBest/renut_nx_ultimate_base",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "resident-code-veronica-nx-port",
+      "title": "RESIDENT CODE VERONICA NX PORT",
+      "repo": "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
       "section": "",
       "version_hint": ""
     },
@@ -2670,6 +2705,13 @@
       "repo": "heyjoeway/Sonic-CD-11-Decompilation",
       "section": "PC",
       "version_hint": "1.3.0"
+    },
+    {
+      "name": "sonic-racing-crossworlds-switch-mods",
+      "title": "sonic racing crossworlds switch mods",
+      "repo": "M-Essa11/sonic-racing-crossworlds-switch-mods",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "sonic-riders-recomp",

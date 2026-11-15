@@ -155,6 +155,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "kart-recomp",
+  "repo": "MIXIDtheSilly/kart-recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "kinestop",
   "repo": "sertay1/kinestop",
   "reason": "no .nro inside the archive assets"
@@ -190,9 +195,19 @@
   "reason": "no published release"
  },
  {
+  "name": "lza-recomp",
+  "repo": "MrWifi1143/LZA-Recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "mlbpowerpros2008recomp",
   "repo": "HopeAero/MLBPowerPros2008Recomp",
   "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "mp3-nx",
+  "repo": "VasilkovND/mp3-nx",
+  "reason": "no published release"
  },
  {
   "name": "n64modernruntime-nx",
@@ -378,6 +393,11 @@
   "name": "sonic-cd-11-decompilation",
   "repo": "heyjoeway/Sonic-CD-11-Decompilation",
   "reason": "no published release"
+ },
+ {
+  "name": "sonic-racing-crossworlds-switch-mods",
+  "repo": "M-Essa11/sonic-racing-crossworlds-switch-mods",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "sonic-riders-recomp",
