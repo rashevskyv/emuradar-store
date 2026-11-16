@@ -1921,5 +1921,11 @@
     "title": "soulcalibur2-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "xsaja/brextreme-nx",
+    "title": "brextreme-nx",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
