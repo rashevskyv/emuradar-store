@@ -45,6 +45,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "cruisn-blast-recomp",
+  "repo": "darkuni/cruisn-blast-recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "d3hack",
   "repo": "god-jester/d3hack",
   "reason": "no .nro inside the archive assets"
@@ -53,11 +58,6 @@
   "name": "dantes-inferno-nx",
   "repo": "VasilkovND/dantes-inferno-nx",
   "reason": "no published release"
- },
- {
-  "name": "dishonored-nx",
-  "repo": "cznn999/dishonored-nx",
-  "reason": "only .rar/.zst archives: not supported"
  },
  {
   "name": "ds1-nx",
@@ -173,6 +173,11 @@
   "name": "l4t-oc-kernel",
   "repo": "NaGaa95/L4T-OC-Kernel",
   "reason": "only .rar/.zst archives: not supported"
+ },
+ {
+  "name": "lasrecomp",
+  "repo": "peiikai/LASRecomp",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "lbdcsh_nx",

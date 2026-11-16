@@ -497,6 +497,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "cruisn-blast-recomp",
+      "title": "cruisn blast recomp",
+      "repo": "darkuni/cruisn-blast-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "css_nx",
       "title": "Counter Strike Source",
       "repo": "NaGaa95/css_nx",
@@ -1418,6 +1425,13 @@
       "name": "laserlords",
       "title": "Laserlords",
       "repo": "RandyVie/Laserlords",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "lasrecomp",
+      "title": "LASRecomp",
+      "repo": "peiikai/LASRecomp",
       "section": "",
       "version_hint": ""
     },
@@ -2853,6 +2867,13 @@
       "category": "port"
     },
     {
+      "name": "spm-nx",
+      "title": "spm nx",
+      "repo": "Eladerino/spm-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "status-monitor-overlay",
       "title": "Status-Monitor-Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
@@ -3420,6 +3441,14 @@
       "repo": "ChanseyIsTheBest/tte_nx",
       "section": "Android",
       "version_hint": "1.0.0"
+    },
+    {
+      "name": "tw2de_nx",
+      "title": "tw2de_nx",
+      "repo": "recomp-nx/tw2de_nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "tweebbonx",
