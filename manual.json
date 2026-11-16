@@ -1912,5 +1912,8 @@
     "title": "sims3-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "adamrb/ch7218-flash"
   }
 ]
