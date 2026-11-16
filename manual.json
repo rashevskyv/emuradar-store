@@ -1906,5 +1906,11 @@
   },
   {
     "repo": "cheviman/tmnt-port"
+  },
+  {
+    "repo": "Zumoly/sims3-nx",
+    "title": "sims3-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
