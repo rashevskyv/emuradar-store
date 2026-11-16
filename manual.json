@@ -1915,5 +1915,11 @@
   },
   {
     "repo": "adamrb/ch7218-flash"
+  },
+  {
+    "repo": "markaurel13/soulcalibur2-nx",
+    "title": "soulcalibur2-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
