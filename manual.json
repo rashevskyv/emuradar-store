@@ -1942,5 +1942,11 @@
     "title": "Jak Project (Port)",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "ChanseyIsTheBest/rr6-nx",
+    "title": "rr6-nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
