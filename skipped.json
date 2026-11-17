@@ -35,6 +35,11 @@
   "reason": "no published release"
  },
  {
+  "name": "ch7218-flash",
+  "repo": "adamrb/ch7218-flash",
+  "reason": "no published release"
+ },
+ {
   "name": "chanseyisthebest-mesa-switch",
   "repo": "ChanseyIsTheBest/mesa-switch",
   "reason": "no published release"
@@ -155,6 +160,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "kaidrop",
+  "repo": "mizuiroame/kaidrop",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "kart-recomp",
   "repo": "MIXIDtheSilly/kart-recomp",
   "reason": "no .nro inside the archive assets"
@@ -162,6 +172,11 @@
  {
   "name": "kinestop",
   "repo": "sertay1/kinestop",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "kirby-forgotten-land-recompiled",
+  "repo": "scarxity/kirby-forgotten-land-recompiled",
   "reason": "no .nro inside the archive assets"
  },
  {
@@ -367,6 +382,11 @@
  {
   "name": "saltynx",
   "repo": "ChanseyIsTheBest/SaltyNX",
+  "reason": "no published release"
+ },
+ {
+  "name": "seedsow-fs-kaihen",
+  "repo": "Malev0/seedsow-fs-kaihen",
   "reason": "no published release"
  },
  {

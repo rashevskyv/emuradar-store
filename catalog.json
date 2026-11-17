@@ -274,6 +274,14 @@
       "category": "port"
     },
     {
+      "name": "brextreme-nx",
+      "title": "brextreme-nx",
+      "repo": "xsaja/brextreme-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "bs_joyride_nx",
       "title": "BombSquad: Joyride Modpack",
       "repo": "aks796/bs_joyride_nx",
@@ -361,6 +369,13 @@
       "repo": "NaGaa95/Cemu-nx",
       "section": "Emulators",
       "version_hint": "1.1.0"
+    },
+    {
+      "name": "ch7218-flash",
+      "title": "ch7218 flash",
+      "repo": "adamrb/ch7218-flash",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "chanseyisthebest-marathonrecomp-nx",
@@ -1273,6 +1288,14 @@
       "category": "emu"
     },
     {
+      "name": "jak-project-nx",
+      "title": "Jak Project (Port)",
+      "repo": "fildicio/jak-project-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "jak-project-switch",
       "title": "Jak Project",
       "repo": "fildicio/jak-project-switch",
@@ -1300,6 +1323,13 @@
       "name": "joyoff",
       "title": "JoyOff",
       "repo": "sthetix/JoyOff",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "kaidrop",
+      "title": "kaidrop",
+      "repo": "mizuiroame/kaidrop",
       "section": "",
       "version_hint": ""
     },
@@ -1368,6 +1398,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "kirby-forgotten-land-recompiled",
+      "title": "kirby forgotten land recompiled",
+      "repo": "scarxity/kirby-forgotten-land-recompiled",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "kirikiroid2-nx",
@@ -2578,6 +2615,13 @@
       "version_hint": ""
     },
     {
+      "name": "seedsow-fs-kaihen",
+      "title": "seedsow fs kaihen",
+      "repo": "Malev0/seedsow-fs-kaihen",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sh2-nx",
       "title": "Silent Hill 2 — sh2-nx",
       "repo": "cutarev/sh2-nx",
@@ -2645,6 +2689,14 @@
       "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "sims3-nx",
+      "title": "sims3-nx",
+      "repo": "Zumoly/sims3-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "sleepingdogs_nx",
@@ -2820,6 +2872,14 @@
       "repo": "NaGaa95/sotn_nx",
       "section": "Android",
       "version_hint": "1.0.2"
+    },
+    {
+      "name": "soulcalibur2-nx",
+      "title": "soulcalibur2-nx",
+      "repo": "markaurel13/soulcalibur2-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "spacecadetpinball-nx",
@@ -3405,6 +3465,13 @@
       "version_hint": "v0.25"
     },
     {
+      "name": "tmnt-port",
+      "title": "tmnt port",
+      "repo": "cheviman/tmnt-port",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "torchlight-nx",
       "title": "Torchlight",
       "repo": "liartes/torchlight-nx",
@@ -3490,6 +3557,13 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "unleashedrecomp-nx2",
+      "title": "UnleashedRecomp NX2",
+      "repo": "Lightmaxifrvr/UnleashedRecomp-NX2",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "usf4-nx",
