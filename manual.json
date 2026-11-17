@@ -1948,5 +1948,8 @@
     "title": "rr6-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Coaltergeist/Brothership-Recomp"
   }
 ]
