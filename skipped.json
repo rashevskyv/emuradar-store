@@ -20,6 +20,16 @@
   "reason": "no published release"
  },
  {
+  "name": "brothership-recomp",
+  "repo": "Coaltergeist/Brothership-Recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "budokai3-nx",
+  "repo": "ramonDias07/Budokai3-nx",
+  "reason": "no .nro or .zip asset"
+ },
+ {
   "name": "bully_nx",
   "repo": "NaGaa95/bully_nx",
   "reason": "no published release"
@@ -153,11 +163,6 @@
   "name": "ipswitch-megamix-patches",
   "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
   "reason": "no published release"
- },
- {
-  "name": "iz2s-platform",
-  "repo": "byizmysh/IZ2S-Platform",
-  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "kaidrop",
@@ -553,11 +558,6 @@
   "name": "uam",
   "repo": "PalindromicBreadLoaf/uam",
   "reason": "no published release"
- },
- {
-  "name": "wiicompiled-switch2",
-  "repo": "6rimson/WiiCompiled-Switch2",
-  "reason": "no .nro or .zip asset"
  },
  {
   "name": "wireguard-nx",

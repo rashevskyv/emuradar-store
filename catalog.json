@@ -282,6 +282,13 @@
       "category": "emu"
     },
     {
+      "name": "brothership-recomp",
+      "title": "Brothership Recomp",
+      "repo": "Coaltergeist/Brothership-Recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "bs_joyride_nx",
       "title": "BombSquad: Joyride Modpack",
       "repo": "aks796/bs_joyride_nx",
@@ -295,6 +302,13 @@
       "repo": "ChanseyIsTheBest/btd5_nx",
       "section": "Android",
       "version_hint": "1.0.1"
+    },
+    {
+      "name": "budokai3-nx",
+      "title": "Budokai3 nx",
+      "repo": "ramonDias07/Budokai3-nx",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "bully_nx",
@@ -2559,6 +2573,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "rr6-nx",
+      "title": "rr6-nx",
+      "repo": "ChanseyIsTheBest/rr6-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "rt64",
