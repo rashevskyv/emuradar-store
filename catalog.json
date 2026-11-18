@@ -11,14 +11,6 @@
       "version_hint": "R28-NX1"
     },
     {
-      "name": "4ifir-checker",
-      "title": "4IFIR",
-      "repo": "rashevskyv/4ifir-checker",
-      "section": "Digest",
-      "version_hint": "",
-      "category": "port"
-    },
-    {
       "name": "a8retry_nx",
       "title": "Asphalt 8: Retry",
       "repo": "aks796/a8retry_nx",
