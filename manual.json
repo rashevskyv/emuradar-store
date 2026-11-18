@@ -1267,9 +1267,7 @@
   },
   {
     "repo": "rashevskyv/4ifir-checker",
-    "title": "4IFIR",
-    "section": "Digest",
-    "category": "port"
+    "disabled": true
   },
   {
     "repo": "gitgarage/openblack",
