@@ -1191,9 +1191,7 @@
   },
   {
     "repo": "rashevskyv/kefir",
-    "title": "Kefir",
-    "section": "Digest",
-    "category": "port"
+    "disabled": true
   },
   {
     "repo": "fungalspores/prototype-switch",
