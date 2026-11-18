@@ -1953,5 +1953,11 @@
   },
   {
     "repo": "ChanseyIsTheBest/blur-nx"
+  },
+  {
+    "repo": "HDErick/OpenBLOPS-NX",
+    "title": "OpenBLOPS-NX",
+    "section": "Digest",
+    "category": "tool"
   }
 ]
