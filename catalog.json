@@ -647,6 +647,14 @@
       "category": "port"
     },
     {
+      "name": "deadpool-nx",
+      "title": "deadpool-nx",
+      "repo": "BanhMi93P/deadpool-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "deadspace_nx",
       "title": "deadspace_nx",
       "repo": "hazevauks/deadspace_nx",
@@ -1078,6 +1086,14 @@
       "title": "Golden Balloon",
       "repo": "boraeskicioglu/goldenballoon_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "gow-collection-nx",
+      "title": "gow-collection-nx",
+      "repo": "gerisson1996/gow-collection-nx",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -1692,6 +1708,13 @@
       "category": "port"
     },
     {
+      "name": "metroid-zero-mission-nx",
+      "title": "Metroid Zero Mission NX",
+      "repo": "JJTapiaXX/Metroid-Zero-Mission-NX",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mgr-nx-deko",
       "title": "mgr-nx-deko",
       "repo": "tuancapoo/mgr-nx-deko",
@@ -2129,6 +2152,14 @@
       "section": "Digest",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "openblops-nx",
+      "title": "OpenBLOPS-NX",
+      "repo": "HDErick/OpenBLOPS-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "openbor",
@@ -3142,6 +3173,13 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "switch2-gamevault",
+      "title": "switch2 gamevault",
+      "repo": "flex36ty/switch2-gamevault",
+      "section": "",
+      "version_hint": ""
     },
     {
       "name": "switch2-hub-patcher",
