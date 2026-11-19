@@ -1968,5 +1968,8 @@
     "title": "gow-collection-nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "flex36ty/switch2-gamevault"
   }
 ]
