@@ -2043,5 +2043,11 @@
     "title": "Silent Hill: Homecoming NX (Gerisson)",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "FurryLilManChild/MP2-nx",
+    "title": "MP2-nx",
+    "section": "Digest",
+    "category": "emu"
   }
 ]
