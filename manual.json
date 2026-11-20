@@ -1995,5 +1995,53 @@
   },
   {
     "repo": "Jorsall1/LostOdysseyRecomp"
+  },
+  {
+    "repo": "TOM-BadEN/KeyX",
+    "title": "KeyX",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "turtle-insect/Neumann",
+    "title": "Neumann",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "tailiang2008/NX-Pctl-Manager",
+    "title": "Pctl Manager",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "gtiersma/Simple_Mod_Alchemist",
+    "title": "Simple Mod Alchemist",
+    "section": "Digest",
+    "category": "tool"
+  },
+  {
+    "repo": "thcolin/gamepad-media-center-aggregator",
+    "title": "GMCA",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "panalexeu/singularity-nx",
+    "title": "singularity-nx",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+    "title": "Silent Hill 3 NX (Gerisson)",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "gerisson1996/SHH-NX-PORT",
+    "title": "Silent Hill: Homecoming NX (Gerisson)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
