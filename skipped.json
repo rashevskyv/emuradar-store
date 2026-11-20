@@ -155,6 +155,11 @@
   "reason": "only .rar/.zst archives: not supported"
  },
  {
+  "name": "hooklink",
+  "repo": "dsi-hub/HookLink",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "hotel-luigi",
   "repo": "Zexyen/Hotel-Luigi",
   "reason": "no .nro inside the archive assets"
@@ -172,6 +177,11 @@
  {
   "name": "kart-recomp",
   "repo": "MIXIDtheSilly/kart-recomp",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "keyx",
+  "repo": "TOM-BadEN/KeyX",
   "reason": "no .nro inside the archive assets"
  },
  {
@@ -408,6 +418,11 @@
   "name": "simple-trainer-bl2-switch",
   "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
   "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "singularity-nx",
+  "repo": "panalexeu/singularity-nx",
+  "reason": "no .nro or .zip asset"
  },
  {
   "name": "sm",

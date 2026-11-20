@@ -64,6 +64,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "ad0ky-lostodysseyrecomp",
+      "title": "LostOdysseyRecomp",
+      "repo": "Ad0ky/LostOdysseyRecomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "alice-nx",
       "title": "alice-nx",
       "repo": "adumah/alice-nx",
@@ -1038,6 +1045,14 @@
       "category": "port"
     },
     {
+      "name": "gamepad-media-center-aggregator",
+      "title": "GMCA",
+      "repo": "thcolin/gamepad-media-center-aggregator",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "gdash_nx",
       "title": "Geometry Dash",
       "repo": "NaGaa95/gdash_nx",
@@ -1248,6 +1263,13 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "hooklink",
+      "title": "HookLink",
+      "repo": "dsi-hub/HookLink",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "hotel-luigi",
       "title": "Hotel Luigi",
       "repo": "Zexyen/Hotel-Luigi",
@@ -1349,6 +1371,13 @@
       "category": "port"
     },
     {
+      "name": "jorsall1-lostodysseyrecomp",
+      "title": "LostOdysseyRecomp",
+      "repo": "Jorsall1/LostOdysseyRecomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "joyoff",
       "title": "JoyOff",
       "repo": "sthetix/JoyOff",
@@ -1389,6 +1418,14 @@
       "repo": "ChanseyIsTheBest/ketsui-nx",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "keyx",
+      "title": "KeyX",
+      "repo": "TOM-BadEN/KeyX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "khux_nx",
@@ -1589,13 +1626,6 @@
       "version_hint": "1.0.1"
     },
     {
-      "name": "lostodysseyrecomp",
-      "title": "LostOdysseyRecomp",
-      "repo": "Ad0ky/LostOdysseyRecomp",
-      "section": "",
-      "version_hint": ""
-    },
-    {
       "name": "lsfg-nx",
       "title": "lsfg",
       "repo": "PalindromicBreadLoaf/lsfg-nx",
@@ -1686,6 +1716,13 @@
       "version_hint": ""
     },
     {
+      "name": "medabots-nx",
+      "title": "medabots nx",
+      "repo": "Niecks90/medabots-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "mega-man-w-switch-homebrew",
       "title": "mega man w switch homebrew",
       "repo": "Vroccolli/mega-man-w-switch-homebrew",
@@ -1765,6 +1802,14 @@
       "repo": "9cs/MonHex",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "mp2-nx",
+      "title": "MP2-nx",
+      "repo": "FurryLilManChild/MP2-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
     },
     {
       "name": "mp3-nx",
@@ -1861,6 +1906,14 @@
       "repo": "NaGaa95/NetherSX2_nx",
       "section": "Emulators",
       "version_hint": "1.2.1"
+    },
+    {
+      "name": "neumann",
+      "title": "Neumann",
+      "repo": "turtle-insect/Neumann",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "nextbeans",
@@ -2050,6 +2103,14 @@
       "name": "nx-mod-manager",
       "title": "NX Mod Manager",
       "repo": "TOM-BadEN/NX-Mod-Manager",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
+      "name": "nx-pctl-manager",
+      "title": "Pctl Manager",
+      "repo": "tailiang2008/NX-Pctl-Manager",
       "section": "Digest",
       "version_hint": "",
       "category": "tool"
@@ -2613,6 +2674,13 @@
       "category": "port"
     },
     {
+      "name": "rune",
+      "title": "RUNE",
+      "repo": "tderop/RUNE",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "s4ep2-nx",
       "title": "Sonic 4 Episode 2",
       "repo": "boraeskicioglu/s4ep2-nx",
@@ -2697,6 +2765,14 @@
       "category": "emu"
     },
     {
+      "name": "shh-nx-port",
+      "title": "Silent Hill: Homecoming NX (Gerisson)",
+      "repo": "gerisson1996/SHH-NX-PORT",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "shield-l4t-initramfs",
       "title": "shield-l4t-initramfs",
       "repo": "NaGaa95/shield-l4t-initramfs",
@@ -2728,6 +2804,14 @@
       "category": "port"
     },
     {
+      "name": "silent-hill-hd-collection-nx",
+      "title": "Silent Hill 3 NX (Gerisson)",
+      "repo": "gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "simple-trainer-bl2-switch",
       "title": "Simple Trainer BL2 SWITCH",
       "repo": "theoui2/Simple-Trainer-BL2-SWITCH",
@@ -2735,9 +2819,25 @@
       "version_hint": ""
     },
     {
+      "name": "simple_mod_alchemist",
+      "title": "Simple Mod Alchemist",
+      "repo": "gtiersma/Simple_Mod_Alchemist",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
+    },
+    {
       "name": "sims3-nx",
       "title": "sims3-nx",
       "repo": "Zumoly/sims3-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "singularity-nx",
+      "title": "singularity-nx",
+      "repo": "panalexeu/singularity-nx",
       "section": "Digest",
       "version_hint": "",
       "category": "port"
@@ -3507,6 +3607,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "emu"
+    },
+    {
+      "name": "titansouls-nx",
+      "title": "TitanSouls-nx",
+      "repo": "siiiimooooon/TitanSouls-nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "tmc",
