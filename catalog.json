@@ -1670,6 +1670,14 @@
       "version_hint": ""
     },
     {
+      "name": "manhunt1_nx",
+      "title": "manhunt1_nx",
+      "repo": "marmota94/manhunt1_nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "maprando-nx",
       "title": "MapRando-NX",
       "repo": "Starwarsfan2099/MapRando-NX",
