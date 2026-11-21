@@ -2049,5 +2049,11 @@
     "title": "MP2-nx",
     "section": "Digest",
     "category": "emu"
+  },
+  {
+    "repo": "marmota94/manhunt1_nx",
+    "title": "manhunt1_nx",
+    "section": "Digest",
+    "category": "port"
   }
 ]
