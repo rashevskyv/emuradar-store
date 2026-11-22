@@ -2055,5 +2055,11 @@
     "title": "manhunt1_nx",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "Thorhax/SonicDreamTeam-NX",
+    "title": "SonicDreamTeam-NX",
+    "section": "Digest",
+    "category": "port"
   }
 ]
