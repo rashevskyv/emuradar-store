@@ -2995,6 +2995,14 @@
       "category": "port"
     },
     {
+      "name": "sonicdreamteam-nx",
+      "title": "SonicDreamTeam-NX",
+      "repo": "Thorhax/SonicDreamTeam-NX",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "sonicjump_nx",
       "title": "Sonic Jump",
       "repo": "ChanseyIsTheBest/sonicjump_nx",
