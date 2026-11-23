@@ -2728,6 +2728,13 @@
       "category": "port"
     },
     {
+      "name": "sasrt-nx",
+      "title": "sasrt nx",
+      "repo": "ChanseyIsTheBest/sasrt-nx",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "sc5p2-nx",
       "title": "sc5p2 nx",
       "repo": "BiroGrafx/sc5p2-nx",
@@ -2738,6 +2745,13 @@
       "name": "seedsow-fs-kaihen",
       "title": "seedsow fs kaihen",
       "repo": "Malev0/seedsow-fs-kaihen",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "sfa-nx",
+      "title": "sfa nx",
+      "repo": "digdat0/sfa-nx",
       "section": "",
       "version_hint": ""
     },
