@@ -2070,5 +2070,11 @@
   },
   {
     "repo": "jhaizhou-ops/d2r-mobile"
+  },
+  {
+    "repo": "kyokoxdev/mw2nx",
+    "title": "mw2nx",
+    "section": "Digest",
+    "category": "tool"
   }
 ]
