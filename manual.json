@@ -2076,5 +2076,23 @@
     "title": "mw2nx",
     "section": "Digest",
     "category": "tool"
+  },
+  {
+    "repo": "dannyboyjaros/switchclassof09",
+    "title": "Class of '09",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "FrcJules/honeydew",
+    "title": "Honeydew",
+    "section": "Digest",
+    "category": "emu"
+  },
+  {
+    "repo": "granule256/isaac-mod-runtime",
+    "title": "isaac Switch Mod Runtime (kelinls)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
