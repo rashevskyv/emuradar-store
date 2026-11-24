@@ -65,6 +65,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "d2r-mobile",
+  "repo": "jhaizhou-ops/d2r-mobile",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "d3hack",
   "repo": "god-jester/d3hack",
   "reason": "no .nro inside the archive assets"
@@ -170,6 +175,21 @@
   "reason": "no published release"
  },
  {
+  "name": "isaac-mod-runtime",
+  "repo": "granule256/isaac-mod-runtime",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "jak-project-nx",
+  "repo": "fildicio/jak-project-nx",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "jak-project-switch",
+  "repo": "fildicio/jak-project-switch",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "kaidrop",
   "repo": "mizuiroame/kaidrop",
   "reason": "no .nro or .zip asset"
@@ -243,6 +263,11 @@
   "name": "mp3-nx",
   "repo": "VasilkovND/mp3-nx",
   "reason": "no published release"
+ },
+ {
+  "name": "mw2nx",
+  "repo": "kyokoxdev/mw2nx",
+  "reason": "no .nro inside the archive assets"
  },
  {
   "name": "n64modernruntime-nx",

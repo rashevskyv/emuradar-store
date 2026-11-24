@@ -584,6 +584,13 @@
       "category": "emu"
     },
     {
+      "name": "d2r-mobile",
+      "title": "d2r mobile",
+      "repo": "jhaizhou-ops/d2r-mobile",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "d3hack",
       "title": "~~Diablo III~~",
       "repo": "god-jester/d3hack",
@@ -1263,6 +1270,14 @@
       "version_hint": "1.0.0"
     },
     {
+      "name": "honeydew",
+      "title": "Honeydew",
+      "repo": "FrcJules/honeydew",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "emu"
+    },
+    {
       "name": "hooklink",
       "title": "HookLink",
       "repo": "dsi-hub/HookLink",
@@ -1312,6 +1327,14 @@
       "title": "Ipswitch Megamix Patches",
       "repo": "ChanseyIsTheBest/IPSwitch-MegaMix-Patches",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "isaac-mod-runtime",
+      "title": "isaac Switch Mod Runtime (kelinls)",
+      "repo": "granule256/isaac-mod-runtime",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
@@ -1833,6 +1856,14 @@
       "section": "Manual",
       "version_hint": "",
       "category": "port"
+    },
+    {
+      "name": "mw2nx",
+      "title": "mw2nx",
+      "repo": "kyokoxdev/mw2nx",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "tool"
     },
     {
       "name": "n64modernruntime-nx",
@@ -3324,6 +3355,14 @@
       "repo": "depende3000/SwitchAirCast",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "switchclassof09",
+      "title": "Class of '09",
+      "repo": "dannyboyjaros/switchclassof09",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "switchinfonx",
