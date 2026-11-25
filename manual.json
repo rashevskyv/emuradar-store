@@ -2094,5 +2094,11 @@
     "title": "isaac Switch Mod Runtime (kelinls)",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "sertay1/switchdeck",
+    "title": "SwitchDeck",
+    "section": "Digest",
+    "category": "port"
   }
 ]
