@@ -3365,6 +3365,14 @@
       "category": "port"
     },
     {
+      "name": "switchdeck",
+      "title": "SwitchDeck",
+      "repo": "sertay1/switchdeck",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "switchinfonx",
       "title": "SwitchInfoNX",
       "repo": "dodosiiii/SwitchInfoNX",
