@@ -2636,6 +2636,14 @@
       "version_hint": "4.0.2"
     },
     {
+      "name": "renpy-switch",
+      "title": "renpy-switch",
+      "repo": "uyjulian/renpy-switch",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "renut-nx",
       "title": "renut nx",
       "repo": "ChanseyIsTheBest/renut-nx",

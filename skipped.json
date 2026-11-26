@@ -180,6 +180,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "iz2s-platform",
+  "repo": "byizmysh/IZ2S-Platform",
+  "reason": "IZ2S-0.3.2-linux.tar.gz: archive over 300 MB"
+ },
+ {
   "name": "jak-project-nx",
   "repo": "fildicio/jak-project-nx",
   "reason": "no .nro inside the archive assets"
@@ -362,11 +367,6 @@
  {
   "name": "picofly-pro-cfw",
   "repo": "NaGaa95/Picofly-Pro-CFW",
-  "reason": "no published release"
- },
- {
-  "name": "pipensx",
-  "repo": "i3sey/pipensx",
   "reason": "no published release"
  },
  {
