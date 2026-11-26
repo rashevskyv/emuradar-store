@@ -2106,5 +2106,8 @@
     "title": "renpy-switch",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "dyzz/srw64-recomp"
   }
 ]
