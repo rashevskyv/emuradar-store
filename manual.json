@@ -2100,5 +2100,11 @@
     "title": "SwitchDeck",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "uyjulian/renpy-switch",
+    "title": "renpy-switch",
+    "section": "Digest",
+    "category": "port"
   }
 ]
