@@ -25,11 +25,6 @@
   "reason": "no .nro inside the archive assets"
  },
  {
-  "name": "budokai3-nx",
-  "repo": "ramonDias07/Budokai3-nx",
-  "reason": "no .nro or .zip asset"
- },
- {
   "name": "bully_nx",
   "repo": "NaGaa95/bully_nx",
   "reason": "no published release"
@@ -178,11 +173,6 @@
   "name": "isaac-mod-runtime",
   "repo": "granule256/isaac-mod-runtime",
   "reason": "no .nro inside the archive assets"
- },
- {
-  "name": "iz2s-platform",
-  "repo": "byizmysh/IZ2S-Platform",
-  "reason": "IZ2S-0.3.2-linux.tar.gz: archive over 300 MB"
  },
  {
   "name": "jak-project-nx",

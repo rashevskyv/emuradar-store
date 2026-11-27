@@ -1422,6 +1422,14 @@
       "version_hint": ""
     },
     {
+      "name": "kaikart",
+      "title": "WiiCompiled Switch2",
+      "repo": "6rimson/KaiKart",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "kart-recomp",
       "title": "kart recomp",
       "repo": "MIXIDtheSilly/kart-recomp",
@@ -3147,6 +3155,13 @@
       "version_hint": ""
     },
     {
+      "name": "srw64-recomp",
+      "title": "srw64 recomp",
+      "repo": "dyzz/srw64-recomp",
+      "section": "",
+      "version_hint": ""
+    },
+    {
       "name": "status-monitor-overlay",
       "title": "Status-Monitor-Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
@@ -3806,6 +3821,13 @@
       "name": "unleashedrecomp-nx2",
       "title": "UnleashedRecomp NX2",
       "repo": "Lightmaxifrvr/UnleashedRecomp-NX2",
+      "section": "",
+      "version_hint": ""
+    },
+    {
+      "name": "uprisingnx",
+      "title": "UprisingNX",
+      "repo": "Angle-Brackets/UprisingNX",
       "section": "",
       "version_hint": ""
     },
