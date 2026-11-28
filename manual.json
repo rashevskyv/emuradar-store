@@ -2118,5 +2118,23 @@
     "title": "WiiCompiled Switch2",
     "section": "Digest",
     "category": "port"
+  },
+  {
+    "repo": "mamesj/fulldex",
+    "title": "pokemon ds widescreen",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "clownswords-slop/threehouses_touchscreen",
+    "title": "Fire Emblem: Three Houses touchscreen/mouse mod (hellogoodbyefriend)",
+    "section": "Digest",
+    "category": "port"
+  },
+  {
+    "repo": "Tobias103435/mkwii-switch-builder",
+    "title": "Mario Kart Wii Builder (TobiSinte)",
+    "section": "Digest",
+    "category": "port"
   }
 ]
