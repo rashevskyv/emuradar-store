@@ -250,6 +250,11 @@
   "reason": "no .nro inside the archive assets"
  },
  {
+  "name": "mkwii-switch-builder",
+  "repo": "Tobias103435/mkwii-switch-builder",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
   "name": "mlbpowerpros2008recomp",
   "repo": "HopeAero/MLBPowerPros2008Recomp",
   "reason": "no .nro inside the archive assets"
@@ -567,6 +572,11 @@
  {
   "name": "tailscale-nx",
   "repo": "UnderwaterOverground/tailscale-nx",
+  "reason": "no .nro inside the archive assets"
+ },
+ {
+  "name": "threehouses_touchscreen",
+  "repo": "clownswords-slop/threehouses_touchscreen",
   "reason": "no .nro inside the archive assets"
  },
  {

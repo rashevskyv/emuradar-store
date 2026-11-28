@@ -1012,6 +1012,14 @@
       "category": "port"
     },
     {
+      "name": "fulldex",
+      "title": "pokemon ds widescreen",
+      "repo": "mamesj/fulldex",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
       "name": "funkin",
       "title": "FNF: V-Slice (unofficial port)",
       "repo": "leleletus/Funkin",
@@ -1819,6 +1827,14 @@
       "repo": "digdat0/mkdd-nx",
       "section": "",
       "version_hint": ""
+    },
+    {
+      "name": "mkwii-switch-builder",
+      "title": "Mario Kart Wii Builder (TobiSinte)",
+      "repo": "Tobias103435/mkwii-switch-builder",
+      "section": "Digest",
+      "version_hint": "",
+      "category": "port"
     },
     {
       "name": "mlbpowerpros2008recomp",
@@ -3586,6 +3602,14 @@
       "title": "The Room Three",
       "repo": "ChanseyIsTheBest/theroomthree_nx",
       "section": "Manual",
+      "version_hint": "",
+      "category": "port"
+    },
+    {
+      "name": "threehouses_touchscreen",
+      "title": "Fire Emblem: Three Houses touchscreen/mouse mod (hellogoodbyefriend)",
+      "repo": "clownswords-slop/threehouses_touchscreen",
+      "section": "Digest",
       "version_hint": "",
       "category": "port"
     },
